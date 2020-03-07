@@ -1,0 +1,2833 @@
+Zone,District,Fiscal Month Number,Fiscal Year,Month Name,Diversion Rate-Total (Total Recycling / Total Waste),Capture Rate-Paper (Total Paper / Max Paper),Capture Rate-MGP (Total MGP / Max MGP),Capture Rate-Total ((Total Recycling - Leaves (Recycling)) / (Max Paper + Max MGP))x100
+Brooklyn North,BKN01,10,2019,April,14.7,44.9,43.0,44.1
+Brooklyn North,BKN02,10,2019,April,20.0,34.2,57.9,41.2
+Brooklyn North,BKN03,10,2019,April,12.2,33.5,44.9,38.2
+Brooklyn North,BKN04,10,2019,April,15.5,35.2,68.5,48.8
+Brooklyn North,BKN05,10,2019,April,10.1,22.3,45.1,31.5
+Brooklyn North,BKN08,10,2019,April,16.4,44.5,59.4,50.6
+Brooklyn North,BKN09,10,2019,April,14.0,34.0,47.9,39.2
+Brooklyn North,BKN16,10,2019,April,9.3,20.3,35.2,26.4
+Brooklyn North,BKN17,10,2019,April,13.4,28.4,60.8,40.7
+Brooklyn South,BKS06,10,2019,April,29.0,46.4,83.0,57.2
+Brooklyn South,BKS07,10,2019,April,20.4,48.0,72.5,57.3
+Brooklyn South,BKS10,10,2019,April,23.8,52.6,75.4,61.3
+Brooklyn South,BKS11,10,2019,April,18.4,45.0,64.8,52.5
+Brooklyn South,BKS12,10,2019,April,14.9,47.6,42.0,45.3
+Brooklyn South,BKS13,10,2019,April,14.3,41.0,51.5,45.6
+Brooklyn South,BKS14,10,2019,April,15.0,38.6,57.6,45.1
+Brooklyn South,BKS15,10,2019,April,18.7,46.6,63.1,52.9
+Brooklyn South,BKS18,10,2019,April,14.7,38.5,71.6,50.3
+Bronx,BX01,10,2019,April,7.1,19.6,27.9,23.2
+Bronx,BX02,10,2019,April,13.4,33.2,60.2,45.0
+Bronx,BX03,10,2019,April,9.8,25.0,43.1,32.9
+Bronx,BX04,10,2019,April,12.3,30.0,53.3,40.2
+Bronx,BX05,10,2019,April,11.4,27.3,52.6,38.3
+Bronx,BX06,10,2019,April,14.1,36.4,51.9,43.2
+Bronx,BX07,10,2019,April,14.6,33.4,69.4,49.1
+Bronx,BX08,10,2019,April,21.2,43.7,84.1,57.6
+Bronx,BX09,10,2019,April,10.1,22.0,45.7,31.6
+Bronx,BX10,10,2019,April,21.0,38.1,84.8,55.8
+Bronx,BX11,10,2019,April,16.7,34.6,61.1,44.6
+Bronx,BX12,10,2019,April,20.6,34.0,82.4,52.4
+Manhattan,MN01,10,2019,April,28.0,46.2,78.9,54.1
+Manhattan,MN02,10,2019,April,26.7,39.9,88.2,51.5
+Manhattan,MN03,10,2019,April,14.1,41.0,44.9,42.7
+Manhattan,MN04,10,2019,April,23.6,34.2,78.9,45.0
+Manhattan,MN05,10,2019,April,21.1,34.2,66.5,42.0
+Manhattan,MN06,10,2019,April,24.0,35.4,79.2,45.9
+Manhattan,MN07,10,2019,April,27.5,41.8,86.6,52.6
+Manhattan,MN08,10,2019,April,26.7,42.9,83.6,52.7
+Manhattan,MN09,10,2019,April,18.5,55.8,53.4,54.8
+Manhattan,MN10,10,2019,April,14.6,40.0,58.8,48.2
+Manhattan,MN11,10,2019,April,11.3,39.9,32.9,36.9
+Manhattan,MN12,10,2019,April,16.4,43.8,62.0,51.8
+Queens East,QE07,10,2019,April,20.2,47.4,70.1,56.0
+Queens East,QE08,10,2019,April,16.5,27.8,56.2,36.2
+Queens East,QE10,10,2019,April,19.0,41.3,96.1,60.8
+Queens East,QE11,10,2019,April,24.2,59.8,96.2,72.7
+Queens East,QE12,10,2019,April,13.9,35.0,68.6,50.5
+Queens East,QE13,10,2019,April,20.0,36.5,97.6,58.2
+Queens East,QE14,10,2019,April,14.0,32.9,45.4,37.7
+Queens West,QW01,10,2019,April,19.8,49.1,78.5,60.3
+Queens West,QW02,10,2019,April,21.0,49.0,74.4,58.6
+Queens West,QW03,10,2019,April,13.9,30.0,62.5,42.3
+Queens West,QW04,10,2019,April,14.9,33.4,65.5,45.6
+Queens West,QW05,10,2019,April,23.3,45.6,86.9,61.3
+Queens West,QW06,10,2019,April,20.4,28.5,78.1,40.5
+Queens West,QW09,10,2019,April,21.8,39.7,78.9,54.6
+Staten Island,SI01,10,2019,April,20.2,45.3,85.6,59.6
+Staten Island,SI02,10,2019,April,19.3,50.6,86.6,63.4
+Staten Island,SI03,10,2019,April,19.5,52.1,90.6,65.8
+Brooklyn North,BKN01,2,2019,August,16.6,51.2,44.8,48.3
+Brooklyn North,BKN02,2,2019,August,19.4,32.5,55.9,39.4
+Brooklyn North,BKN03,2,2019,August,12.3,35.6,40.0,37.6
+Brooklyn North,BKN04,2,2019,August,15.7,37.5,60.1,47.8
+Brooklyn North,BKN05,2,2019,August,10.0,23.5,38.9,30.5
+Brooklyn North,BKN08,2,2019,August,15.7,46.2,49.9,47.9
+Brooklyn North,BKN09,2,2019,August,12.7,33.5,42.3,37.0
+Brooklyn North,BKN16,2,2019,August,9.7,21.9,32.0,26.5
+Brooklyn North,BKN17,2,2019,August,13.3,27.6,56.0,38.9
+Brooklyn South,BKS06,2,2019,August,26.7,43.1,76.3,52.9
+Brooklyn South,BKS07,2,2019,August,20.0,44.7,65.9,53.1
+Brooklyn South,BKS10,2,2019,August,22.3,53.0,70.4,59.9
+Brooklyn South,BKS11,2,2019,August,18.5,44.7,56.7,49.5
+Brooklyn South,BKS12,2,2019,August,15.7,50.8,38.3,45.1
+Brooklyn South,BKS13,2,2019,August,14.5,38.0,50.7,43.5
+Brooklyn South,BKS14,2,2019,August,14.2,32.7,52.5,39.1
+Brooklyn South,BKS15,2,2019,August,19.2,46.8,57.6,51.1
+Brooklyn South,BKS18,2,2019,August,14.4,31.2,61.1,41.8
+Bronx,BX01,2,2019,August,6.8,17.3,26.8,21.4
+Bronx,BX02,2,2019,August,12.9,30.5,55.2,41.1
+Bronx,BX03,2,2019,August,9.1,22.6,37.8,29.1
+Bronx,BX04,2,2019,August,11.8,26.7,50.4,36.9
+Bronx,BX05,2,2019,August,11.0,24.0,49.8,35.1
+Bronx,BX06,2,2019,August,12.4,34.6,44.9,39.0
+Bronx,BX07,2,2019,August,14.3,31.8,64.1,45.6
+Bronx,BX08,2,2019,August,21.0,39.7,81.5,53.3
+Bronx,BX09,2,2019,August,9.7,22.9,37.3,29.5
+Bronx,BX10,2,2019,August,21.1,38.9,73.3,52.5
+Bronx,BX11,2,2019,August,17.1,35.1,53.5,42.4
+Bronx,BX12,2,2019,August,21.2,33.7,72.2,49.0
+Manhattan,MN01,2,2019,August,25.7,44.3,60.5,48.7
+Manhattan,MN02,2,2019,August,24.5,39.2,70.7,47.6
+Manhattan,MN03,2,2019,August,13.0,38.6,41.4,39.8
+Manhattan,MN04,2,2019,August,22.4,33.0,67.3,42.2
+Manhattan,MN05,2,2019,August,19.1,31.7,51.7,37.1
+Manhattan,MN06,2,2019,August,22.1,34.3,61.4,41.6
+Manhattan,MN07,2,2019,August,25.8,41.4,70.8,49.3
+Manhattan,MN08,2,2019,August,25.5,42.2,67.5,49.0
+Manhattan,MN09,2,2019,August,17.1,56.5,49.2,53.4
+Manhattan,MN10,2,2019,August,13.9,35.5,54.5,43.6
+Manhattan,MN11,2,2019,August,11.6,41.2,31.5,37.0
+Manhattan,MN12,2,2019,August,15.4,41.5,56.0,47.7
+Queens East,QE07,2,2019,August,19.7,46.1,58.4,51.0
+Queens East,QE08,2,2019,August,16.5,26.8,49.6,33.5
+Queens East,QE10,2,2019,August,18.3,34.4,77.5,49.7
+Queens East,QE11,2,2019,August,23.8,52.0,78.3,61.4
+Queens East,QE12,2,2019,August,13.3,31.2,57.2,43.7
+Queens East,QE13,2,2019,August,22.7,32.1,81.3,49.6
+Queens East,QE14,2,2019,August,14.1,31.1,41.8,35.4
+Queens West,QW01,2,2019,August,19.7,50.3,68.2,57.4
+Queens West,QW02,2,2019,August,21.3,50.0,67.1,56.8
+Queens West,QW03,2,2019,August,14.0,30.4,56.3,40.7
+Queens West,QW04,2,2019,August,14.8,33.9,57.0,43.1
+Queens West,QW05,2,2019,August,22.8,46.0,79.7,59.4
+Queens West,QW06,2,2019,August,20.3,30.1,64.8,39.5
+Queens West,QW09,2,2019,August,21.2,39.6,70.7,52.0
+Staten Island,SI01,2,2019,August,19.8,38.7,69.4,49.6
+Staten Island,SI02,2,2019,August,17.9,42.6,67.6,51.5
+Staten Island,SI03,2,2019,August,19.3,45.4,76.1,56.3
+Brooklyn North,BKN01,6,2019,December,16.5,52.3,46.8,50.0
+Brooklyn North,BKN02,6,2019,December,21.2,34.5,58.0,41.2
+Brooklyn North,BKN03,6,2019,December,12.4,36.4,42.0,38.7
+Brooklyn North,BKN04,6,2019,December,16.3,39.4,69.0,51.5
+Brooklyn North,BKN05,6,2019,December,10.6,26.6,43.4,33.5
+Brooklyn North,BKN08,6,2019,December,17.1,49.7,55.0,51.9
+Brooklyn North,BKN09,6,2019,December,14.3,32.2,46.8,37.5
+Brooklyn North,BKN16,6,2019,December,10.8,25.9,39.0,31.3
+Brooklyn North,BKN17,6,2019,December,14.4,28.9,59.9,40.2
+Brooklyn South,BKS06,6,2019,December,30.0,48.6,79.5,57.4
+Brooklyn South,BKS07,6,2019,December,20.6,44.9,68.8,53.6
+Brooklyn South,BKS10,6,2019,December,25.7,55.9,72.6,62.0
+Brooklyn South,BKS11,6,2019,December,20.1,46.4,60.0,51.4
+Brooklyn South,BKS12,6,2019,December,16.3,50.4,44.8,48.1
+Brooklyn South,BKS13,6,2019,December,14.7,45.4,45.4,45.4
+Brooklyn South,BKS14,6,2019,December,15.3,34.2,52.1,39.8
+Brooklyn South,BKS15,6,2019,December,20.4,49.4,59.9,53.2
+Brooklyn South,BKS18,6,2019,December,16.4,33.3,62.2,42.5
+Bronx,BX01,6,2019,December,7.0,20.4,23.4,21.7
+Bronx,BX02,6,2019,December,13.9,38.0,52.9,44.7
+Bronx,BX03,6,2019,December,8.7,25.7,30.7,28.0
+Bronx,BX04,6,2019,December,12.0,32.1,44.5,37.7
+Bronx,BX05,6,2019,December,11.3,29.6,44.3,36.2
+Bronx,BX06,6,2019,December,13.2,33.8,41.3,37.2
+Bronx,BX07,6,2019,December,15.2,38.3,62.1,49.0
+Bronx,BX08,6,2019,December,21.4,38.6,74.3,49.7
+Bronx,BX09,6,2019,December,10.6,25.8,44.8,33.6
+Bronx,BX10,6,2019,December,22.2,41.7,81.0,56.0
+Bronx,BX11,6,2019,December,17.4,35.9,55.6,43.1
+Bronx,BX12,6,2019,December,21.0,34.8,73.1,48.7
+Manhattan,MN01,6,2019,December,29.5,50.2,69.6,55.2
+Manhattan,MN02,6,2019,December,28.5,43.8,79.2,52.9
+Manhattan,MN03,6,2019,December,14.8,44.6,40.8,42.9
+Manhattan,MN04,6,2019,December,24.8,36.7,71.8,45.7
+Manhattan,MN05,6,2019,December,21.4,34.9,58.4,40.9
+Manhattan,MN06,6,2019,December,25.2,38.9,70.6,47.1
+Manhattan,MN07,6,2019,December,28.7,45.0,76.4,53.0
+Manhattan,MN08,6,2019,December,28.4,47.0,74.1,54.0
+Manhattan,MN09,6,2019,December,19.1,58.7,49.3,54.5
+Manhattan,MN10,6,2019,December,14.8,42.6,51.9,46.8
+Manhattan,MN11,6,2019,December,11.6,42.2,28.8,36.2
+Manhattan,MN12,6,2019,December,16.9,48.1,55.4,51.4
+Queens East,QE07,6,2019,December,21.6,50.0,62.9,54.7
+Queens East,QE08,6,2019,December,17.9,28.5,50.7,34.8
+Queens East,QE10,6,2019,December,20.4,36.8,76.7,49.5
+Queens East,QE11,6,2019,December,26.1,49.2,73.6,57.0
+Queens East,QE12,6,2019,December,17.0,32.2,64.5,45.7
+Queens East,QE13,6,2019,December,22.4,31.0,82.5,47.4
+Queens East,QE14,6,2019,December,14.5,33.9,41.1,36.5
+Queens West,QW01,6,2019,December,21.1,49.3,70.3,57.0
+Queens West,QW02,6,2019,December,21.7,49.0,67.3,55.6
+Queens West,QW03,6,2019,December,15.5,32.4,61.4,43.0
+Queens West,QW04,6,2019,December,16.1,35.6,60.2,44.5
+Queens West,QW05,6,2019,December,24.7,49.5,82.1,61.4
+Queens West,QW06,6,2019,December,23.5,32.0,66.4,40.9
+Queens West,QW09,6,2019,December,23.8,41.9,73.1,53.2
+Staten Island,SI01,6,2019,December,22.2,39.5,70.3,49.3
+Staten Island,SI02,6,2019,December,20.7,43.4,68.2,51.3
+Staten Island,SI03,6,2019,December,22.3,48.7,72.8,56.4
+Brooklyn North,BKN01,8,2019,February,15.9,48.3,48.2,48.2
+Brooklyn North,BKN02,8,2019,February,20.6,33.1,60.2,40.8
+Brooklyn North,BKN03,8,2019,February,13.0,35.6,45.6,39.7
+Brooklyn North,BKN04,8,2019,February,15.8,37.6,67.9,50.0
+Brooklyn North,BKN05,8,2019,February,10.6,24.6,46.1,33.4
+Brooklyn North,BKN08,8,2019,February,17.0,47.0,60.6,52.6
+Brooklyn North,BKN09,8,2019,February,14.0,31.8,45.1,36.6
+Brooklyn North,BKN16,8,2019,February,9.7,21.5,38.3,28.4
+Brooklyn North,BKN17,8,2019,February,14.2,27.5,60.8,39.6
+Brooklyn South,BKS06,8,2019,February,29.2,44.2,85.5,55.9
+Brooklyn South,BKS07,8,2019,February,20.2,41.6,70.5,52.1
+Brooklyn South,BKS10,8,2019,February,24.3,48.3,77.5,58.9
+Brooklyn South,BKS11,8,2019,February,18.9,42.2,62.9,49.8
+Brooklyn South,BKS12,8,2019,February,15.5,48.8,45.0,47.2
+Brooklyn South,BKS13,8,2019,February,14.4,40.4,49.0,44.3
+Brooklyn South,BKS14,8,2019,February,15.3,32.2,56.6,39.8
+Brooklyn South,BKS15,8,2019,February,19.2,44.5,61.8,50.8
+Brooklyn South,BKS18,8,2019,February,15.7,29.8,63.2,40.5
+Bronx,BX01,8,2019,February,7.0,19.2,25.8,22.1
+Bronx,BX02,8,2019,February,13.1,34.0,51.9,42.1
+Bronx,BX03,8,2019,February,9.0,23.7,35.3,28.9
+Bronx,BX04,8,2019,February,11.9,28.2,48.4,37.3
+Bronx,BX05,8,2019,February,10.8,25.3,46.6,34.9
+Bronx,BX06,8,2019,February,14.4,36.3,49.5,42.2
+Bronx,BX07,8,2019,February,14.2,32.9,61.1,45.6
+Bronx,BX08,8,2019,February,20.3,36.0,81.6,50.2
+Bronx,BX09,8,2019,February,9.9,22.3,44.3,31.3
+Bronx,BX10,8,2019,February,20.3,37.1,82.2,53.5
+Bronx,BX11,8,2019,February,16.1,32.8,57.0,41.6
+Bronx,BX12,8,2019,February,19.1,31.0,75.2,47.1
+Manhattan,MN01,8,2019,February,27.5,44.9,69.2,51.2
+Manhattan,MN02,8,2019,February,27.4,39.6,82.4,50.7
+Manhattan,MN03,8,2019,February,14.8,41.6,43.4,42.4
+Manhattan,MN04,8,2019,February,23.9,33.8,73.8,44.1
+Manhattan,MN05,8,2019,February,21.7,34.0,63.2,41.5
+Manhattan,MN06,8,2019,February,23.7,34.5,72.0,44.1
+Manhattan,MN07,8,2019,February,27.4,41.1,77.5,50.5
+Manhattan,MN08,8,2019,February,26.7,41.3,77.6,50.6
+Manhattan,MN09,8,2019,February,18.4,54.8,49.9,52.6
+Manhattan,MN10,8,2019,February,14.5,38.8,54.6,45.9
+Manhattan,MN11,8,2019,February,11.4,38.3,31.5,35.3
+Manhattan,MN12,8,2019,February,16.5,43.5,58.3,50.1
+Queens East,QE07,8,2019,February,20.4,45.7,66.7,53.4
+Queens East,QE08,8,2019,February,17.5,28.8,54.1,35.9
+Queens East,QE10,8,2019,February,19.7,33.0,81.4,48.5
+Queens East,QE11,8,2019,February,24.8,48.7,83.6,59.8
+Queens East,QE12,8,2019,February,14.7,31.8,69.3,47.5
+Queens East,QE13,8,2019,February,21.2,30.6,89.2,49.3
+Queens East,QE14,8,2019,February,13.2,30.1,40.5,33.9
+Queens West,QW01,8,2019,February,20.2,46.1,74.6,56.5
+Queens West,QW02,8,2019,February,21.7,46.6,72.6,56.1
+Queens West,QW03,8,2019,February,14.8,29.6,62.3,41.5
+Queens West,QW04,8,2019,February,15.3,31.7,62.2,42.8
+Queens West,QW05,8,2019,February,24.3,45.1,85.8,59.9
+Queens West,QW06,8,2019,February,21.2,29.8,71.5,40.5
+Queens West,QW09,8,2019,February,22.1,39.3,75.8,52.6
+Staten Island,SI01,8,2019,February,19.6,36.1,76.1,48.9
+Staten Island,SI02,8,2019,February,20.6,40.7,73.7,51.2
+Staten Island,SI03,8,2019,February,21.6,43.0,81.1,55.2
+Brooklyn North,BKN01,7,2019,January,17.1,49.9,52.0,50.7
+Brooklyn North,BKN02,7,2019,January,22.5,34.0,63.8,42.5
+Brooklyn North,BKN03,7,2019,January,13.9,38.6,49.2,42.9
+Brooklyn North,BKN04,7,2019,January,17.1,38.9,73.8,53.2
+Brooklyn North,BKN05,7,2019,January,11.7,27.0,50.7,36.7
+Brooklyn North,BKN08,7,2019,January,19.8,51.6,66.9,57.9
+Brooklyn North,BKN09,7,2019,January,14.9,32.7,46.9,37.9
+Brooklyn North,BKN16,7,2019,January,10.1,22.7,38.0,29.0
+Brooklyn North,BKN17,7,2019,January,15.7,29.7,67.8,43.6
+Brooklyn South,BKS06,7,2019,January,31.1,46.0,86.1,57.4
+Brooklyn South,BKS07,7,2019,January,22.2,46.5,74.8,56.8
+Brooklyn South,BKS10,7,2019,January,26.9,53.2,80.9,63.3
+Brooklyn South,BKS11,7,2019,January,20.9,47.2,68.3,54.9
+Brooklyn South,BKS12,7,2019,January,16.1,49.8,47.5,48.9
+Brooklyn South,BKS13,7,2019,January,15.8,44.9,52.4,48.2
+Brooklyn South,BKS14,7,2019,January,16.4,34.6,58.8,42.2
+Brooklyn South,BKS15,7,2019,January,20.5,46.7,66.3,53.8
+Brooklyn South,BKS18,7,2019,January,17.1,32.1,68.3,43.7
+Bronx,BX01,7,2019,January,8.5,24.2,29.8,26.7
+Bronx,BX02,7,2019,January,13.6,32.5,55.5,42.8
+Bronx,BX03,7,2019,January,11.1,28.7,40.3,33.9
+Bronx,BX04,7,2019,January,13.7,32.8,54.1,42.4
+Bronx,BX05,7,2019,January,12.6,29.1,51.7,39.3
+Bronx,BX06,7,2019,January,16.3,40.9,54.3,46.9
+Bronx,BX07,7,2019,January,16.1,37.8,68.1,51.4
+Bronx,BX08,7,2019,January,23.7,41.9,89.1,56.7
+Bronx,BX09,7,2019,January,11.4,24.0,47.8,33.7
+Bronx,BX10,7,2019,January,22.0,39.6,87.4,57.0
+Bronx,BX11,7,2019,January,18.8,34.7,60.2,44.0
+Bronx,BX12,7,2019,January,21.2,34.3,81.7,51.5
+Manhattan,MN01,7,2019,January,29.1,45.6,70.3,52.0
+Manhattan,MN02,7,2019,January,29.8,42.0,85.8,53.3
+Manhattan,MN03,7,2019,January,15.3,42.9,42.8,42.9
+Manhattan,MN04,7,2019,January,24.5,34.2,72.8,44.2
+Manhattan,MN05,7,2019,January,24.1,36.3,68.2,44.5
+Manhattan,MN06,7,2019,January,24.5,34.5,72.0,44.2
+Manhattan,MN07,7,2019,January,29.0,41.3,80.9,51.5
+Manhattan,MN08,7,2019,January,28.3,41.1,78.4,50.7
+Manhattan,MN09,7,2019,January,19.3,56.0,50.8,53.6
+Manhattan,MN10,7,2019,January,15.9,42.7,56.7,49.0
+Manhattan,MN11,7,2019,January,12.3,40.0,33.2,36.9
+Manhattan,MN12,7,2019,January,18.2,47.3,62.8,54.3
+Queens East,QE07,7,2019,January,22.3,48.9,69.0,56.2
+Queens East,QE08,7,2019,January,18.5,28.8,56.7,36.7
+Queens East,QE10,7,2019,January,21.4,34.7,87.7,51.6
+Queens East,QE11,7,2019,January,27.9,52.4,87.7,63.7
+Queens East,QE12,7,2019,January,15.5,32.4,73.5,49.6
+Queens East,QE13,7,2019,January,23.5,30.9,93.8,51.0
+Queens East,QE14,7,2019,January,14.4,30.3,43.6,35.1
+Queens West,QW01,7,2019,January,21.9,48.8,81.0,60.5
+Queens West,QW02,7,2019,January,23.8,50.6,79.9,61.3
+Queens West,QW03,7,2019,January,16.1,30.4,67.3,43.8
+Queens West,QW04,7,2019,January,16.4,33.6,67.0,45.7
+Queens West,QW05,7,2019,January,26.1,47.7,92.7,64.1
+Queens West,QW06,7,2019,January,23.1,31.3,75.0,42.6
+Queens West,QW09,7,2019,January,24.6,41.6,81.2,56.0
+Staten Island,SI01,7,2019,January,21.8,39.7,79.8,52.5
+Staten Island,SI02,7,2019,January,22.6,44.2,76.8,54.6
+Staten Island,SI03,7,2019,January,23.4,46.4,82.4,57.9
+Brooklyn North,BKN01,1,2019,July,16.8,49.8,47.2,48.6
+Brooklyn North,BKN02,1,2019,July,19.3,31.9,56.5,39.1
+Brooklyn North,BKN03,1,2019,July,12.3,34.1,42.0,37.7
+Brooklyn North,BKN04,1,2019,July,15.5,36.2,60.5,47.3
+Brooklyn North,BKN05,1,2019,July,10.0,24.2,38.2,30.6
+Brooklyn North,BKN08,1,2019,July,15.6,44.7,51.1,47.6
+Brooklyn North,BKN09,1,2019,July,12.7,32.2,44.1,36.9
+Brooklyn North,BKN16,1,2019,July,9.4,21.4,31.5,26.0
+Brooklyn North,BKN17,1,2019,July,13.3,27.4,55.7,38.6
+Brooklyn South,BKS06,1,2019,July,27.1,43.2,77.3,53.2
+Brooklyn South,BKS07,1,2019,July,19.9,45.5,64.1,52.9
+Brooklyn South,BKS10,1,2019,July,23.3,55.2,72.4,62.1
+Brooklyn South,BKS11,1,2019,July,18.7,45.7,57.0,50.2
+Brooklyn South,BKS12,1,2019,July,15.5,47.9,40.4,44.5
+Brooklyn South,BKS13,1,2019,July,14.5,38.4,50.7,43.7
+Brooklyn South,BKS14,1,2019,July,14.2,33.2,51.4,39.1
+Brooklyn South,BKS15,1,2019,July,19.0,46.9,56.7,50.8
+Brooklyn South,BKS18,1,2019,July,14.5,31.7,61.6,42.3
+Bronx,BX01,1,2019,July,6.9,17.9,26.8,21.7
+Bronx,BX02,1,2019,July,13.3,30.4,58.6,42.5
+Bronx,BX03,1,2019,July,9.1,23.2,36.9,29.1
+Bronx,BX04,1,2019,July,11.6,27.2,48.9,36.5
+Bronx,BX05,1,2019,July,11.3,25.4,50.0,36.0
+Bronx,BX06,1,2019,July,11.8,31.8,44.1,37.1
+Bronx,BX07,1,2019,July,14.5,32.9,64.3,46.4
+Bronx,BX08,1,2019,July,20.9,39.8,82.3,53.6
+Bronx,BX09,1,2019,July,9.9,23.0,39.2,30.4
+Bronx,BX10,1,2019,July,20.9,38.6,75.5,53.3
+Bronx,BX11,1,2019,July,16.7,34.2,53.8,42.0
+Bronx,BX12,1,2019,July,21.1,34.2,72.2,49.3
+Manhattan,MN01,1,2019,July,26.1,44.4,63.6,49.6
+Manhattan,MN02,1,2019,July,24.6,39.3,71.2,47.9
+Manhattan,MN03,1,2019,July,13.4,39.4,42.4,40.7
+Manhattan,MN04,1,2019,July,22.6,33.9,67.7,43.0
+Manhattan,MN05,1,2019,July,20.0,32.1,57.1,38.9
+Manhattan,MN06,1,2019,July,22.7,35.0,64.6,43.0
+Manhattan,MN07,1,2019,July,26.2,42.5,70.8,50.1
+Manhattan,MN08,1,2019,July,25.8,42.6,68.9,49.7
+Manhattan,MN09,1,2019,July,16.7,54.1,49.6,52.2
+Manhattan,MN10,1,2019,July,14.2,36.5,55.7,44.7
+Manhattan,MN11,1,2019,July,10.9,38.1,30.8,35.0
+Manhattan,MN12,1,2019,July,15.5,42.1,55.7,48.0
+Queens East,QE07,1,2019,July,20.0,47.1,58.5,51.7
+Queens East,QE08,1,2019,July,16.7,27.1,49.8,33.8
+Queens East,QE10,1,2019,July,19.2,35.8,81.0,51.8
+Queens East,QE11,1,2019,July,24.7,52.9,78.9,62.1
+Queens East,QE12,1,2019,July,13.7,32.8,58.2,45.0
+Queens East,QE13,1,2019,July,22.5,33.0,84.3,51.2
+Queens East,QE14,1,2019,July,14.3,31.5,44.1,36.6
+Queens West,QW01,1,2019,July,19.4,48.9,68.4,56.7
+Queens West,QW02,1,2019,July,21.4,50.3,67.0,56.9
+Queens West,QW03,1,2019,July,14.1,31.6,55.1,41.0
+Queens West,QW04,1,2019,July,15.1,35.4,56.9,43.9
+Queens West,QW05,1,2019,July,22.9,46.5,80.7,60.1
+Queens West,QW06,1,2019,July,20.7,30.5,66.2,40.1
+Queens West,QW09,1,2019,July,21.2,40.0,70.3,52.0
+Staten Island,SI01,1,2019,July,19.8,39.8,71.9,51.2
+Staten Island,SI02,1,2019,July,18.7,42.9,73.3,53.7
+Staten Island,SI03,1,2019,July,19.8,45.3,80.1,57.6
+Brooklyn North,BKN01,12,2019,June,16.1,48.5,47.7,48.2
+Brooklyn North,BKN02,12,2019,June,20.5,37.2,57.7,43.2
+Brooklyn North,BKN03,12,2019,June,12.6,35.2,46.0,39.6
+Brooklyn North,BKN04,12,2019,June,16.4,39.9,68.0,51.4
+Brooklyn North,BKN05,12,2019,June,11.0,25.0,48.1,34.4
+Brooklyn North,BKN08,12,2019,June,17.2,48.6,59.7,53.1
+Brooklyn North,BKN09,12,2019,June,13.8,34.5,45.8,38.8
+Brooklyn North,BKN16,12,2019,June,9.9,22.2,36.6,28.1
+Brooklyn North,BKN17,12,2019,June,14.0,30.1,63.1,42.6
+Brooklyn South,BKS06,12,2019,June,29.4,47.9,82.4,58.1
+Brooklyn South,BKS07,12,2019,June,21.1,50.0,73.1,58.7
+Brooklyn South,BKS10,12,2019,June,24.9,54.5,78.3,63.5
+Brooklyn South,BKS11,12,2019,June,19.0,48.0,65.0,54.5
+Brooklyn South,BKS12,12,2019,June,15.3,46.0,44.8,45.5
+Brooklyn South,BKS13,12,2019,June,14.9,42.8,51.9,46.8
+Brooklyn South,BKS14,12,2019,June,15.8,39.4,62.8,47.5
+Brooklyn South,BKS15,12,2019,June,19.3,48.5,62.9,54.0
+Brooklyn South,BKS18,12,2019,June,15.1,39.0,74.4,51.6
+Bronx,BX01,12,2019,June,7.8,23.1,28.3,25.4
+Bronx,BX02,12,2019,June,14.2,40.6,56.7,47.6
+Bronx,BX03,12,2019,June,10.3,28.2,42.9,34.6
+Bronx,BX04,12,2019,June,13.2,33.3,56.3,43.3
+Bronx,BX05,12,2019,June,12.0,30.3,53.2,40.3
+Bronx,BX06,12,2019,June,15.0,39.5,52.2,45.0
+Bronx,BX07,12,2019,June,15.4,37.3,70.3,51.7
+Bronx,BX08,12,2019,June,22.0,48.7,84.9,61.1
+Bronx,BX09,12,2019,June,10.9,25.0,47.2,34.0
+Bronx,BX10,12,2019,June,21.2,38.5,85.8,56.5
+Bronx,BX11,12,2019,June,17.2,35.1,62.1,45.4
+Bronx,BX12,12,2019,June,21.8,34.9,83.7,53.4
+Manhattan,MN01,12,2019,June,28.7,48.1,77.1,55.1
+Manhattan,MN02,12,2019,June,28.3,43.3,89.2,54.3
+Manhattan,MN03,12,2019,June,14.6,45.4,42.7,44.2
+Manhattan,MN04,12,2019,June,23.8,35.4,75.9,45.1
+Manhattan,MN05,12,2019,June,21.0,35.2,62.2,41.7
+Manhattan,MN06,12,2019,June,23.6,35.8,73.7,45.0
+Manhattan,MN07,12,2019,June,28.0,43.6,84.6,53.5
+Manhattan,MN08,12,2019,June,26.9,43.8,81.7,53.0
+Manhattan,MN09,12,2019,June,18.7,59.0,52.4,56.1
+Manhattan,MN10,12,2019,June,14.9,42.2,58.2,49.2
+Manhattan,MN11,12,2019,June,11.8,42.3,32.9,38.2
+Manhattan,MN12,12,2019,June,16.4,46.0,59.0,51.7
+Queens East,QE07,12,2019,June,20.2,48.6,68.2,56.0
+Queens East,QE08,12,2019,June,16.9,29.3,53.6,36.5
+Queens East,QE10,12,2019,June,19.2,42.1,97.6,61.9
+Queens East,QE11,12,2019,June,23.8,61.6,92.7,72.7
+Queens East,QE12,12,2019,June,14.1,35.1,70.6,51.4
+Queens East,QE13,12,2019,June,21.5,38.1,100.3,60.2
+Queens East,QE14,12,2019,June,14.6,34.6,47.2,39.4
+Queens West,QW01,12,2019,June,20.6,53.2,78.3,62.7
+Queens West,QW02,12,2019,June,21.7,53.0,71.0,59.8
+Queens West,QW03,12,2019,June,14.4,32.4,62.5,43.8
+Queens West,QW04,12,2019,June,15.4,36.3,64.6,47.0
+Queens West,QW05,12,2019,June,23.8,47.8,85.1,62.0
+Queens West,QW06,12,2019,June,20.3,29.7,73.8,40.3
+Queens West,QW09,12,2019,June,22.8,44.3,79.1,57.5
+Staten Island,SI01,12,2019,June,21.5,48.2,90.4,63.2
+Staten Island,SI02,12,2019,June,19.3,52.8,84.1,63.9
+Staten Island,SI03,12,2019,June,20.5,54.8,95.4,69.2
+Brooklyn North,BKN01,9,2019,March,15.7,48.2,47.2,47.8
+Brooklyn North,BKN02,9,2019,March,19.7,31.2,56.4,38.4
+Brooklyn North,BKN03,9,2019,March,12.3,35.0,44.7,39.0
+Brooklyn North,BKN04,9,2019,March,16.0,37.5,69.4,50.6
+Brooklyn North,BKN05,9,2019,March,10.4,24.7,44.6,32.8
+Brooklyn North,BKN08,9,2019,March,16.9,45.9,60.5,51.9
+Brooklyn North,BKN09,9,2019,March,14.5,31.4,46.2,36.8
+Brooklyn North,BKN16,9,2019,March,9.3,21.8,34.8,27.1
+Brooklyn North,BKN17,9,2019,March,14.1,26.5,61.7,39.3
+Brooklyn South,BKS06,9,2019,March,30.6,43.6,81.3,54.3
+Brooklyn South,BKS07,9,2019,March,20.3,41.6,71.7,52.6
+Brooklyn South,BKS10,9,2019,March,24.7,47.8,76.1,58.1
+Brooklyn South,BKS11,9,2019,March,19.1,42.1,63.9,50.0
+Brooklyn South,BKS12,9,2019,March,15.3,47.1,45.9,46.6
+Brooklyn South,BKS13,9,2019,March,14.9,41.8,50.8,45.9
+Brooklyn South,BKS14,9,2019,March,15.2,32.2,55.8,39.6
+Brooklyn South,BKS15,9,2019,March,19.0,44.2,61.0,50.3
+Brooklyn South,BKS18,9,2019,March,15.4,29.4,62.0,39.9
+Bronx,BX01,9,2019,March,7.1,20.0,24.8,22.2
+Bronx,BX02,9,2019,March,13.3,34.6,53.0,42.9
+Bronx,BX03,9,2019,March,9.6,26.1,36.9,31.0
+Bronx,BX04,9,2019,March,12.4,30.4,48.8,38.7
+Bronx,BX05,9,2019,March,11.2,26.8,47.4,36.0
+Bronx,BX06,9,2019,March,14.8,36.9,48.2,42.0
+Bronx,BX07,9,2019,March,14.6,34.2,62.7,47.0
+Bronx,BX08,9,2019,March,20.6,37.0,79.8,50.4
+Bronx,BX09,9,2019,March,9.9,22.0,44.7,31.3
+Bronx,BX10,9,2019,March,20.1,36.0,79.6,51.9
+Bronx,BX11,9,2019,March,15.8,31.6,55.3,40.3
+Bronx,BX12,9,2019,March,19.1,30.9,74.1,46.6
+Manhattan,MN01,9,2019,March,28.3,45.9,71.5,52.5
+Manhattan,MN02,9,2019,March,27.9,40.5,82.6,51.3
+Manhattan,MN03,9,2019,March,14.5,40.6,42.0,41.2
+Manhattan,MN04,9,2019,March,23.9,33.9,73.5,44.1
+Manhattan,MN05,9,2019,March,21.7,34.5,61.6,41.4
+Manhattan,MN06,9,2019,March,23.3,33.9,69.1,43.0
+Manhattan,MN07,9,2019,March,27.8,41.0,80.1,51.1
+Manhattan,MN08,9,2019,March,26.9,42.2,76.7,51.0
+Manhattan,MN09,9,2019,March,18.6,55.0,47.8,51.8
+Manhattan,MN10,9,2019,March,14.6,39.0,54.7,46.1
+Manhattan,MN11,9,2019,March,11.5,38.9,31.1,35.4
+Manhattan,MN12,9,2019,March,16.6,43.4,57.5,49.8
+Queens East,QE07,9,2019,March,20.5,45.4,67.0,53.2
+Queens East,QE08,9,2019,March,16.9,27.3,52.7,34.5
+Queens East,QE10,9,2019,March,19.5,32.0,82.0,48.0
+Queens East,QE11,9,2019,March,24.6,46.6,82.0,57.9
+Queens East,QE12,9,2019,March,14.4,30.8,68.7,46.7
+Queens East,QE13,9,2019,March,20.7,28.5,88.0,47.5
+Queens East,QE14,9,2019,March,13.0,29.5,40.1,33.3
+Queens West,QW01,9,2019,March,20.3,45.4,77.0,56.9
+Queens West,QW02,9,2019,March,21.2,45.2,70.9,54.5
+Queens West,QW03,9,2019,March,14.6,28.9,62.1,41.0
+Queens West,QW04,9,2019,March,14.9,30.5,61.2,41.6
+Queens West,QW05,9,2019,March,24.2,42.8,84.9,58.1
+Queens West,QW06,9,2019,March,20.7,29.1,69.6,39.5
+Queens West,QW09,9,2019,March,22.5,38.0,77.1,52.2
+Staten Island,SI01,9,2019,March,19.7,34.9,74.9,47.7
+Staten Island,SI02,9,2019,March,20.2,39.4,72.6,50.0
+Staten Island,SI03,9,2019,March,20.6,40.5,77.8,52.4
+Brooklyn North,BKN01,11,2019,May,15.7,46.9,47.1,47.0
+Brooklyn North,BKN02,11,2019,May,19.5,32.6,57.7,40.0
+Brooklyn North,BKN03,11,2019,May,11.7,32.6,42.7,36.7
+Brooklyn North,BKN04,11,2019,May,15.0,35.0,64.4,47.0
+Brooklyn North,BKN05,11,2019,May,9.8,21.7,43.9,30.7
+Brooklyn North,BKN08,11,2019,May,15.7,42.5,55.1,47.7
+Brooklyn North,BKN09,11,2019,May,14.1,32.8,47.9,38.5
+Brooklyn North,BKN16,11,2019,May,9.8,20.8,37.9,27.8
+Brooklyn North,BKN17,11,2019,May,13.1,26.8,61.3,39.9
+Brooklyn South,BKS06,11,2019,May,28.7,44.4,82.6,55.7
+Brooklyn South,BKS07,11,2019,May,19.5,44.0,71.5,54.4
+Brooklyn South,BKS10,11,2019,May,24.0,49.7,76.5,59.9
+Brooklyn South,BKS11,11,2019,May,18.1,43.3,64.6,51.4
+Brooklyn South,BKS12,11,2019,May,15.7,46.9,47.3,47.0
+Brooklyn South,BKS13,11,2019,May,14.7,40.2,54.1,46.2
+Brooklyn South,BKS14,11,2019,May,14.2,35.8,56.2,42.8
+Brooklyn South,BKS15,11,2019,May,18.7,45.6,64.1,52.6
+Brooklyn South,BKS18,11,2019,May,14.5,35.9,74.3,49.6
+Bronx,BX01,11,2019,May,7.0,20.0,26.2,22.7
+Bronx,BX02,11,2019,May,13.7,34.6,60.5,45.9
+Bronx,BX03,11,2019,May,9.9,25.5,43.2,33.2
+Bronx,BX04,11,2019,May,12.3,31.3,51.7,40.2
+Bronx,BX05,11,2019,May,11.1,27.0,50.5,37.3
+Bronx,BX06,11,2019,May,15.3,37.7,54.4,45.0
+Bronx,BX07,11,2019,May,14.5,34.2,67.3,48.7
+Bronx,BX08,11,2019,May,21.0,44.7,81.5,57.3
+Bronx,BX09,11,2019,May,10.1,22.8,44.6,31.7
+Bronx,BX10,11,2019,May,21.0,37.2,83.9,54.9
+Bronx,BX11,11,2019,May,16.8,33.1,60.6,43.5
+Bronx,BX12,11,2019,May,20.4,32.4,77.2,49.4
+Manhattan,MN01,11,2019,May,27.2,45.5,73.5,52.2
+Manhattan,MN02,11,2019,May,25.9,38.3,84.2,49.3
+Manhattan,MN03,11,2019,May,14.2,41.0,43.2,42.0
+Manhattan,MN04,11,2019,May,23.4,34.0,77.5,44.5
+Manhattan,MN05,11,2019,May,20.7,33.1,65.9,41.0
+Manhattan,MN06,11,2019,May,23.2,34.8,74.0,44.2
+Manhattan,MN07,11,2019,May,26.8,40.8,81.6,50.6
+Manhattan,MN08,11,2019,May,26.1,41.9,81.5,51.4
+Manhattan,MN09,11,2019,May,18.8,55.7,52.8,54.4
+Manhattan,MN10,11,2019,May,14.2,39.5,56.1,46.7
+Manhattan,MN11,11,2019,May,11.3,38.8,32.6,36.1
+Manhattan,MN12,11,2019,May,16.4,44.3,59.4,50.9
+Queens East,QE07,11,2019,May,19.4,45.4,65.9,53.2
+Queens East,QE08,11,2019,May,16.0,27.2,51.2,34.3
+Queens East,QE10,11,2019,May,18.0,38.7,90.2,57.0
+Queens East,QE11,11,2019,May,23.3,56.3,94.0,69.7
+Queens East,QE12,11,2019,May,13.1,32.6,65.2,47.6
+Queens East,QE13,11,2019,May,20.3,36.7,91.2,56.1
+Queens East,QE14,11,2019,May,13.6,31.0,43.3,35.7
+Queens West,QW01,11,2019,May,18.8,47.1,73.7,57.2
+Queens West,QW02,11,2019,May,20.4,48.2,70.0,56.5
+Queens West,QW03,11,2019,May,13.4,29.3,59.6,40.8
+Queens West,QW04,11,2019,May,14.4,32.9,61.7,43.8
+Queens West,QW05,11,2019,May,22.9,43.5,82.8,58.4
+Queens West,QW06,11,2019,May,19.7,28.1,73.6,39.1
+Queens West,QW09,11,2019,May,21.4,38.7,75.1,52.5
+Staten Island,SI01,11,2019,May,20.0,42.8,81.2,56.5
+Staten Island,SI02,11,2019,May,17.9,46.9,77.9,57.9
+Staten Island,SI03,11,2019,May,18.9,50.2,87.4,63.4
+Brooklyn North,BKN01,5,2019,November,15.9,55.4,44.0,50.2
+Brooklyn North,BKN02,5,2019,November,21.2,33.1,59.0,40.3
+Brooklyn North,BKN03,5,2019,November,12.1,40.1,40.5,40.3
+Brooklyn North,BKN04,5,2019,November,15.2,40.4,62.7,50.5
+Brooklyn North,BKN05,5,2019,November,10.4,27.4,40.9,33.5
+Brooklyn North,BKN08,5,2019,November,17.1,53.7,53.4,53.5
+Brooklyn North,BKN09,5,2019,November,14.1,32.5,51.4,38.9
+Brooklyn North,BKN16,5,2019,November,10.1,25.4,34.3,29.4
+Brooklyn North,BKN17,5,2019,November,15.4,28.8,69.2,42.6
+Brooklyn South,BKS06,5,2019,November,29.8,45.4,81.9,55.5
+Brooklyn South,BKS07,5,2019,November,21.0,45.7,81.7,58.0
+Brooklyn South,BKS10,5,2019,November,25.6,53.9,83.7,64.1
+Brooklyn South,BKS11,5,2019,November,19.8,46.8,71.0,55.0
+Brooklyn South,BKS12,5,2019,November,16.7,56.0,40.3,48.9
+Brooklyn South,BKS13,5,2019,November,14.8,44.1,47.8,45.7
+Brooklyn South,BKS14,5,2019,November,17.2,36.1,55.9,42.4
+Brooklyn South,BKS15,5,2019,November,20.3,47.5,68.9,54.8
+Brooklyn South,BKS18,5,2019,November,19.1,32.3,65.8,42.8
+Bronx,BX01,5,2019,November,7.1,20.0,26.5,22.8
+Bronx,BX02,5,2019,November,12.1,31.7,50.3,39.8
+Bronx,BX03,5,2019,November,9.0,24.6,35.9,29.5
+Bronx,BX04,5,2019,November,11.7,28.6,48.8,37.4
+Bronx,BX05,5,2019,November,11.1,26.6,48.9,36.4
+Bronx,BX06,5,2019,November,13.4,34.7,43.8,38.7
+Bronx,BX07,5,2019,November,14.6,34.7,64.9,47.9
+Bronx,BX08,5,2019,November,22.9,42.5,82.6,55.2
+Bronx,BX09,5,2019,November,9.8,25.2,40.8,32.3
+Bronx,BX10,5,2019,November,22.0,38.0,85.7,54.3
+Bronx,BX11,5,2019,November,18.5,33.9,63.1,43.8
+Bronx,BX12,5,2019,November,22.7,33.0,85.8,51.0
+Manhattan,MN01,5,2019,November,27.3,44.8,75.1,51.7
+Manhattan,MN02,5,2019,November,27.6,41.3,88.2,52.1
+Manhattan,MN03,5,2019,November,14.0,40.7,40.7,40.7
+Manhattan,MN04,5,2019,November,23.2,33.3,77.2,43.3
+Manhattan,MN05,5,2019,November,21.4,34.6,65.2,41.6
+Manhattan,MN06,5,2019,November,23.7,35.0,75.3,44.3
+Manhattan,MN07,5,2019,November,27.6,42.5,83.1,51.8
+Manhattan,MN08,5,2019,November,26.9,42.9,82.2,51.9
+Manhattan,MN09,5,2019,November,18.1,53.4,49.8,51.8
+Manhattan,MN10,5,2019,November,13.8,39.6,50.9,44.5
+Manhattan,MN11,5,2019,November,11.2,38.9,30.2,35.1
+Manhattan,MN12,5,2019,November,16.3,45.2,57.6,50.6
+Queens East,QE07,5,2019,November,22.3,47.3,70.0,55.0
+Queens East,QE08,5,2019,November,18.1,27.2,51.8,33.9
+Queens East,QE10,5,2019,November,20.2,33.5,85.4,49.8
+Queens East,QE11,5,2019,November,26.2,47.7,78.6,57.4
+Queens East,QE12,5,2019,November,17.8,30.4,76.1,48.6
+Queens East,QE13,5,2019,November,23.9,30.2,89.5,48.8
+Queens East,QE14,5,2019,November,14.2,32.9,47.3,37.8
+Queens West,QW01,5,2019,November,20.2,49.3,84.3,61.2
+Queens West,QW02,5,2019,November,22.0,49.3,82.7,60.7
+Queens West,QW03,5,2019,November,14.7,31.2,70.4,44.6
+Queens West,QW04,5,2019,November,15.1,34.0,69.4,46.1
+Queens West,QW05,5,2019,November,24.6,45.4,93.1,61.7
+Queens West,QW06,5,2019,November,23.8,29.1,75.7,39.8
+Queens West,QW09,5,2019,November,24.8,38.7,83.3,53.9
+Staten Island,SI01,5,2019,November,27.1,37.0,73.1,48.4
+Staten Island,SI02,5,2019,November,27.3,41.8,70.9,51.0
+Staten Island,SI03,5,2019,November,29.5,43.1,75.4,53.3
+Brooklyn North,BKN01,4,2019,October,15.8,55.0,45.5,50.7
+Brooklyn North,BKN02,4,2019,October,20.5,33.6,59.8,40.8
+Brooklyn North,BKN03,4,2019,October,12.3,40.0,42.5,41.1
+Brooklyn North,BKN04,4,2019,October,15.2,39.2,64.4,50.6
+Brooklyn North,BKN05,4,2019,October,10.1,26.7,42.2,33.7
+Brooklyn North,BKN08,4,2019,October,16.2,50.9,54.4,52.5
+Brooklyn North,BKN09,4,2019,October,13.4,31.0,52.2,38.2
+Brooklyn North,BKN16,4,2019,October,9.7,24.6,35.2,29.4
+Brooklyn North,BKN17,4,2019,October,13.4,27.2,70.0,41.8
+Brooklyn South,BKS06,4,2019,October,29.0,44.7,84.1,55.6
+Brooklyn South,BKS07,4,2019,October,20.3,46.0,82.3,58.4
+Brooklyn South,BKS10,4,2019,October,24.5,51.3,86.6,63.3
+Brooklyn South,BKS11,4,2019,October,18.8,44.3,73.4,54.3
+Brooklyn South,BKS12,4,2019,October,15.2,51.5,43.4,47.8
+Brooklyn South,BKS13,4,2019,October,14.2,40.8,49.1,44.4
+Brooklyn South,BKS14,4,2019,October,14.5,34.8,56.6,41.7
+Brooklyn South,BKS15,4,2019,October,19.0,45.9,70.4,54.2
+Brooklyn South,BKS18,4,2019,October,14.6,30.5,68.3,42.4
+Bronx,BX01,4,2019,October,7.1,19.7,27.5,23.1
+Bronx,BX02,4,2019,October,13.2,31.6,58.6,43.4
+Bronx,BX03,4,2019,October,9.1,24.5,37.2,30.0
+Bronx,BX04,4,2019,October,11.6,27.8,49.1,37.1
+Bronx,BX05,4,2019,October,10.9,25.7,48.6,35.7
+Bronx,BX06,4,2019,October,14.4,35.3,45.7,39.8
+Bronx,BX07,4,2019,October,14.3,33.3,64.6,47.0
+Bronx,BX08,4,2019,October,20.9,42.7,84.8,56.0
+Bronx,BX09,4,2019,October,9.7,25.2,41.2,32.4
+Bronx,BX10,4,2019,October,20.3,37.1,88.6,54.7
+Bronx,BX11,4,2019,October,16.4,33.2,64.5,43.9
+Bronx,BX12,4,2019,October,20.4,33.0,87.6,51.6
+Manhattan,MN01,4,2019,October,27.2,44.6,75.7,51.7
+Manhattan,MN02,4,2019,October,27.0,40.1,86.0,50.6
+Manhattan,MN03,4,2019,October,14.5,42.4,42.4,42.4
+Manhattan,MN04,4,2019,October,22.8,32.8,76.5,42.8
+Manhattan,MN05,4,2019,October,20.6,33.0,63.4,40.0
+Manhattan,MN06,4,2019,October,23.4,35.0,74.7,44.1
+Manhattan,MN07,4,2019,October,27.1,41.2,81.3,50.4
+Manhattan,MN08,4,2019,October,26.3,42.0,80.6,50.8
+Manhattan,MN09,4,2019,October,18.8,55.9,48.7,52.8
+Manhattan,MN10,4,2019,October,13.7,37.3,52.7,44.0
+Manhattan,MN11,4,2019,October,11.8,41.2,31.0,36.7
+Manhattan,MN12,4,2019,October,15.7,43.1,55.9,48.6
+Queens East,QE07,4,2019,October,20.4,46.7,74.0,56.0
+Queens East,QE08,4,2019,October,16.6,26.4,54.6,34.1
+Queens East,QE10,4,2019,October,19.0,32.8,88.4,50.3
+Queens East,QE11,4,2019,October,24.1,50.0,85.2,61.1
+Queens East,QE12,4,2019,October,13.7,30.8,75.7,48.7
+Queens East,QE13,4,2019,October,22.1,30.9,91.8,50.1
+Queens East,QE14,4,2019,October,13.6,31.2,48.7,37.2
+Queens West,QW01,4,2019,October,19.4,47.5,84.9,60.3
+Queens West,QW02,4,2019,October,21.0,48.6,82.9,60.3
+Queens West,QW03,4,2019,October,14.0,29.8,70.3,43.6
+Queens West,QW04,4,2019,October,14.8,33.1,71.1,46.0
+Queens West,QW05,4,2019,October,23.3,44.4,95.6,61.9
+Queens West,QW06,4,2019,October,20.4,28.5,76.9,39.6
+Queens West,QW09,4,2019,October,22.1,38.4,85.1,54.3
+Staten Island,SI01,4,2019,October,20.0,37.7,79.0,50.7
+Staten Island,SI02,4,2019,October,19.3,41.9,77.3,53.0
+Staten Island,SI03,4,2019,October,20.2,44.4,85.1,57.2
+Brooklyn North,BKN01,3,2019,September,16.3,58.4,44.1,51.9
+Brooklyn North,BKN02,3,2019,September,20.9,36.3,58.6,42.5
+Brooklyn North,BKN03,3,2019,September,12.6,41.8,42.5,42.1
+Brooklyn North,BKN04,3,2019,September,15.8,42.6,64.8,52.6
+Brooklyn North,BKN05,3,2019,September,10.3,28.4,41.6,34.4
+Brooklyn North,BKN08,3,2019,September,17.3,56.5,54.7,55.7
+Brooklyn North,BKN09,3,2019,September,13.8,33.5,51.8,39.7
+Brooklyn North,BKN16,3,2019,September,9.9,26.3,34.6,30.0
+Brooklyn North,BKN17,3,2019,September,14.0,29.0,72.1,43.7
+Brooklyn South,BKS06,3,2019,September,29.5,47.4,84.5,57.6
+Brooklyn South,BKS07,3,2019,September,21.0,48.3,83.4,60.3
+Brooklyn South,BKS10,3,2019,September,24.2,53.8,85.7,64.7
+Brooklyn South,BKS11,3,2019,September,18.8,46.0,71.2,54.6
+Brooklyn South,BKS12,3,2019,September,16.0,56.9,42.5,50.3
+Brooklyn South,BKS13,3,2019,September,14.8,42.6,50.1,45.9
+Brooklyn South,BKS14,3,2019,September,15.1,36.9,57.6,43.5
+Brooklyn South,BKS15,3,2019,September,19.7,48.8,72.2,56.8
+Brooklyn South,BKS18,3,2019,September,15.1,31.2,70.8,43.7
+Bronx,BX01,3,2019,September,7.1,20.6,26.5,23.2
+Bronx,BX02,3,2019,September,13.4,33.8,57.0,43.9
+Bronx,BX03,3,2019,September,9.3,26.4,35.6,30.4
+Bronx,BX04,3,2019,September,12.1,30.3,50.0,38.9
+Bronx,BX05,3,2019,September,11.1,26.2,50.1,36.6
+Bronx,BX06,3,2019,September,14.1,38.4,44.0,40.9
+Bronx,BX07,3,2019,September,14.5,34.6,64.6,47.7
+Bronx,BX08,3,2019,September,21.5,44.9,85.3,57.7
+Bronx,BX09,3,2019,September,9.8,26.6,40.2,32.8
+Bronx,BX10,3,2019,September,20.7,39.5,87.5,55.9
+Bronx,BX11,3,2019,September,16.8,35.2,65.3,45.4
+Bronx,BX12,3,2019,September,20.4,33.9,87.3,52.1
+Manhattan,MN01,3,2019,September,27.9,44.2,83.3,53.2
+Manhattan,MN02,3,2019,September,27.1,41.8,83.2,51.3
+Manhattan,MN03,3,2019,September,14.7,45.3,42.3,44.0
+Manhattan,MN04,3,2019,September,23.0,33.8,74.4,43.1
+Manhattan,MN05,3,2019,September,20.9,33.9,62.7,40.5
+Manhattan,MN06,3,2019,September,23.7,36.0,74.6,44.9
+Manhattan,MN07,3,2019,September,27.3,42.5,80.7,51.3
+Manhattan,MN08,3,2019,September,26.9,43.8,78.5,51.8
+Manhattan,MN09,3,2019,September,18.7,60.0,48.4,54.9
+Manhattan,MN10,3,2019,September,14.4,39.9,54.7,46.3
+Manhattan,MN11,3,2019,September,11.7,41.9,29.7,36.6
+Manhattan,MN12,3,2019,September,16.3,45.7,56.9,50.6
+Queens East,QE07,3,2019,September,20.3,47.7,73.8,56.6
+Queens East,QE08,3,2019,September,17.2,27.4,54.0,34.7
+Queens East,QE10,3,2019,September,19.5,34.8,89.8,52.1
+Queens East,QE11,3,2019,September,24.4,52.3,87.1,63.2
+Queens East,QE12,3,2019,September,14.0,31.7,76.8,49.6
+Queens East,QE13,3,2019,September,22.9,30.9,93.0,50.5
+Queens East,QE14,3,2019,September,14.5,32.1,52.6,39.1
+Queens West,QW01,3,2019,September,20.0,50.3,85.1,62.1
+Queens West,QW02,3,2019,September,21.7,50.7,84.8,62.3
+Queens West,QW03,3,2019,September,14.6,33.2,69.0,45.4
+Queens West,QW04,3,2019,September,15.3,35.3,71.3,47.6
+Queens West,QW05,3,2019,September,23.8,47.7,96.9,64.5
+Queens West,QW06,3,2019,September,20.9,29.5,77.7,40.5
+Queens West,QW09,3,2019,September,22.4,40.1,88.5,56.6
+Staten Island,SI01,3,2019,September,20.4,38.9,80.5,52.0
+Staten Island,SI02,3,2019,September,19.5,42.3,79.8,54.1
+Staten Island,SI03,3,2019,September,20.7,45.9,87.2,58.9
+Brooklyn North,BKN01,10,2018,April,15.9,48.3,48.0,48.2
+Brooklyn North,BKN02,10,2018,April,20.3,35.7,58.7,42.5
+Brooklyn North,BKN03,10,2018,April,12.3,34.3,45.2,38.7
+Brooklyn North,BKN04,10,2018,April,15.6,35.3,68.7,48.9
+Brooklyn North,BKN05,10,2018,April,10.3,23.7,44.8,32.3
+Brooklyn North,BKN08,10,2018,April,16.7,44.8,60.1,51.0
+Brooklyn North,BKN09,10,2018,April,12.9,34.6,47.0,39.3
+Brooklyn North,BKN16,10,2018,April,9.3,20.7,35.9,26.9
+Brooklyn North,BKN17,10,2018,April,13.9,29.8,62.6,42.3
+Brooklyn South,BKS06,10,2018,April,29.1,48.8,83.5,59.0
+Brooklyn South,BKS07,10,2018,April,22.7,46.3,73.0,56.4
+Brooklyn South,BKS10,10,2018,April,23.7,56.3,80.8,65.6
+Brooklyn South,BKS11,10,2018,April,19.1,46.8,65.8,54.0
+Brooklyn South,BKS12,10,2018,April,15.6,46.2,48.2,47.0
+Brooklyn South,BKS13,10,2018,April,14.5,41.6,51.6,46.0
+Brooklyn South,BKS14,10,2018,April,15.3,38.8,56.8,45.0
+Brooklyn South,BKS15,10,2018,April,19.7,49.3,66.4,55.8
+Brooklyn South,BKS18,10,2018,April,15.6,41.0,75.6,53.3
+Bronx,BX01,10,2018,April,6.9,20.6,26.1,23.0
+Bronx,BX02,10,2018,April,13.4,34.9,57.7,44.9
+Bronx,BX03,10,2018,April,9.9,27.3,41.1,33.3
+Bronx,BX04,10,2018,April,11.6,29.8,50.4,38.8
+Bronx,BX05,10,2018,April,11.3,27.1,51.0,37.5
+Bronx,BX06,10,2018,April,13.8,36.5,46.9,41.0
+Bronx,BX07,10,2018,April,14.2,34.7,64.1,47.6
+Bronx,BX08,10,2018,April,20.9,45.4,82.1,58.0
+Bronx,BX09,10,2018,April,9.8,22.2,43.4,30.8
+Bronx,BX10,10,2018,April,20.0,42.8,71.5,53.7
+Bronx,BX11,10,2018,April,16.6,36.0,58.0,44.3
+Bronx,BX12,10,2018,April,20.4,35.8,79.5,52.4
+Manhattan,MN01,10,2018,April,27.2,45.9,76.6,53.3
+Manhattan,MN02,10,2018,April,26.2,39.7,87.3,51.1
+Manhattan,MN03,10,2018,April,14.7,43.2,46.2,44.5
+Manhattan,MN04,10,2018,April,22.5,33.3,78.4,44.1
+Manhattan,MN05,10,2018,April,20.7,33.7,64.0,41.0
+Manhattan,MN06,10,2018,April,22.6,34.3,75.0,44.1
+Manhattan,MN07,10,2018,April,27.4,42.8,84.9,53.0
+Manhattan,MN08,10,2018,April,26.6,43.0,82.9,52.6
+Manhattan,MN09,10,2018,April,18.3,55.5,51.3,53.7
+Manhattan,MN10,10,2018,April,14.6,39.0,55.1,46.0
+Manhattan,MN11,10,2018,April,11.3,42.1,32.9,38.1
+Manhattan,MN12,10,2018,April,16.2,45.1,58.9,51.1
+Queens East,QE07,10,2018,April,21.3,49.0,69.7,56.9
+Queens East,QE08,10,2018,April,17.5,30.5,52.8,37.1
+Queens East,QE10,10,2018,April,19.4,45.4,91.2,61.7
+Queens East,QE11,10,2018,April,26.2,63.6,97.2,75.5
+Queens East,QE12,10,2018,April,14.0,36.9,67.7,51.0
+Queens East,QE13,10,2018,April,17.7,41.2,95.5,60.5
+Queens East,QE14,10,2018,April,13.5,32.7,42.7,36.5
+Queens West,QW01,10,2018,April,19.8,49.9,77.3,60.3
+Queens West,QW02,10,2018,April,21.9,52.3,77.2,61.7
+Queens West,QW03,10,2018,April,14.4,32.9,62.1,44.0
+Queens West,QW04,10,2018,April,15.2,35.4,64.4,46.4
+Queens West,QW05,10,2018,April,23.7,49.4,88.2,64.1
+Queens West,QW06,10,2018,April,21.0,30.3,78.2,41.8
+Queens West,QW09,10,2018,April,22.5,42.4,77.3,55.6
+Staten Island,SI01,10,2018,April,19.9,48.7,81.1,60.2
+Staten Island,SI02,10,2018,April,19.7,53.6,82.5,63.9
+Staten Island,SI03,10,2018,April,19.9,55.8,86.6,66.7
+Brooklyn North,BKN01,2,2018,August,16.2,48.5,45.6,47.2
+Brooklyn North,BKN02,2,2018,August,20.1,36.8,53.1,41.6
+Brooklyn North,BKN03,2,2018,August,12.0,33.0,40.7,36.5
+Brooklyn North,BKN04,2,2018,August,14.7,33.2,59.0,45.0
+Brooklyn North,BKN05,2,2018,August,9.6,22.2,37.5,29.2
+Brooklyn North,BKN08,2,2018,August,15.5,44.7,50.1,47.2
+Brooklyn North,BKN09,2,2018,August,12.4,32.9,41.1,36.2
+Brooklyn North,BKN16,2,2018,August,9.3,21.9,30.2,25.7
+Brooklyn North,BKN17,2,2018,August,13.5,28.5,55.7,39.3
+Brooklyn South,BKS06,2,2018,August,27.7,45.1,75.6,54.1
+Brooklyn South,BKS07,2,2018,August,23.9,62.6,61.1,62.0
+Brooklyn South,BKS10,2,2018,August,23.6,54.7,68.9,60.4
+Brooklyn South,BKS11,2,2018,August,20.1,45.9,58.1,50.8
+Brooklyn South,BKS12,2,2018,August,15.9,49.1,39.8,44.9
+Brooklyn South,BKS13,2,2018,August,14.2,37.6,48.0,42.1
+Brooklyn South,BKS14,2,2018,August,13.6,31.5,49.7,37.4
+Brooklyn South,BKS15,2,2018,August,19.4,47.1,54.2,49.9
+Brooklyn South,BKS18,2,2018,August,14.7,33.0,60.7,42.8
+Bronx,BX01,2,2018,August,6.6,17.0,26.5,21.1
+Bronx,BX02,2,2018,August,12.7,28.9,56.2,40.6
+Bronx,BX03,2,2018,August,8.6,21.1,35.8,27.4
+Bronx,BX04,2,2018,August,11.3,25.7,50.1,36.2
+Bronx,BX05,2,2018,August,11.1,23.8,51.0,35.5
+Bronx,BX06,2,2018,August,12.6,36.3,45.3,40.2
+Bronx,BX07,2,2018,August,13.9,30.9,62.9,44.6
+Bronx,BX08,2,2018,August,19.6,39.7,78.0,52.1
+Bronx,BX09,2,2018,August,9.7,22.7,37.6,29.5
+Bronx,BX10,2,2018,August,20.4,42.3,65.7,51.6
+Bronx,BX11,2,2018,August,17.2,35.7,51.8,42.1
+Bronx,BX12,2,2018,August,16.5,33.5,70.2,48.1
+Manhattan,MN01,2,2018,August,25.3,40.9,66.4,47.8
+Manhattan,MN02,2,2018,August,23.9,36.6,73.1,46.5
+Manhattan,MN03,2,2018,August,13.2,40.4,43.9,41.9
+Manhattan,MN04,2,2018,August,21.4,31.1,70.3,41.7
+Manhattan,MN05,2,2018,August,17.7,27.5,53.2,34.4
+Manhattan,MN06,2,2018,August,21.3,31.3,66.1,40.7
+Manhattan,MN07,2,2018,August,25.2,39.7,71.5,48.3
+Manhattan,MN08,2,2018,August,24.7,39.6,69.0,47.6
+Manhattan,MN09,2,2018,August,17.2,54.4,50.6,52.8
+Manhattan,MN10,2,2018,August,14.0,35.0,56.0,44.0
+Manhattan,MN11,2,2018,August,11.3,37.7,34.0,36.1
+Manhattan,MN12,2,2018,August,15.1,41.4,57.2,48.2
+Queens East,QE07,2,2018,August,17.5,46.3,57.9,50.9
+Queens East,QE08,2,2018,August,15.7,26.7,52.3,34.3
+Queens East,QE10,2,2018,August,20.0,35.0,81.1,51.3
+Queens East,QE11,2,2018,August,26.4,54.6,76.9,62.5
+Queens East,QE12,2,2018,August,13.8,31.8,59.6,45.2
+Queens East,QE13,2,2018,August,16.9,30.6,83.2,49.3
+Queens East,QE14,2,2018,August,11.2,27.7,40.4,32.8
+Queens West,QW01,2,2018,August,19.4,47.8,69.5,56.4
+Queens West,QW02,2,2018,August,19.5,48.6,68.9,56.7
+Queens West,QW03,2,2018,August,14.0,29.4,58.4,40.9
+Queens West,QW04,2,2018,August,14.7,34.0,56.2,42.8
+Queens West,QW05,2,2018,August,23.6,44.6,84.1,60.3
+Queens West,QW06,2,2018,August,20.6,29.9,67.6,40.1
+Queens West,QW09,2,2018,August,17.7,37.6,73.1,51.7
+Staten Island,SI01,2,2018,August,19.9,38.7,73.5,51.1
+Staten Island,SI02,2,2018,August,18.6,43.4,72.9,53.9
+Staten Island,SI03,2,2018,August,19.9,46.0,79.3,57.8
+Brooklyn North,BKN01,6,2018,December,16.3,51.4,47.4,49.8
+Brooklyn North,BKN02,6,2018,December,21.9,38.0,57.8,43.6
+Brooklyn North,BKN03,6,2018,December,12.6,37.0,44.3,40.0
+Brooklyn North,BKN04,6,2018,December,15.5,36.8,66.4,49.0
+Brooklyn North,BKN05,6,2018,December,10.7,26.7,44.5,33.9
+Brooklyn North,BKN08,6,2018,December,17.2,49.3,56.9,52.4
+Brooklyn North,BKN09,6,2018,December,13.7,33.0,47.8,38.4
+Brooklyn North,BKN16,6,2018,December,10.1,24.2,36.2,29.2
+Brooklyn North,BKN17,6,2018,December,15.0,30.3,62.6,42.0
+Brooklyn South,BKS06,6,2018,December,31.2,49.8,81.9,58.9
+Brooklyn South,BKS07,6,2018,December,24.2,46.6,70.9,55.5
+Brooklyn South,BKS10,6,2018,December,26.4,59.1,78.6,66.2
+Brooklyn South,BKS11,6,2018,December,21.1,47.7,64.1,53.7
+Brooklyn South,BKS12,6,2018,December,16.7,50.8,47.7,49.5
+Brooklyn South,BKS13,6,2018,December,15.5,45.5,50.5,47.8
+Brooklyn South,BKS14,6,2018,December,15.6,33.2,52.0,39.1
+Brooklyn South,BKS15,6,2018,December,22.3,51.3,62.4,55.3
+Brooklyn South,BKS18,6,2018,December,17.3,34.0,67.7,44.8
+Bronx,BX01,6,2018,December,7.2,21.0,25.9,23.2
+Bronx,BX02,6,2018,December,13.2,35.3,51.0,42.3
+Bronx,BX03,6,2018,December,9.7,29.3,33.8,31.3
+Bronx,BX04,6,2018,December,11.4,30.8,43.7,36.6
+Bronx,BX05,6,2018,December,11.3,29.7,44.5,36.3
+Bronx,BX06,6,2018,December,13.2,35.8,41.6,38.4
+Bronx,BX07,6,2018,December,14.3,37.0,57.3,46.1
+Bronx,BX08,6,2018,December,21.9,41.6,74.2,51.8
+Bronx,BX09,6,2018,December,10.3,25.2,43.2,32.6
+Bronx,BX10,6,2018,December,21.9,47.7,66.9,54.7
+Bronx,BX11,6,2018,December,17.8,36.1,53.2,42.4
+Bronx,BX12,6,2018,December,22.1,36.8,74.4,50.5
+Manhattan,MN01,6,2018,December,28.0,46.3,69.5,52.3
+Manhattan,MN02,6,2018,December,27.3,41.1,79.7,51.0
+Manhattan,MN03,6,2018,December,14.6,45.8,41.4,43.8
+Manhattan,MN04,6,2018,December,23.3,34.6,73.1,44.5
+Manhattan,MN05,6,2018,December,20.8,32.6,60.4,39.8
+Manhattan,MN06,6,2018,December,23.6,35.5,69.3,44.2
+Manhattan,MN07,6,2018,December,28.3,44.7,75.1,52.5
+Manhattan,MN08,6,2018,December,27.4,44.4,74.3,52.1
+Manhattan,MN09,6,2018,December,19.3,58.5,47.6,53.6
+Manhattan,MN10,6,2018,December,15.7,44.4,51.5,47.6
+Manhattan,MN11,6,2018,December,11.4,42.5,29.8,36.8
+Manhattan,MN12,6,2018,December,16.9,49.3,56.1,52.4
+Queens East,QE07,6,2018,December,23.0,49.5,62.1,54.1
+Queens East,QE08,6,2018,December,21.3,30.3,54.2,37.1
+Queens East,QE10,6,2018,December,22.0,38.4,79.1,51.4
+Queens East,QE11,6,2018,December,29.3,51.0,73.4,58.2
+Queens East,QE12,6,2018,December,15.5,36.1,69.3,50.0
+Queens East,QE13,6,2018,December,19.2,32.6,83.3,48.8
+Queens East,QE14,6,2018,December,15.5,33.7,43.8,37.4
+Queens West,QW01,6,2018,December,21.0,50.0,73.9,58.7
+Queens West,QW02,6,2018,December,23.7,52.8,75.5,61.1
+Queens West,QW03,6,2018,December,16.1,33.7,64.9,45.0
+Queens West,QW04,6,2018,December,16.8,37.7,63.3,47.0
+Queens West,QW05,6,2018,December,26.7,50.2,87.6,63.8
+Queens West,QW06,6,2018,December,22.7,34.0,70.2,43.3
+Queens West,QW09,6,2018,December,26.1,44.5,78.0,56.7
+Staten Island,SI01,6,2018,December,22.2,40.4,71.1,50.2
+Staten Island,SI02,6,2018,December,21.7,45.4,71.0,53.6
+Staten Island,SI03,6,2018,December,23.0,50.3,74.6,58.1
+Brooklyn North,BKN01,8,2018,February,15.3,46.9,46.8,46.9
+Brooklyn North,BKN02,8,2018,February,19.9,32.4,59.0,39.9
+Brooklyn North,BKN03,8,2018,February,12.4,34.7,46.0,39.3
+Brooklyn North,BKN04,8,2018,February,15.6,36.2,68.0,49.2
+Brooklyn North,BKN05,8,2018,February,10.5,24.9,44.8,33.1
+Brooklyn North,BKN08,8,2018,February,17.2,48.0,60.7,53.2
+Brooklyn North,BKN09,8,2018,February,13.3,32.2,45.9,37.2
+Brooklyn North,BKN16,8,2018,February,9.6,22.9,35.3,28.0
+Brooklyn North,BKN17,8,2018,February,14.2,27.7,61.2,39.9
+Brooklyn South,BKS06,8,2018,February,29.8,47.1,83.3,57.4
+Brooklyn South,BKS07,8,2018,February,23.3,43.6,73.1,54.3
+Brooklyn South,BKS10,8,2018,February,24.6,54.2,80.2,63.7
+Brooklyn South,BKS11,8,2018,February,20.4,44.6,65.6,52.3
+Brooklyn South,BKS12,8,2018,February,15.9,50.4,45.9,48.6
+Brooklyn South,BKS13,8,2018,February,15.1,44.4,49.0,46.5
+Brooklyn South,BKS14,8,2018,February,15.6,33.4,52.2,39.3
+Brooklyn South,BKS15,8,2018,February,20.5,47.4,63.6,53.3
+Brooklyn South,BKS18,8,2018,February,16.3,31.9,64.4,42.3
+Bronx,BX01,8,2018,February,7.0,20.1,25.2,22.4
+Bronx,BX02,8,2018,February,13.1,32.8,53.9,42.3
+Bronx,BX03,8,2018,February,9.5,25.7,36.7,30.7
+Bronx,BX04,8,2018,February,11.7,29.9,47.2,37.6
+Bronx,BX05,8,2018,February,11.1,27.4,45.9,35.7
+Bronx,BX06,8,2018,February,14.1,38.6,44.1,41.1
+Bronx,BX07,8,2018,February,14.3,35.7,58.4,45.9
+Bronx,BX08,8,2018,February,20.6,38.9,77.5,51.0
+Bronx,BX09,8,2018,February,9.9,23.2,42.6,31.2
+Bronx,BX10,8,2018,February,20.1,41.9,69.4,51.9
+Bronx,BX11,8,2018,February,16.5,34.3,55.5,42.0
+Bronx,BX12,8,2018,February,20.1,33.6,74.5,48.5
+Manhattan,MN01,8,2018,February,26.4,43.3,67.5,49.5
+Manhattan,MN02,8,2018,February,25.6,37.5,78.1,47.9
+Manhattan,MN03,8,2018,February,14.3,42.5,43.7,43.0
+Manhattan,MN04,8,2018,February,22.0,31.4,72.3,42.0
+Manhattan,MN05,8,2018,February,20.3,31.4,60.1,38.8
+Manhattan,MN06,8,2018,February,23.1,33.3,71.6,43.1
+Manhattan,MN07,8,2018,February,27.3,41.7,77.2,50.8
+Manhattan,MN08,8,2018,February,26.2,40.7,75.7,49.7
+Manhattan,MN09,8,2018,February,18.2,53.6,49.5,51.7
+Manhattan,MN10,8,2018,February,14.7,38.2,51.9,44.4
+Manhattan,MN11,8,2018,February,10.9,38.4,31.3,35.2
+Manhattan,MN12,8,2018,February,16.4,45.4,56.1,50.2
+Queens East,QE07,8,2018,February,22.2,48.4,67.8,55.5
+Queens East,QE08,8,2018,February,21.9,34.0,66.6,43.3
+Queens East,QE10,8,2018,February,21.3,34.2,86.5,50.9
+Queens East,QE11,8,2018,February,28.6,52.8,90.1,64.7
+Queens East,QE12,8,2018,February,16.9,36.8,79.2,54.5
+Queens East,QE13,8,2018,February,20.1,32.0,95.1,52.1
+Queens East,QE14,8,2018,February,16.1,33.9,52.1,40.5
+Queens West,QW01,8,2018,February,23.2,52.5,86.9,65.0
+Queens West,QW02,8,2018,February,22.8,50.5,74.1,59.1
+Queens West,QW03,8,2018,February,15.0,30.3,62.2,41.9
+Queens West,QW04,8,2018,February,15.6,33.2,61.9,43.6
+Queens West,QW05,8,2018,February,24.5,45.4,87.2,60.6
+Queens West,QW06,8,2018,February,21.9,31.9,69.8,41.6
+Queens West,QW09,8,2018,February,24.5,40.8,78.0,54.3
+Staten Island,SI01,8,2018,February,19.4,37.3,71.0,48.1
+Staten Island,SI02,8,2018,February,21.2,42.4,74.3,52.6
+Staten Island,SI03,8,2018,February,21.6,44.2,78.0,55.0
+Brooklyn North,BKN01,7,2018,January,15.9,47.0,47.0,47.0
+Brooklyn North,BKN02,7,2018,January,22.0,35.4,59.6,42.3
+Brooklyn North,BKN03,7,2018,January,13.2,36.4,47.2,40.8
+Brooklyn North,BKN04,7,2018,January,16.3,36.7,69.2,50.0
+Brooklyn North,BKN05,7,2018,January,11.4,26.6,47.8,35.3
+Brooklyn North,BKN08,7,2018,January,18.5,46.7,61.2,52.6
+Brooklyn North,BKN09,7,2018,January,13.7,31.8,47.2,37.4
+Brooklyn North,BKN16,7,2018,January,9.8,20.9,37.5,27.7
+Brooklyn North,BKN17,7,2018,January,15.9,29.9,68.3,43.9
+Brooklyn South,BKS06,7,2018,January,31.7,47.2,85.0,58.0
+Brooklyn South,BKS07,7,2018,January,24.5,45.1,75.8,56.3
+Brooklyn South,BKS10,7,2018,January,25.9,54.1,84.8,65.3
+Brooklyn South,BKS11,7,2018,January,21.3,45.5,69.5,54.3
+Brooklyn South,BKS12,7,2018,January,16.3,50.9,47.3,49.4
+Brooklyn South,BKS13,7,2018,January,15.3,43.8,48.9,46.1
+Brooklyn South,BKS14,7,2018,January,16.6,33.2,56.3,40.4
+Brooklyn South,BKS15,7,2018,January,21.8,47.8,67.0,54.8
+Brooklyn South,BKS18,7,2018,January,18.1,32.7,70.5,44.8
+Bronx,BX01,7,2018,January,8.0,22.3,26.6,24.3
+Bronx,BX02,7,2018,January,13.6,29.9,49.4,38.7
+Bronx,BX03,7,2018,January,10.7,26.6,39.1,32.2
+Bronx,BX04,7,2018,January,13.0,30.3,49.0,38.7
+Bronx,BX05,7,2018,January,11.9,27.3,49.0,37.1
+Bronx,BX06,7,2018,January,14.3,34.8,44.1,39.0
+Bronx,BX07,7,2018,January,15.7,36.7,63.2,48.6
+Bronx,BX08,7,2018,January,22.4,40.5,84.7,54.3
+Bronx,BX09,7,2018,January,11.0,23.7,45.5,32.7
+Bronx,BX10,7,2018,January,21.7,43.3,72.6,53.9
+Bronx,BX11,7,2018,January,18.0,35.3,58.0,43.6
+Bronx,BX12,7,2018,January,21.3,35.4,79.4,51.4
+Manhattan,MN01,7,2018,January,27.5,43.3,70.6,50.3
+Manhattan,MN02,7,2018,January,27.9,38.3,82.2,49.6
+Manhattan,MN03,7,2018,January,15.5,44.2,45.1,44.6
+Manhattan,MN04,7,2018,January,22.6,32.1,71.9,42.4
+Manhattan,MN05,7,2018,January,21.3,30.5,61.7,38.6
+Manhattan,MN06,7,2018,January,23.9,32.9,73.5,43.3
+Manhattan,MN07,7,2018,January,28.4,41.0,80.9,51.3
+Manhattan,MN08,7,2018,January,27.9,40.6,79.8,50.7
+Manhattan,MN09,7,2018,January,19.0,55.1,48.9,52.3
+Manhattan,MN10,7,2018,January,16.7,40.7,55.5,47.4
+Manhattan,MN11,7,2018,January,11.7,39.1,30.9,35.4
+Manhattan,MN12,7,2018,January,17.3,45.1,58.2,51.0
+Queens East,QE07,7,2018,January,23.4,49.2,69.8,56.7
+Queens East,QE08,7,2018,January,22.0,32.4,62.6,41.0
+Queens East,QE10,7,2018,January,22.9,36.4,88.1,52.9
+Queens East,QE11,7,2018,January,30.0,54.0,90.0,65.5
+Queens East,QE12,7,2018,January,17.3,38.4,78.3,55.1
+Queens East,QE13,7,2018,January,21.2,33.9,95.3,53.5
+Queens East,QE14,7,2018,January,16.1,32.4,48.3,38.2
+Queens West,QW01,7,2018,January,23.5,50.8,86.1,63.6
+Queens West,QW02,7,2018,January,24.0,51.2,76.3,60.3
+Queens West,QW03,7,2018,January,16.3,31.0,65.9,43.7
+Queens West,QW04,7,2018,January,16.8,34.3,63.5,44.9
+Queens West,QW05,7,2018,January,26.0,47.4,88.0,62.1
+Queens West,QW06,7,2018,January,23.0,32.0,73.1,42.6
+Queens West,QW09,7,2018,January,25.1,42.1,81.1,56.3
+Staten Island,SI01,7,2018,January,21.7,37.9,77.1,50.4
+Staten Island,SI02,7,2018,January,23.2,43.3,76.6,54.0
+Staten Island,SI03,7,2018,January,24.4,47.7,83.1,59.0
+Brooklyn North,BKN01,1,2018,July,16.4,48.1,46.9,47.6
+Brooklyn North,BKN02,1,2018,July,18.9,32.9,53.3,38.9
+Brooklyn North,BKN03,1,2018,July,11.7,32.6,39.6,35.8
+Brooklyn North,BKN04,1,2018,July,14.5,33.9,56.4,44.2
+Brooklyn North,BKN05,1,2018,July,9.8,23.3,37.8,29.9
+Brooklyn North,BKN08,1,2018,July,15.5,45.7,49.5,47.4
+Brooklyn North,BKN09,1,2018,July,12.1,32.2,39.8,35.2
+Brooklyn North,BKN16,1,2018,July,9.6,22.5,30.8,26.2
+Brooklyn North,BKN17,1,2018,July,13.2,28.0,54.6,38.5
+Brooklyn South,BKS06,1,2018,July,28.3,45.1,78.3,54.9
+Brooklyn South,BKS07,1,2018,July,21.4,48.7,64.4,55.0
+Brooklyn South,BKS10,1,2018,July,24.0,55.0,70.4,61.2
+Brooklyn South,BKS11,1,2018,July,20.9,48.4,58.7,52.5
+Brooklyn South,BKS12,1,2018,July,15.7,48.8,40.0,44.8
+Brooklyn South,BKS13,1,2018,July,14.4,39.6,46.9,42.7
+Brooklyn South,BKS14,1,2018,July,13.7,31.9,49.8,37.7
+Brooklyn South,BKS15,1,2018,July,20.4,48.7,57.3,52.1
+Brooklyn South,BKS18,1,2018,July,15.0,33.2,63.0,43.8
+Bronx,BX01,1,2018,July,6.7,17.6,26.3,21.3
+Bronx,BX02,1,2018,July,12.7,29.0,55.8,40.5
+Bronx,BX03,1,2018,July,8.9,22.9,35.7,28.4
+Bronx,BX04,1,2018,July,11.3,26.8,48.5,36.1
+Bronx,BX05,1,2018,July,11.4,25.2,51.4,36.4
+Bronx,BX06,1,2018,July,12.2,33.2,46.7,39.0
+Bronx,BX07,1,2018,July,14.2,32.5,63.0,45.6
+Bronx,BX08,1,2018,July,20.0,40.4,80.0,53.2
+Bronx,BX09,1,2018,July,10.0,22.8,39.6,30.5
+Bronx,BX10,1,2018,July,18.9,42.6,67.7,52.6
+Bronx,BX11,1,2018,July,13.9,33.3,51.5,40.5
+Bronx,BX12,1,2018,July,16.5,32.6,71.5,48.1
+Manhattan,MN01,1,2018,July,25.1,42.2,61.9,47.5
+Manhattan,MN02,1,2018,July,23.6,36.2,72.2,45.9
+Manhattan,MN03,1,2018,July,13.0,38.1,45.3,41.2
+Manhattan,MN04,1,2018,July,21.0,30.1,69.9,40.9
+Manhattan,MN05,1,2018,July,17.8,27.8,53.0,34.6
+Manhattan,MN06,1,2018,July,21.5,31.5,67.3,41.1
+Manhattan,MN07,1,2018,July,25.2,39.7,71.7,48.3
+Manhattan,MN08,1,2018,July,24.8,39.4,70.1,47.6
+Manhattan,MN09,1,2018,July,16.7,52.4,49.8,51.3
+Manhattan,MN10,1,2018,July,14.1,35.0,57.0,44.4
+Manhattan,MN11,1,2018,July,11.0,38.0,31.2,35.1
+Manhattan,MN12,1,2018,July,15.0,41.4,57.0,48.1
+Queens East,QE07,1,2018,July,17.3,45.4,57.8,50.3
+Queens East,QE08,1,2018,July,16.1,28.4,51.2,35.1
+Queens East,QE10,1,2018,July,20.0,36.7,79.7,52.0
+Queens East,QE11,1,2018,July,26.3,54.4,77.5,62.6
+Queens East,QE12,1,2018,July,13.9,34.0,58.4,45.7
+Queens East,QE13,1,2018,July,17.5,32.1,84.9,50.8
+Queens East,QE14,1,2018,July,11.7,29.3,41.6,34.2
+Queens West,QW01,1,2018,July,19.3,48.6,67.7,56.2
+Queens West,QW02,1,2018,July,19.5,49.8,67.1,56.7
+Queens West,QW03,1,2018,July,14.2,31.2,56.5,41.3
+Queens West,QW04,1,2018,July,14.9,34.6,57.0,43.5
+Queens West,QW05,1,2018,July,23.7,44.7,84.5,60.5
+Queens West,QW06,1,2018,July,20.5,30.5,65.6,39.9
+Queens West,QW09,1,2018,July,18.1,40.1,71.7,52.7
+Staten Island,SI01,1,2018,July,20.3,39.6,78.2,53.3
+Staten Island,SI02,1,2018,July,19.6,45.2,78.3,56.9
+Staten Island,SI03,1,2018,July,20.4,45.6,84.1,59.2
+Brooklyn North,BKN01,12,2018,June,16.1,47.1,49.5,48.1
+Brooklyn North,BKN02,12,2018,June,20.7,37.7,58.8,43.9
+Brooklyn North,BKN03,12,2018,June,12.5,34.6,46.1,39.3
+Brooklyn North,BKN04,12,2018,June,15.8,37.2,67.5,49.5
+Brooklyn North,BKN05,12,2018,June,10.3,24.8,43.0,32.2
+Brooklyn North,BKN08,12,2018,June,16.8,46.7,58.8,51.6
+Brooklyn North,BKN09,12,2018,June,12.3,34.2,43.3,37.7
+Brooklyn North,BKN16,12,2018,June,9.4,22.0,33.2,26.6
+Brooklyn North,BKN17,12,2018,June,13.7,30.9,59.4,41.7
+Brooklyn South,BKS06,12,2018,June,29.0,49.5,80.4,58.6
+Brooklyn South,BKS07,12,2018,June,22.0,49.8,68.7,57.0
+Brooklyn South,BKS10,12,2018,June,24.1,57.6,77.4,65.1
+Brooklyn South,BKS11,12,2018,June,19.1,48.1,62.7,53.6
+Brooklyn South,BKS12,12,2018,June,15.6,47.2,44.0,45.9
+Brooklyn South,BKS13,12,2018,June,14.6,43.0,49.6,45.9
+Brooklyn South,BKS14,12,2018,June,15.2,39.9,53.8,44.7
+Brooklyn South,BKS15,12,2018,June,19.4,50.3,61.4,54.5
+Brooklyn South,BKS18,12,2018,June,14.9,40.3,70.3,51.0
+Bronx,BX01,12,2018,June,7.4,21.5,28.4,24.5
+Bronx,BX02,12,2018,June,13.4,36.4,56.4,45.1
+Bronx,BX03,12,2018,June,9.3,27.3,36.7,31.4
+Bronx,BX04,12,2018,June,12.1,31.2,51.8,40.2
+Bronx,BX05,12,2018,June,11.6,28.6,51.5,38.6
+Bronx,BX06,12,2018,June,13.3,36.8,44.8,40.3
+Bronx,BX07,12,2018,June,14.8,36.9,66.5,49.8
+Bronx,BX08,12,2018,June,21.4,47.9,80.7,59.2
+Bronx,BX09,12,2018,June,10.2,23.7,44.1,32.0
+Bronx,BX10,12,2018,June,21.1,40.6,78.1,54.8
+Bronx,BX11,12,2018,June,17.2,36.3,58.6,44.8
+Bronx,BX12,12,2018,June,21.6,35.8,78.5,52.0
+Manhattan,MN01,12,2018,June,27.6,46.8,75.6,53.7
+Manhattan,MN02,12,2018,June,26.7,41.5,86.0,52.3
+Manhattan,MN03,12,2018,June,14.5,45.1,44.0,44.6
+Manhattan,MN04,12,2018,June,23.2,35.4,77.3,45.5
+Manhattan,MN05,12,2018,June,20.2,33.6,60.8,40.1
+Manhattan,MN06,12,2018,June,22.6,34.6,72.8,43.8
+Manhattan,MN07,12,2018,June,27.6,44.2,82.9,53.5
+Manhattan,MN08,12,2018,June,26.4,43.2,79.9,52.1
+Manhattan,MN09,12,2018,June,18.2,59.8,50.2,55.6
+Manhattan,MN10,12,2018,June,14.9,41.3,55.2,47.4
+Manhattan,MN11,12,2018,June,11.4,43.6,31.8,38.4
+Manhattan,MN12,12,2018,June,16.1,46.1,56.6,50.7
+Queens East,QE07,12,2018,June,20.9,49.1,65.3,55.3
+Queens East,QE08,12,2018,June,16.9,28.9,52.5,35.8
+Queens East,QE10,12,2018,June,19.4,42.1,93.6,60.4
+Queens East,QE11,12,2018,June,25.5,63.3,91.3,73.3
+Queens East,QE12,12,2018,June,13.7,36.3,65.8,49.8
+Queens East,QE13,12,2018,June,22.9,38.4,96.9,59.2
+Queens East,QE14,12,2018,June,13.9,32.2,45.3,37.2
+Queens West,QW01,12,2018,June,19.7,51.7,74.1,60.2
+Queens West,QW02,12,2018,June,21.2,51.8,70.3,58.8
+Queens West,QW03,12,2018,June,14.3,32.0,62.5,43.6
+Queens West,QW04,12,2018,June,15.3,37.3,61.8,46.6
+Queens West,QW05,12,2018,June,23.4,47.7,86.2,62.3
+Queens West,QW06,12,2018,June,20.4,30.1,73.2,40.5
+Queens West,QW09,12,2018,June,22.3,42.7,78.9,56.4
+Staten Island,SI01,12,2018,June,20.7,47.8,82.8,60.2
+Staten Island,SI02,12,2018,June,19.1,51.0,84.8,63.0
+Staten Island,SI03,12,2018,June,19.7,53.3,89.6,66.2
+Brooklyn North,BKN01,9,2018,March,14.3,44.7,43.1,44.1
+Brooklyn North,BKN02,9,2018,March,20.5,33.7,58.3,40.7
+Brooklyn North,BKN03,9,2018,March,11.9,34.8,41.6,37.6
+Brooklyn North,BKN04,9,2018,March,15.5,36.2,67.2,48.9
+Brooklyn North,BKN05,9,2018,March,10.3,25.1,43.6,32.7
+Brooklyn North,BKN08,9,2018,March,16.8,46.3,58.7,51.4
+Brooklyn North,BKN09,9,2018,March,13.1,32.4,43.9,36.6
+Brooklyn North,BKN16,9,2018,March,9.1,22.3,32.7,26.6
+Brooklyn North,BKN17,9,2018,March,13.9,27.5,59.1,39.0
+Brooklyn South,BKS06,9,2018,March,29.7,46.1,82.0,56.3
+Brooklyn South,BKS07,9,2018,March,23.3,42.1,70.3,52.3
+Brooklyn South,BKS10,9,2018,March,24.2,52.4,79.0,62.1
+Brooklyn South,BKS11,9,2018,March,19.8,43.8,63.9,51.1
+Brooklyn South,BKS12,9,2018,March,15.5,48.5,47.0,47.9
+Brooklyn South,BKS13,9,2018,March,14.5,42.3,47.3,44.6
+Brooklyn South,BKS14,9,2018,March,16.1,34.5,53.6,40.5
+Brooklyn South,BKS15,9,2018,March,20.1,46.5,62.6,52.3
+Brooklyn South,BKS18,9,2018,March,15.9,30.9,62.8,41.1
+Bronx,BX01,9,2018,March,7.1,20.9,24.6,22.6
+Bronx,BX02,9,2018,March,12.9,33.6,51.2,41.5
+Bronx,BX03,9,2018,March,9.9,27.7,36.6,31.7
+Bronx,BX04,9,2018,March,11.9,29.9,48.0,38.0
+Bronx,BX05,9,2018,March,11.3,27.3,47.0,36.2
+Bronx,BX06,9,2018,March,14.1,36.8,43.5,39.8
+Bronx,BX07,9,2018,March,14.3,35.4,59.2,46.1
+Bronx,BX08,9,2018,March,20.9,38.9,79.6,51.6
+Bronx,BX09,9,2018,March,10.0,24.0,42.9,31.7
+Bronx,BX10,9,2018,March,19.6,40.7,67.3,50.4
+Bronx,BX11,9,2018,March,16.3,33.1,55.7,41.3
+Bronx,BX12,9,2018,March,20.0,33.4,74.4,48.3
+Manhattan,MN01,9,2018,March,27.0,44.3,69.1,50.7
+Manhattan,MN02,9,2018,March,26.3,38.4,79.2,48.9
+Manhattan,MN03,9,2018,March,14.8,43.9,42.1,43.1
+Manhattan,MN04,9,2018,March,22.9,33.2,71.9,43.1
+Manhattan,MN05,9,2018,March,20.3,32.2,58.2,38.9
+Manhattan,MN06,9,2018,March,23.3,34.5,69.4,43.5
+Manhattan,MN07,9,2018,March,27.3,42.0,74.9,50.5
+Manhattan,MN08,9,2018,March,26.7,42.5,74.6,50.8
+Manhattan,MN09,9,2018,March,18.3,54.8,47.5,51.5
+Manhattan,MN10,9,2018,March,15.0,38.8,51.4,44.5
+Manhattan,MN11,9,2018,March,10.9,39.7,29.6,35.2
+Manhattan,MN12,9,2018,March,16.5,44.8,55.6,49.7
+Queens East,QE07,9,2018,March,21.6,46.8,65.7,53.7
+Queens East,QE08,9,2018,March,17.6,28.2,52.7,35.1
+Queens East,QE10,9,2018,March,20.5,34.6,81.2,49.5
+Queens East,QE11,9,2018,March,26.4,49.9,82.2,60.3
+Queens East,QE12,9,2018,March,14.7,33.7,66.4,47.4
+Queens East,QE13,9,2018,March,18.6,31.7,83.3,48.1
+Queens East,QE14,9,2018,March,13.4,31.0,39.2,34.0
+Queens West,QW01,9,2018,March,19.9,45.6,73.8,55.8
+Queens West,QW02,9,2018,March,22.1,49.1,71.6,57.3
+Queens West,QW03,9,2018,March,15.0,30.9,61.5,42.0
+Queens West,QW04,9,2018,March,15.5,32.2,62.9,43.4
+Queens West,QW05,9,2018,March,24.7,46.1,86.0,60.7
+Queens West,QW06,9,2018,March,21.6,31.1,70.5,41.3
+Queens West,QW09,9,2018,March,23.2,40.4,75.4,53.1
+Staten Island,SI01,9,2018,March,19.3,37.3,68.3,47.2
+Staten Island,SI02,9,2018,March,20.2,42.2,66.5,50.0
+Staten Island,SI03,9,2018,March,21.3,45.2,73.1,54.1
+Brooklyn North,BKN01,11,2018,May,15.4,45.9,46.3,46.1
+Brooklyn North,BKN02,11,2018,May,19.8,34.1,56.8,40.8
+Brooklyn North,BKN03,11,2018,May,11.8,32.7,43.6,37.1
+Brooklyn North,BKN04,11,2018,May,14.4,31.8,64.8,45.2
+Brooklyn North,BKN05,11,2018,May,9.4,21.9,40.4,29.4
+Brooklyn North,BKN08,11,2018,May,15.4,41.8,54.2,46.8
+Brooklyn North,BKN09,11,2018,May,12.5,33.9,44.9,38.1
+Brooklyn North,BKN16,11,2018,May,9.2,20.6,34.2,26.2
+Brooklyn North,BKN17,11,2018,May,12.8,27.3,58.1,39.0
+Brooklyn South,BKS06,11,2018,May,28.2,46.2,78.9,55.9
+Brooklyn South,BKS07,11,2018,May,22.1,44.8,67.5,53.4
+Brooklyn South,BKS10,11,2018,May,23.0,52.5,76.9,61.8
+Brooklyn South,BKS11,11,2018,May,18.3,44.6,61.9,51.2
+Brooklyn South,BKS12,11,2018,May,14.9,44.8,43.7,44.3
+Brooklyn South,BKS13,11,2018,May,14.1,40.6,48.7,44.1
+Brooklyn South,BKS14,11,2018,May,13.8,35.4,49.1,40.1
+Brooklyn South,BKS15,11,2018,May,18.7,46.8,60.7,52.1
+Brooklyn South,BKS18,11,2018,May,14.3,37.7,69.3,48.9
+Bronx,BX01,11,2018,May,6.7,19.2,25.7,22.0
+Bronx,BX02,11,2018,May,13.0,33.4,56.9,43.7
+Bronx,BX03,11,2018,May,9.1,25.6,36.9,30.5
+Bronx,BX04,11,2018,May,11.0,28.1,46.9,36.3
+Bronx,BX05,11,2018,May,10.8,25.9,48.6,35.8
+Bronx,BX06,11,2018,May,14.1,36.0,46.3,40.5
+Bronx,BX07,11,2018,May,13.7,33.4,61.9,45.9
+Bronx,BX08,11,2018,May,20.4,44.1,79.1,56.1
+Bronx,BX09,11,2018,May,9.4,21.4,41.4,29.5
+Bronx,BX10,11,2018,May,20.1,39.1,71.5,51.4
+Bronx,BX11,11,2018,May,16.5,33.9,55.7,42.2
+Bronx,BX12,11,2018,May,20.3,32.9,74.8,48.8
+Manhattan,MN01,11,2018,May,27.1,45.9,75.0,52.9
+Manhattan,MN02,11,2018,May,24.8,37.4,80.8,47.9
+Manhattan,MN03,11,2018,May,14.7,43.0,45.0,43.9
+Manhattan,MN04,11,2018,May,22.4,33.8,76.3,44.1
+Manhattan,MN05,11,2018,May,19.4,31.8,59.5,38.5
+Manhattan,MN06,11,2018,May,22.8,34.2,75.1,44.1
+Manhattan,MN07,11,2018,May,26.5,41.9,79.2,50.9
+Manhattan,MN08,11,2018,May,25.8,42.2,78.4,50.9
+Manhattan,MN09,11,2018,May,18.7,58.9,50.1,55.0
+Manhattan,MN10,11,2018,May,14.6,38.8,53.3,45.1
+Manhattan,MN11,11,2018,May,11.2,42.2,31.8,37.7
+Manhattan,MN12,11,2018,May,16.2,44.3,58.0,50.3
+Queens East,QE07,11,2018,May,20.6,46.6,63.2,52.9
+Queens East,QE08,11,2018,May,16.3,28.2,50.5,34.8
+Queens East,QE10,11,2018,May,18.0,39.6,86.1,56.1
+Queens East,QE11,11,2018,May,24.4,58.6,87.2,68.8
+Queens East,QE12,11,2018,May,13.1,34.0,63.9,47.7
+Queens East,QE13,11,2018,May,23.1,37.4,91.5,56.6
+Queens East,QE14,11,2018,May,13.5,31.4,41.7,35.3
+Queens West,QW01,11,2018,May,18.4,47.0,70.9,56.1
+Queens West,QW02,11,2018,May,20.6,50.1,68.6,57.2
+Queens West,QW03,11,2018,May,13.8,30.9,60.1,42.0
+Queens West,QW04,11,2018,May,14.5,34.1,60.9,44.3
+Queens West,QW05,11,2018,May,22.6,44.7,83.0,59.2
+Queens West,QW06,11,2018,May,19.8,28.7,73.1,39.4
+Queens West,QW09,11,2018,May,21.3,37.9,74.3,51.7
+Staten Island,SI01,11,2018,May,19.5,43.5,76.4,55.2
+Staten Island,SI02,11,2018,May,17.9,48.2,75.8,58.1
+Staten Island,SI03,11,2018,May,18.6,50.1,84.0,62.1
+Brooklyn North,BKN01,5,2018,November,15.1,51.7,43.5,48.0
+Brooklyn North,BKN02,5,2018,November,20.2,32.7,57.7,39.6
+Brooklyn North,BKN03,5,2018,November,11.6,37.5,40.1,38.7
+Brooklyn North,BKN04,5,2018,November,14.3,38.0,59.5,47.8
+Brooklyn North,BKN05,5,2018,November,9.9,26.3,40.1,32.6
+Brooklyn North,BKN08,5,2018,November,16.6,50.7,55.0,52.6
+Brooklyn North,BKN09,5,2018,November,12.4,31.9,49.8,38.0
+Brooklyn North,BKN16,5,2018,November,9.3,23.8,32.7,27.9
+Brooklyn North,BKN17,5,2018,November,14.3,29.1,68.9,42.7
+Brooklyn South,BKS06,5,2018,November,30.2,46.5,81.6,56.2
+Brooklyn South,BKS07,5,2018,November,23.7,45.5,80.5,57.4
+Brooklyn South,BKS10,5,2018,November,25.8,56.9,87.6,67.4
+Brooklyn South,BKS11,5,2018,November,20.6,46.7,73.2,55.7
+Brooklyn South,BKS12,5,2018,November,16.4,54.9,42.3,49.2
+Brooklyn South,BKS13,5,2018,November,14.8,41.4,50.6,45.4
+Brooklyn South,BKS14,5,2018,November,15.8,34.6,55.2,41.1
+Brooklyn South,BKS15,5,2018,November,21.3,48.8,71.1,56.4
+Brooklyn South,BKS18,5,2018,November,16.9,32.8,68.8,44.2
+Bronx,BX01,5,2018,November,6.4,18.3,24.6,21.1
+Bronx,BX02,5,2018,November,11.8,29.0,51.8,38.9
+Bronx,BX03,5,2018,November,8.5,22.4,35.2,28.0
+Bronx,BX04,5,2018,November,11.0,27.4,47.2,36.0
+Bronx,BX05,5,2018,November,10.8,25.1,48.9,35.5
+Bronx,BX06,5,2018,November,12.7,31.7,43.2,36.7
+Bronx,BX07,5,2018,November,14.0,32.4,61.7,45.2
+Bronx,BX08,5,2018,November,21.7,41.8,80.0,53.9
+Bronx,BX09,5,2018,November,9.5,24.7,39.5,31.4
+Bronx,BX10,5,2018,November,21.5,43.2,75.4,54.2
+Bronx,BX11,5,2018,November,18.9,33.7,60.9,42.9
+Bronx,BX12,5,2018,November,22.1,34.3,84.3,51.3
+Manhattan,MN01,5,2018,November,26.4,42.2,75.4,49.8
+Manhattan,MN02,5,2018,November,25.8,37.7,86.4,48.9
+Manhattan,MN03,5,2018,November,14.5,43.1,44.4,43.6
+Manhattan,MN04,5,2018,November,22.3,31.4,83.0,43.3
+Manhattan,MN05,5,2018,November,19.0,28.4,64.9,36.8
+Manhattan,MN06,5,2018,November,22.4,32.2,75.9,42.3
+Manhattan,MN07,5,2018,November,27.4,41.5,84.5,51.4
+Manhattan,MN08,5,2018,November,25.9,40.3,82.3,49.9
+Manhattan,MN09,5,2018,November,18.8,52.8,50.2,51.7
+Manhattan,MN10,5,2018,November,15.1,39.3,54.0,45.7
+Manhattan,MN11,5,2018,November,11.2,40.5,32.1,36.8
+Manhattan,MN12,5,2018,November,16.0,44.2,57.3,49.9
+Queens East,QE07,5,2018,November,23.0,48.7,72.2,56.7
+Queens East,QE08,5,2018,November,20.8,27.8,51.1,34.2
+Queens East,QE10,5,2018,November,20.6,35.7,81.9,50.3
+Queens East,QE11,5,2018,November,29.2,51.1,81.2,60.6
+Queens East,QE12,5,2018,November,17.2,33.1,72.6,48.8
+Queens East,QE13,5,2018,November,19.6,32.4,84.5,48.8
+Queens East,QE14,5,2018,November,14.2,32.1,46.4,37.0
+Queens West,QW01,5,2018,November,19.8,47.9,83.9,60.2
+Queens West,QW02,5,2018,November,22.1,51.9,82.1,62.2
+Queens West,QW03,5,2018,November,14.8,31.8,69.9,44.8
+Queens West,QW04,5,2018,November,15.3,34.5,70.5,46.8
+Queens West,QW05,5,2018,November,25.3,46.4,94.1,62.7
+Queens West,QW06,5,2018,November,23.6,29.5,76.0,40.2
+Queens West,QW09,5,2018,November,25.1,41.6,84.5,56.2
+Staten Island,SI01,5,2018,November,22.9,38.5,75.3,50.1
+Staten Island,SI02,5,2018,November,21.8,42.4,74.6,52.5
+Staten Island,SI03,5,2018,November,24.6,44.3,81.3,56.0
+Brooklyn North,BKN01,4,2018,October,15.0,51.1,43.7,47.8
+Brooklyn North,BKN02,4,2018,October,19.8,33.6,56.7,40.0
+Brooklyn North,BKN03,4,2018,October,11.6,36.5,41.0,38.6
+Brooklyn North,BKN04,4,2018,October,14.2,35.4,61.8,47.4
+Brooklyn North,BKN05,4,2018,October,9.6,23.9,41.4,31.8
+Brooklyn North,BKN08,4,2018,October,16.1,49.9,54.6,52.0
+Brooklyn North,BKN09,4,2018,October,12.0,31.0,48.2,36.9
+Brooklyn North,BKN16,4,2018,October,8.7,22.4,31.4,26.5
+Brooklyn North,BKN17,4,2018,October,13.3,27.6,67.9,41.3
+Brooklyn South,BKS06,4,2018,October,29.7,46.1,82.9,56.2
+Brooklyn South,BKS07,4,2018,October,23.7,42.2,89.9,58.5
+Brooklyn South,BKS10,4,2018,October,24.0,54.3,86.8,65.4
+Brooklyn South,BKS11,4,2018,October,20.2,44.7,72.8,54.3
+Brooklyn South,BKS12,4,2018,October,15.4,51.7,44.2,48.3
+Brooklyn South,BKS13,4,2018,October,14.1,39.2,47.9,43.0
+Brooklyn South,BKS14,4,2018,October,14.6,33.1,55.8,40.3
+Brooklyn South,BKS15,4,2018,October,19.7,45.4,69.9,53.7
+Brooklyn South,BKS18,4,2018,October,15.2,32.4,69.1,44.0
+Bronx,BX01,4,2018,October,6.5,18.0,25.3,21.2
+Bronx,BX02,4,2018,October,12.2,30.6,52.2,40.0
+Bronx,BX03,4,2018,October,8.7,23.1,35.6,28.5
+Bronx,BX04,4,2018,October,10.9,26.3,48.5,36.0
+Bronx,BX05,4,2018,October,10.7,23.8,49.6,35.1
+Bronx,BX06,4,2018,October,13.7,32.3,44.9,37.8
+Bronx,BX07,4,2018,October,13.6,31.8,61.4,44.7
+Bronx,BX08,4,2018,October,19.9,40.3,81.9,53.5
+Bronx,BX09,4,2018,October,9.6,24.7,40.5,31.9
+Bronx,BX10,4,2018,October,20.3,40.8,79.4,54.0
+Bronx,BX11,4,2018,October,16.9,32.9,62.5,43.0
+Bronx,BX12,4,2018,October,21.0,33.5,85.5,51.2
+Manhattan,MN01,4,2018,October,26.3,42.0,75.5,49.7
+Manhattan,MN02,4,2018,October,26.0,38.2,85.7,49.1
+Manhattan,MN03,4,2018,October,14.6,43.8,43.8,43.8
+Manhattan,MN04,4,2018,October,22.1,31.5,81.0,42.9
+Manhattan,MN05,4,2018,October,19.3,29.1,65.3,37.4
+Manhattan,MN06,4,2018,October,22.3,32.8,75.3,42.5
+Manhattan,MN07,4,2018,October,26.7,40.7,81.9,50.1
+Manhattan,MN08,4,2018,October,25.7,40.1,80.7,49.4
+Manhattan,MN09,4,2018,October,18.7,54.2,48.7,51.8
+Manhattan,MN10,4,2018,October,15.1,38.4,54.7,45.6
+Manhattan,MN11,4,2018,October,11.4,39.7,34.2,37.3
+Manhattan,MN12,4,2018,October,15.5,42.8,55.6,48.4
+Queens East,QE07,4,2018,October,21.6,47.3,73.9,56.4
+Queens East,QE08,4,2018,October,18.6,26.1,55.6,34.2
+Queens East,QE10,4,2018,October,19.4,32.1,85.9,49.0
+Queens East,QE11,4,2018,October,26.4,51.0,83.3,61.2
+Queens East,QE12,4,2018,October,13.5,30.1,74.9,47.9
+Queens East,QE13,4,2018,October,16.7,29.7,89.2,48.4
+Queens East,QE14,4,2018,October,11.7,29.9,49.0,36.4
+Queens West,QW01,4,2018,October,19.1,46.9,84.1,59.6
+Queens West,QW02,4,2018,October,20.2,48.9,90.3,63.0
+Queens West,QW03,4,2018,October,13.8,29.2,69.6,43.0
+Queens West,QW04,4,2018,October,14.7,32.9,70.7,45.8
+Queens West,QW05,4,2018,October,24.1,43.0,98.1,61.8
+Queens West,QW06,4,2018,October,20.1,28.4,75.0,39.1
+Queens West,QW09,4,2018,October,18.2,36.9,88.4,54.5
+Staten Island,SI01,4,2018,October,19.7,38.1,79.8,51.2
+Staten Island,SI02,4,2018,October,19.4,41.8,78.2,53.2
+Staten Island,SI03,4,2018,October,20.6,44.1,88.7,58.1
+Brooklyn North,BKN01,3,2018,September,15.3,53.1,43.0,48.5
+Brooklyn North,BKN02,3,2018,September,19.9,34.7,55.8,40.5
+Brooklyn North,BKN03,3,2018,September,12.1,38.9,41.9,40.3
+Brooklyn North,BKN04,3,2018,September,14.5,36.8,61.9,48.2
+Brooklyn North,BKN05,3,2018,September,9.9,25.8,41.4,32.9
+Brooklyn North,BKN08,3,2018,September,15.9,50.7,53.2,51.8
+Brooklyn North,BKN09,3,2018,September,12.5,31.7,49.5,37.7
+Brooklyn North,BKN16,3,2018,September,9.3,25.0,32.0,28.2
+Brooklyn North,BKN17,3,2018,September,13.5,28.2,69.0,42.1
+Brooklyn South,BKS06,3,2018,September,29.6,47.6,81.3,56.9
+Brooklyn South,BKS07,3,2018,September,25.0,53.1,88.4,65.2
+Brooklyn South,BKS10,3,2018,September,23.9,55.6,86.3,66.1
+Brooklyn South,BKS11,3,2018,September,20.1,45.8,71.6,54.6
+Brooklyn South,BKS12,3,2018,September,16.2,57.2,42.7,50.6
+Brooklyn South,BKS13,3,2018,September,14.5,41.3,48.3,44.4
+Brooklyn South,BKS14,3,2018,September,14.5,34.2,53.4,40.3
+Brooklyn South,BKS15,3,2018,September,19.9,48.7,68.3,55.4
+Brooklyn South,BKS18,3,2018,September,15.1,32.7,68.1,43.8
+Bronx,BX01,3,2018,September,6.8,19.9,25.9,22.5
+Bronx,BX02,3,2018,September,13.5,34.4,57.6,44.5
+Bronx,BX03,3,2018,September,9.1,25.8,35.6,30.0
+Bronx,BX04,3,2018,September,11.2,27.7,48.4,36.7
+Bronx,BX05,3,2018,September,11.0,25.9,49.4,36.2
+Bronx,BX06,3,2018,September,13.9,36.1,44.2,39.6
+Bronx,BX07,3,2018,September,13.9,33.5,61.7,45.8
+Bronx,BX08,3,2018,September,20.5,44.5,80.2,55.8
+Bronx,BX09,3,2018,September,9.6,25.3,40.1,32.0
+Bronx,BX10,3,2018,September,20.2,42.1,78.5,54.5
+Bronx,BX11,3,2018,September,17.2,34.1,64.2,44.4
+Bronx,BX12,3,2018,September,19.9,34.9,87.4,52.8
+Manhattan,MN01,3,2018,September,27.4,43.1,81.5,52.0
+Manhattan,MN02,3,2018,September,25.7,38.2,84.8,48.9
+Manhattan,MN03,3,2018,September,14.5,45.5,42.8,44.3
+Manhattan,MN04,3,2018,September,21.8,31.5,79.1,42.4
+Manhattan,MN05,3,2018,September,18.5,28.5,60.9,36.0
+Manhattan,MN06,3,2018,September,22.1,32.4,74.8,42.2
+Manhattan,MN07,3,2018,September,26.7,41.3,80.4,50.3
+Manhattan,MN08,3,2018,September,25.6,40.6,78.1,49.2
+Manhattan,MN09,3,2018,September,18.8,60.4,47.6,54.8
+Manhattan,MN10,3,2018,September,15.5,38.9,57.1,46.9
+Manhattan,MN11,3,2018,September,11.4,42.2,31.6,37.6
+Manhattan,MN12,3,2018,September,15.7,45.1,56.0,49.9
+Queens East,QE07,3,2018,September,17.9,47.3,71.8,55.7
+Queens East,QE08,3,2018,September,15.7,26.7,56.2,34.8
+Queens East,QE10,3,2018,September,19.6,33.6,88.5,50.9
+Queens East,QE11,3,2018,September,26.0,53.0,83.8,62.7
+Queens East,QE12,3,2018,September,13.7,30.2,76.9,48.8
+Queens East,QE13,3,2018,September,17.2,30.4,91.9,49.8
+Queens East,QE14,3,2018,September,11.9,30.0,50.2,36.9
+Queens West,QW01,3,2018,September,19.5,47.9,85.7,60.8
+Queens West,QW02,3,2018,September,19.8,50.1,83.7,61.6
+Queens West,QW03,3,2018,September,14.1,29.8,70.7,43.8
+Queens West,QW04,3,2018,September,15.0,34.4,70.6,46.7
+Queens West,QW05,3,2018,September,24.4,44.1,101.8,63.8
+Queens West,QW06,3,2018,September,20.8,29.2,77.7,40.3
+Queens West,QW09,3,2018,September,18.0,37.5,87.5,54.6
+Staten Island,SI01,3,2018,September,19.8,37.8,81.4,51.5
+Staten Island,SI02,3,2018,September,19.3,41.8,81.2,54.2
+Staten Island,SI03,3,2018,September,20.3,44.2,87.5,57.8
+Brooklyn North,BKN01,10,2017,April,13.8,42.3,42.3,42.3
+Brooklyn North,BKN02,10,2017,April,17.4,33.5,54.2,39.6
+Brooklyn North,BKN03,10,2017,April,11.3,31.7,41.1,35.5
+Brooklyn North,BKN04,10,2017,April,14.3,31.5,64.7,45.0
+Brooklyn North,BKN05,10,2017,April,10.0,23.4,43.3,31.5
+Brooklyn North,BKN08,10,2017,April,16.2,43.7,58.6,49.8
+Brooklyn North,BKN09,10,2017,April,13.1,33.6,45.5,38.1
+Brooklyn North,BKN16,10,2017,April,8.7,22.1,35.0,27.4
+Brooklyn North,BKN17,10,2017,April,13.6,29.5,61.0,41.5
+Brooklyn South,BKS06,10,2017,April,30.1,49.1,85.0,59.7
+Brooklyn South,BKS07,10,2017,April,21.0,50.2,71.5,58.3
+Brooklyn South,BKS10,10,2017,April,24.6,57.1,80.3,65.9
+Brooklyn South,BKS11,10,2017,April,18.7,47.3,65.9,54.3
+Brooklyn South,BKS12,10,2017,April,15.1,48.8,45.6,47.5
+Brooklyn South,BKS13,10,2017,April,14.1,45.1,50.1,47.3
+Brooklyn South,BKS14,10,2017,April,14.3,37.5,54.0,43.2
+Brooklyn South,BKS15,10,2017,April,18.2,50.6,63.2,55.4
+Brooklyn South,BKS18,10,2017,April,15.6,41.8,73.7,53.2
+Bronx,BX01,10,2017,April,6.8,19.3,27.4,22.8
+Bronx,BX02,10,2017,April,13.0,32.8,57.5,43.6
+Bronx,BX03,10,2017,April,8.7,24.2,35.7,29.2
+Bronx,BX04,10,2017,April,11.1,28.6,48.3,37.2
+Bronx,BX05,10,2017,April,11.5,27.8,52.9,38.7
+Bronx,BX06,10,2017,April,14.4,36.6,51.2,43.0
+Bronx,BX07,10,2017,April,13.8,33.6,62.6,46.2
+Bronx,BX08,10,2017,April,19.8,45.8,80.3,57.6
+Bronx,BX09,10,2017,April,9.4,21.0,42.0,29.6
+Bronx,BX10,10,2017,April,18.5,42.7,68.3,52.4
+Bronx,BX11,10,2017,April,14.1,34.6,56.3,42.9
+Bronx,BX12,10,2017,April,16.3,35.2,73.1,49.6
+Manhattan,MN01,10,2017,April,26.7,44.2,76.1,51.9
+Manhattan,MN02,10,2017,April,25.1,38.5,82.7,49.1
+Manhattan,MN03,10,2017,April,13.8,42.7,44.7,43.6
+Manhattan,MN04,10,2017,April,21.8,31.5,80.3,43.3
+Manhattan,MN05,10,2017,April,18.8,29.4,62.6,37.4
+Manhattan,MN06,10,2017,April,22.0,33.1,75.2,43.2
+Manhattan,MN07,10,2017,April,26.1,40.2,83.2,50.6
+Manhattan,MN08,10,2017,April,25.7,41.1,81.3,50.8
+Manhattan,MN09,10,2017,April,17.9,56.6,49.9,53.7
+Manhattan,MN10,10,2017,April,14.4,39.5,58.0,47.6
+Manhattan,MN11,10,2017,April,11.8,42.6,32.8,38.3
+Manhattan,MN12,10,2017,April,15.7,45.3,59.4,51.5
+Queens East,QE07,10,2017,April,18.1,49.0,65.1,55.1
+Queens East,QE08,10,2017,April,15.8,29.3,55.0,36.9
+Queens East,QE10,10,2017,April,21.1,45.0,94.5,62.6
+Queens East,QE11,10,2017,April,28.0,65.1,93.7,75.3
+Queens East,QE12,10,2017,April,14.1,37.0,68.4,51.4
+Queens East,QE13,10,2017,April,17.5,40.4,94.4,59.6
+Queens East,QE14,10,2017,April,11.8,31.3,43.9,36.1
+Queens West,QW01,10,2017,April,19.6,49.9,76.0,59.8
+Queens West,QW02,10,2017,April,19.8,51.3,75.2,60.4
+Queens West,QW03,10,2017,April,14.6,32.3,64.4,44.5
+Queens West,QW04,10,2017,April,14.8,35.3,60.8,45.0
+Queens West,QW05,10,2017,April,25.3,47.4,91.4,64.1
+Queens West,QW06,10,2017,April,20.7,29.5,78.1,41.2
+Queens West,QW09,10,2017,April,18.7,40.8,79.6,55.5
+Staten Island,SI01,10,2017,April,19.9,48.0,87.6,62.1
+Staten Island,SI02,10,2017,April,19.8,54.1,87.8,66.1
+Staten Island,SI03,10,2017,April,20.2,55.1,91.1,67.9
+Brooklyn North,BKN01,2,2017,August,15.6,48.1,45.8,47.0
+Brooklyn North,BKN02,2,2017,August,17.2,31.3,52.1,37.4
+Brooklyn North,BKN03,2,2017,August,11.3,31.0,38.5,34.4
+Brooklyn North,BKN04,2,2017,August,13.6,31.8,53.0,41.5
+Brooklyn North,BKN05,2,2017,August,9.7,23.4,37.4,29.8
+Brooklyn North,BKN08,2,2017,August,14.9,42.9,48.6,45.5
+Brooklyn North,BKN09,2,2017,August,11.7,30.4,39.8,34.1
+Brooklyn North,BKN16,2,2017,August,8.1,21.6,28.2,24.6
+Brooklyn North,BKN17,2,2017,August,13.2,27.7,54.9,38.5
+Brooklyn South,BKS06,2,2017,August,28.4,44.4,81.2,55.2
+Brooklyn South,BKS07,2,2017,August,21.9,56.7,61.4,58.6
+Brooklyn South,BKS10,2,2017,August,24.0,55.8,70.1,61.4
+Brooklyn South,BKS11,2,2017,August,17.1,45.2,57.0,49.9
+Brooklyn South,BKS12,2,2017,August,14.6,50.1,37.8,44.5
+Brooklyn South,BKS13,2,2017,August,13.4,36.3,51.6,42.8
+Brooklyn South,BKS14,2,2017,August,13.7,30.9,52.0,37.8
+Brooklyn South,BKS15,2,2017,August,17.2,46.6,55.4,50.1
+Brooklyn South,BKS18,2,2017,August,15.1,35.4,59.5,43.9
+Bronx,BX01,2,2017,August,6.5,17.2,25.7,20.8
+Bronx,BX02,2,2017,August,12.9,32.3,53.1,41.2
+Bronx,BX03,2,2017,August,8.8,22.2,36.4,28.3
+Bronx,BX04,2,2017,August,10.9,26.6,45.9,34.9
+Bronx,BX05,2,2017,August,11.8,25.3,54.0,37.6
+Bronx,BX06,2,2017,August,11.9,32.7,44.8,37.9
+Bronx,BX07,2,2017,August,13.6,30.5,60.7,43.4
+Bronx,BX08,2,2017,August,20.1,41.4,79.4,53.7
+Bronx,BX09,2,2017,August,9.6,23.2,36.9,29.5
+Bronx,BX10,2,2017,August,18.3,42.2,62.7,50.3
+Bronx,BX11,2,2017,August,13.9,33.8,50.7,40.5
+Bronx,BX12,2,2017,August,16.2,33.6,68.0,47.3
+Manhattan,MN01,2,2017,August,26.0,44.1,63.5,49.3
+Manhattan,MN02,2,2017,August,23.8,37.7,69.3,46.2
+Manhattan,MN03,2,2017,August,13.2,40.1,43.7,41.7
+Manhattan,MN04,2,2017,August,21.6,31.9,69.3,42.0
+Manhattan,MN05,2,2017,August,17.6,29.0,48.3,34.2
+Manhattan,MN06,2,2017,August,21.0,32.3,63.6,40.8
+Manhattan,MN07,2,2017,August,25.9,41.5,71.8,49.6
+Manhattan,MN08,2,2017,August,25.4,41.9,69.3,49.3
+Manhattan,MN09,2,2017,August,17.2,57.2,48.2,53.4
+Manhattan,MN10,2,2017,August,14.3,36.3,56.7,45.0
+Manhattan,MN11,2,2017,August,11.4,40.2,31.4,36.4
+Manhattan,MN12,2,2017,August,15.1,41.0,57.7,48.2
+Queens East,QE07,2,2017,August,17.3,47.2,55.0,50.3
+Queens East,QE08,2,2017,August,15.6,28.1,48.3,34.0
+Queens East,QE10,2,2017,August,20.6,36.8,77.2,51.1
+Queens East,QE11,2,2017,August,21.0,54.6,73.1,61.2
+Queens East,QE12,2,2017,August,13.5,33.6,55.9,44.3
+Queens East,QE13,2,2017,August,17.4,34.7,79.5,50.6
+Queens East,QE14,2,2017,August,10.9,28.4,37.2,31.9
+Queens West,QW01,2,2017,August,19.6,49.8,68.2,57.1
+Queens West,QW02,2,2017,August,19.5,51.8,64.1,56.7
+Queens West,QW03,2,2017,August,13.9,31.7,54.1,40.6
+Queens West,QW04,2,2017,August,14.5,35.1,53.0,42.2
+Queens West,QW05,2,2017,August,23.0,49.0,81.3,61.9
+Queens West,QW06,2,2017,August,20.4,30.8,63.3,39.6
+Queens West,QW09,2,2017,August,18.0,41.0,69.6,52.4
+Staten Island,SI01,2,2017,August,18.7,38.2,70.5,49.7
+Staten Island,SI02,2,2017,August,18.2,43.4,69.7,52.7
+Staten Island,SI03,2,2017,August,20.2,47.0,80.1,58.7
+Brooklyn North,BKN01,6,2017,December,15.6,50.7,46.0,48.8
+Brooklyn North,BKN02,6,2017,December,19.5,35.8,55.9,41.5
+Brooklyn North,BKN03,6,2017,December,12.4,37.3,42.3,39.3
+Brooklyn North,BKN04,6,2017,December,15.4,38.8,62.7,48.6
+Brooklyn North,BKN05,6,2017,December,11.1,29.1,43.8,35.1
+Brooklyn North,BKN08,6,2017,December,16.8,48.9,56.1,51.8
+Brooklyn North,BKN09,6,2017,December,13.9,33.0,43.7,36.9
+Brooklyn North,BKN16,6,2017,December,9.6,26.7,36.0,30.5
+Brooklyn North,BKN17,6,2017,December,14.8,31.3,59.1,41.4
+Brooklyn South,BKS06,6,2017,December,31.6,50.4,82.7,59.6
+Brooklyn South,BKS07,6,2017,December,22.3,48.6,68.6,55.9
+Brooklyn South,BKS10,6,2017,December,26.5,60.8,75.0,66.0
+Brooklyn South,BKS11,6,2017,December,21.2,49.1,62.9,54.1
+Brooklyn South,BKS12,6,2017,December,15.7,53.6,43.9,49.6
+Brooklyn South,BKS13,6,2017,December,15.2,47.6,50.6,48.9
+Brooklyn South,BKS14,6,2017,December,15.2,34.0,51.3,39.4
+Brooklyn South,BKS15,6,2017,December,19.5,52.2,58.9,54.6
+Brooklyn South,BKS18,6,2017,December,17.3,36.7,62.1,44.8
+Bronx,BX01,6,2017,December,6.9,21.2,23.5,22.2
+Bronx,BX02,6,2017,December,13.7,36.8,53.1,44.2
+Bronx,BX03,6,2017,December,9.5,28.4,33.4,30.7
+Bronx,BX04,6,2017,December,11.4,31.9,42.5,36.7
+Bronx,BX05,6,2017,December,12.3,32.1,48.9,39.7
+Bronx,BX06,6,2017,December,13.9,36.7,42.3,39.2
+Bronx,BX07,6,2017,December,14.4,38.2,56.1,46.2
+Bronx,BX08,6,2017,December,21.8,44.2,76.6,54.3
+Bronx,BX09,6,2017,December,10.2,25.5,42.2,32.4
+Bronx,BX10,6,2017,December,20.0,47.1,63.8,53.2
+Bronx,BX11,6,2017,December,15.3,36.3,54.1,42.8
+Bronx,BX12,6,2017,December,17.7,37.2,71.2,49.6
+Manhattan,MN01,6,2017,December,30.1,47.0,84.1,56.5
+Manhattan,MN02,6,2017,December,27.6,43.1,76.7,51.7
+Manhattan,MN03,6,2017,December,14.4,45.0,42.2,43.8
+Manhattan,MN04,6,2017,December,24.0,36.1,73.9,45.8
+Manhattan,MN05,6,2017,December,21.0,33.9,58.1,40.1
+Manhattan,MN06,6,2017,December,24.6,37.7,69.9,46.0
+Manhattan,MN07,6,2017,December,28.3,45.1,74.9,52.8
+Manhattan,MN08,6,2017,December,27.5,45.4,72.7,52.4
+Manhattan,MN09,6,2017,December,18.7,58.9,47.3,53.7
+Manhattan,MN10,6,2017,December,15.3,44.7,54.0,48.9
+Manhattan,MN11,6,2017,December,12.3,44.1,31.1,38.2
+Manhattan,MN12,6,2017,December,17.1,51.2,56.4,53.5
+Queens East,QE07,6,2017,December,20.0,52.0,63.2,56.1
+Queens East,QE08,6,2017,December,17.2,32.8,49.6,37.5
+Queens East,QE10,6,2017,December,23.5,41.1,76.6,52.4
+Queens East,QE11,6,2017,December,32.8,56.2,76.2,62.6
+Queens East,QE12,6,2017,December,15.5,38.3,66.3,50.0
+Queens East,QE13,6,2017,December,19.8,37.5,80.2,51.1
+Queens East,QE14,6,2017,December,13.1,35.1,39.7,36.8
+Queens West,QW01,6,2017,December,21.2,52.1,72.2,59.4
+Queens West,QW02,6,2017,December,22.1,55.8,72.7,62.0
+Queens West,QW03,6,2017,December,16.3,36.6,61.3,45.6
+Queens West,QW04,6,2017,December,16.3,37.9,59.1,45.6
+Queens West,QW05,6,2017,December,29.2,56.0,86.5,67.1
+Queens West,QW06,6,2017,December,22.6,35.0,66.6,43.1
+Queens West,QW09,6,2017,December,20.7,46.4,73.9,56.4
+Staten Island,SI01,6,2017,December,21.9,43.4,73.0,52.9
+Staten Island,SI02,6,2017,December,22.4,47.0,74.2,55.7
+Staten Island,SI03,6,2017,December,23.7,53.3,75.5,60.4
+Brooklyn North,BKN01,8,2017,February,14.6,45.4,46.1,45.7
+Brooklyn North,BKN02,8,2017,February,18.4,32.3,56.7,39.2
+Brooklyn North,BKN03,8,2017,February,11.6,32.8,42.2,36.7
+Brooklyn North,BKN04,8,2017,February,14.1,31.9,63.1,44.7
+Brooklyn North,BKN05,8,2017,February,9.9,23.6,42.5,31.4
+Brooklyn North,BKN08,8,2017,February,16.1,43.6,58.0,49.5
+Brooklyn North,BKN09,8,2017,February,13.0,29.6,42.4,34.3
+Brooklyn North,BKN16,8,2017,February,8.4,21.8,33.5,26.6
+Brooklyn North,BKN17,8,2017,February,13.3,25.6,57.4,37.2
+Brooklyn South,BKS06,8,2017,February,29.9,45.0,85.2,56.4
+Brooklyn South,BKS07,8,2017,February,19.9,40.4,69.5,51.0
+Brooklyn South,BKS10,8,2017,February,24.3,51.5,77.8,61.0
+Brooklyn South,BKS11,8,2017,February,18.7,41.3,63.1,49.2
+Brooklyn South,BKS12,8,2017,February,14.4,48.2,41.8,45.6
+Brooklyn South,BKS13,8,2017,February,13.9,40.9,49.2,44.6
+Brooklyn South,BKS14,8,2017,February,14.4,30.7,52.3,37.5
+Brooklyn South,BKS15,8,2017,February,18.0,44.7,60.3,50.4
+Brooklyn South,BKS18,8,2017,February,15.7,30.7,62.0,40.7
+Bronx,BX01,8,2017,February,6.3,17.2,23.9,20.2
+Bronx,BX02,8,2017,February,12.4,30.9,51.1,40.0
+Bronx,BX03,8,2017,February,8.8,23.3,34.8,28.5
+Bronx,BX04,8,2017,February,10.2,24.8,42.5,32.8
+Bronx,BX05,8,2017,February,10.9,24.8,47.4,35.0
+Bronx,BX06,8,2017,February,14.0,33.6,45.5,39.0
+Bronx,BX07,8,2017,February,13.2,30.9,56.7,42.5
+Bronx,BX08,8,2017,February,19.7,38.1,76.4,50.1
+Bronx,BX09,8,2017,February,9.4,21.0,42.0,29.6
+Bronx,BX10,8,2017,February,18.2,39.6,66.4,49.4
+Bronx,BX11,8,2017,February,13.9,30.4,54.1,39.0
+Bronx,BX12,8,2017,February,16.3,31.4,70.2,45.5
+Manhattan,MN01,8,2017,February,26.1,42.8,66.6,48.9
+Manhattan,MN02,8,2017,February,25.2,36.8,77.6,47.3
+Manhattan,MN03,8,2017,February,14.2,42.8,43.5,43.1
+Manhattan,MN04,8,2017,February,22.3,31.4,74.6,42.5
+Manhattan,MN05,8,2017,February,19.6,30.2,58.3,37.5
+Manhattan,MN06,8,2017,February,22.6,32.2,72.8,42.7
+Manhattan,MN07,8,2017,February,26.5,39.7,76.9,49.3
+Manhattan,MN08,8,2017,February,25.3,39.2,74.1,48.2
+Manhattan,MN09,8,2017,February,17.6,51.5,47.8,49.8
+Manhattan,MN10,8,2017,February,14.3,38.1,53.8,45.2
+Manhattan,MN11,8,2017,February,11.4,38.9,31.4,35.5
+Manhattan,MN12,8,2017,February,15.9,44.8,56.0,49.8
+Queens East,QE07,8,2017,February,18.4,45.4,62.5,51.6
+Queens East,QE08,8,2017,February,16.4,29.0,53.3,35.9
+Queens East,QE10,8,2017,February,21.0,34.7,80.5,49.3
+Queens East,QE11,8,2017,February,27.9,50.5,81.4,60.3
+Queens East,QE12,8,2017,February,14.2,32.6,64.6,46.0
+Queens East,QE13,8,2017,February,18.9,33.2,82.4,48.9
+Queens East,QE14,8,2017,February,11.6,28.8,38.5,32.3
+Queens West,QW01,8,2017,February,20.0,45.1,74.8,55.9
+Queens West,QW02,8,2017,February,20.3,47.7,72.5,56.7
+Queens West,QW03,8,2017,February,14.9,30.3,61.7,41.8
+Queens West,QW04,8,2017,February,14.9,31.3,59.6,41.6
+Queens West,QW05,8,2017,February,26.4,45.8,89.9,61.9
+Queens West,QW06,8,2017,February,21.1,29.9,70.2,40.3
+Queens West,QW09,8,2017,February,19.1,38.7,74.7,51.8
+Staten Island,SI01,8,2017,February,19.3,36.0,74.5,48.3
+Staten Island,SI02,8,2017,February,20.5,40.8,74.5,51.6
+Staten Island,SI03,8,2017,February,21.4,43.4,77.7,54.4
+Brooklyn North,BKN01,7,2017,January,16.5,48.8,49.7,49.1
+Brooklyn North,BKN02,7,2017,January,20.4,33.9,57.3,40.5
+Brooklyn North,BKN03,7,2017,January,13.0,36.5,44.3,39.7
+Brooklyn North,BKN04,7,2017,January,16.1,37.6,67.2,49.7
+Brooklyn North,BKN05,7,2017,January,11.0,26.6,45.7,34.4
+Brooklyn North,BKN08,7,2017,January,18.4,47.8,61.8,53.6
+Brooklyn North,BKN09,7,2017,January,13.9,31.2,43.7,35.7
+Brooklyn North,BKN16,7,2017,January,9.2,23.2,36.5,28.6
+Brooklyn North,BKN17,7,2017,January,14.9,28.6,62.9,41.1
+Brooklyn South,BKS06,7,2017,January,33.1,47.8,86.0,58.6
+Brooklyn South,BKS07,7,2017,January,22.6,46.0,72.2,55.5
+Brooklyn South,BKS10,7,2017,January,26.9,56.5,78.2,64.4
+Brooklyn South,BKS11,7,2017,January,21.3,47.5,65.6,54.1
+Brooklyn South,BKS12,7,2017,January,15.6,52.2,43.9,48.8
+Brooklyn South,BKS13,7,2017,January,15.4,44.1,52.5,47.9
+Brooklyn South,BKS14,7,2017,January,15.9,33.5,55.2,40.3
+Brooklyn South,BKS15,7,2017,January,19.8,49.2,62.7,54.1
+Brooklyn South,BKS18,7,2017,January,17.6,34.5,64.8,44.2
+Bronx,BX01,7,2017,January,7.4,20.6,26.3,23.2
+Bronx,BX02,7,2017,January,14.2,33.3,55.3,43.2
+Bronx,BX03,7,2017,January,9.5,26.4,33.9,29.8
+Bronx,BX04,7,2017,January,12.0,30.0,47.5,37.9
+Bronx,BX05,7,2017,January,12.4,28.3,52.1,39.0
+Bronx,BX06,7,2017,January,14.1,34.1,42.5,37.9
+Bronx,BX07,7,2017,January,15.1,36.5,60.5,47.3
+Bronx,BX08,7,2017,January,22.1,41.5,80.6,53.7
+Bronx,BX09,7,2017,January,10.7,23.6,43.3,31.7
+Bronx,BX10,7,2017,January,20.1,43.1,67.5,52.0
+Bronx,BX11,7,2017,January,15.6,33.3,57.6,42.1
+Bronx,BX12,7,2017,January,18.2,35.3,75.9,50.1
+Manhattan,MN01,7,2017,January,27.9,44.3,71.0,51.2
+Manhattan,MN02,7,2017,January,28.9,41.7,77.1,50.8
+Manhattan,MN03,7,2017,January,15.7,45.3,44.0,44.7
+Manhattan,MN04,7,2017,January,24.2,33.6,74.5,44.1
+Manhattan,MN05,7,2017,January,22.2,32.9,59.6,39.7
+Manhattan,MN06,7,2017,January,24.2,34.2,71.0,43.6
+Manhattan,MN07,7,2017,January,28.8,42.2,77.3,51.2
+Manhattan,MN08,7,2017,January,28.3,41.1,73.1,49.3
+Manhattan,MN09,7,2017,January,19.5,57.4,48.1,53.2
+Manhattan,MN10,7,2017,January,15.8,40.7,55.4,47.3
+Manhattan,MN11,7,2017,January,12.6,42.7,31.7,37.7
+Manhattan,MN12,7,2017,January,17.4,47.0,58.8,52.3
+Queens East,QE07,7,2017,January,20.5,49.3,66.3,55.5
+Queens East,QE08,7,2017,January,17.5,30.8,54.3,37.5
+Queens East,QE10,7,2017,January,23.5,38.3,82.7,52.5
+Queens East,QE11,7,2017,January,30.9,53.8,83.0,63.1
+Queens East,QE12,7,2017,January,15.5,35.8,68.0,49.3
+Queens East,QE13,7,2017,January,20.8,36.1,87.1,52.4
+Queens East,QE14,7,2017,January,13.2,31.2,39.7,34.3
+Queens West,QW01,7,2017,January,22.1,49.3,78.0,59.7
+Queens West,QW02,7,2017,January,22.6,51.0,75.6,60.0
+Queens West,QW03,7,2017,January,16.1,32.8,63.3,43.9
+Queens West,QW04,7,2017,January,16.2,34.7,61.5,44.5
+Queens West,QW05,7,2017,January,28.3,50.3,89.3,64.5
+Queens West,QW06,7,2017,January,23.0,32.4,73.1,42.9
+Queens West,QW09,7,2017,January,21.7,43.5,80.0,56.8
+Staten Island,SI01,7,2017,January,21.5,39.8,75.6,51.2
+Staten Island,SI02,7,2017,January,23.0,44.7,76.6,54.9
+Staten Island,SI03,7,2017,January,23.7,47.2,79.1,57.4
+Brooklyn North,BKN01,1,2017,July,15.2,45.4,46.4,45.9
+Brooklyn North,BKN02,1,2017,July,17.1,30.4,53.5,37.2
+Brooklyn North,BKN03,1,2017,July,11.2,31.6,37.5,34.3
+Brooklyn North,BKN04,1,2017,July,13.9,32.9,54.1,42.5
+Brooklyn North,BKN05,1,2017,July,9.7,23.7,36.6,29.6
+Brooklyn North,BKN08,1,2017,July,15.2,44.4,49.0,46.5
+Brooklyn North,BKN09,1,2017,July,11.6,30.6,38.9,33.9
+Brooklyn North,BKN16,1,2017,July,8.3,22.0,29.6,25.5
+Brooklyn North,BKN17,1,2017,July,13.1,27.8,54.2,38.3
+Brooklyn South,BKS06,1,2017,July,28.4,43.4,82.2,54.8
+Brooklyn South,BKS07,1,2017,July,19.9,46.1,62.8,52.7
+Brooklyn South,BKS10,1,2017,July,23.9,56.4,69.7,61.7
+Brooklyn South,BKS11,1,2017,July,17.7,47.5,57.5,51.5
+Brooklyn South,BKS12,1,2017,July,14.7,49.9,38.9,44.9
+Brooklyn South,BKS13,1,2017,July,14.3,37.6,56.5,45.7
+Brooklyn South,BKS14,1,2017,July,14.2,31.8,54.4,39.1
+Brooklyn South,BKS15,1,2017,July,17.4,47.3,56.1,50.8
+Brooklyn South,BKS18,1,2017,July,15.1,35.3,59.7,43.9
+Bronx,BX01,1,2017,July,6.6,17.8,25.4,21.0
+Bronx,BX02,1,2017,July,12.5,29.5,53.7,39.9
+Bronx,BX03,1,2017,July,9.8,25.4,38.9,31.2
+Bronx,BX04,1,2017,July,10.9,26.9,45.3,34.8
+Bronx,BX05,1,2017,July,11.7,25.7,52.9,37.4
+Bronx,BX06,1,2017,July,12.2,34.6,45.3,39.2
+Bronx,BX07,1,2017,July,13.5,31.3,59.3,43.3
+Bronx,BX08,1,2017,July,20.0,41.4,78.1,53.3
+Bronx,BX09,1,2017,July,9.7,23.4,37.0,29.6
+Bronx,BX10,1,2017,July,18.3,43.0,62.0,50.6
+Bronx,BX11,1,2017,July,14.0,34.9,49.5,40.7
+Bronx,BX12,1,2017,July,16.3,33.9,68.4,47.6
+Manhattan,MN01,1,2017,July,27.2,49.7,57.8,51.9
+Manhattan,MN02,1,2017,July,24.4,39.0,70.0,47.4
+Manhattan,MN03,1,2017,July,13.1,40.4,42.5,41.3
+Manhattan,MN04,1,2017,July,22.4,32.8,72.7,43.6
+Manhattan,MN05,1,2017,July,18.1,30.0,49.5,35.2
+Manhattan,MN06,1,2017,July,22.1,34.5,65.4,42.9
+Manhattan,MN07,1,2017,July,25.6,41.5,70.2,49.2
+Manhattan,MN08,1,2017,July,26.3,44.1,69.5,51.0
+Manhattan,MN09,1,2017,July,18.6,67.4,46.6,58.5
+Manhattan,MN10,1,2017,July,14.3,37.7,54.5,44.9
+Manhattan,MN11,1,2017,July,12.3,44.8,31.8,39.2
+Manhattan,MN12,1,2017,July,15.8,43.6,59.6,50.5
+Queens East,QE07,1,2017,July,17.4,47.1,56.3,50.8
+Queens East,QE08,1,2017,July,15.5,27.5,48.8,33.8
+Queens East,QE10,1,2017,July,21.0,36.4,78.4,51.3
+Queens East,QE11,1,2017,July,21.4,54.9,75.4,62.2
+Queens East,QE12,1,2017,July,13.7,33.5,57.5,45.1
+Queens East,QE13,1,2017,July,17.8,34.8,82.4,51.6
+Queens East,QE14,1,2017,July,11.4,29.2,39.1,33.1
+Queens West,QW01,1,2017,July,19.9,50.4,69.6,58.1
+Queens West,QW02,1,2017,July,19.5,50.3,67.0,56.9
+Queens West,QW03,1,2017,July,13.9,31.6,53.9,40.5
+Queens West,QW04,1,2017,July,14.2,35.0,51.3,41.5
+Queens West,QW05,1,2017,July,22.9,48.2,81.4,61.4
+Queens West,QW06,1,2017,July,20.7,30.7,66.0,40.2
+Queens West,QW09,1,2017,July,18.0,40.1,71.3,52.5
+Staten Island,SI01,1,2017,July,19.1,38.6,71.5,50.3
+Staten Island,SI02,1,2017,July,18.7,43.8,73.1,54.2
+Staten Island,SI03,1,2017,July,20.2,46.8,80.8,58.8
+Brooklyn North,BKN01,12,2017,June,15.4,45.2,46.4,45.7
+Brooklyn North,BKN02,12,2017,June,19.4,35.8,56.8,42.0
+Brooklyn North,BKN03,12,2017,June,11.8,32.9,43.1,37.0
+Brooklyn North,BKN04,12,2017,June,14.8,34.7,63.3,46.4
+Brooklyn North,BKN05,12,2017,June,10.1,24.3,42.3,31.6
+Brooklyn North,BKN08,12,2017,June,16.6,46.3,57.3,50.8
+Brooklyn North,BKN09,12,2017,June,12.6,33.1,42.6,36.7
+Brooklyn North,BKN16,12,2017,June,9.6,22.4,34.3,27.2
+Brooklyn North,BKN17,12,2017,June,13.5,29.2,60.4,41.1
+Brooklyn South,BKS06,12,2017,June,29.1,49.2,81.8,58.8
+Brooklyn South,BKS07,12,2017,June,20.5,48.4,71.1,57.1
+Brooklyn South,BKS10,12,2017,June,23.7,56.5,73.4,63.0
+Brooklyn South,BKS11,12,2017,June,18.1,47.5,61.1,52.7
+Brooklyn South,BKS12,12,2017,June,14.0,44.1,43.3,43.8
+Brooklyn South,BKS13,12,2017,June,14.7,43.8,49.0,46.1
+Brooklyn South,BKS14,12,2017,June,14.1,37.0,52.6,42.3
+Brooklyn South,BKS15,12,2017,June,20.0,50.0,61.6,54.4
+Brooklyn South,BKS18,12,2017,June,15.2,40.3,73.0,51.9
+Bronx,BX01,12,2017,June,7.3,22.5,27.0,24.5
+Bronx,BX02,12,2017,June,13.3,37.4,54.0,44.6
+Bronx,BX03,12,2017,June,9.3,28.8,34.4,31.2
+Bronx,BX04,12,2017,June,11.6,30.9,49.7,39.1
+Bronx,BX05,12,2017,June,11.9,30.4,52.0,39.9
+Bronx,BX06,12,2017,June,13.9,37.1,42.6,39.5
+Bronx,BX07,12,2017,June,14.1,35.4,63.0,47.5
+Bronx,BX08,12,2017,June,20.3,49.3,77.4,58.9
+Bronx,BX09,12,2017,June,10.3,24.4,43.6,32.2
+Bronx,BX10,12,2017,June,18.3,43.5,68.2,52.9
+Bronx,BX11,12,2017,June,14.1,34.8,56.3,43.0
+Bronx,BX12,12,2017,June,16.4,35.2,74.3,50.0
+Manhattan,MN01,12,2017,June,26.9,44.8,76.1,52.3
+Manhattan,MN02,12,2017,June,25.7,39.9,84.1,50.5
+Manhattan,MN03,12,2017,June,14.7,47.0,46.7,46.8
+Manhattan,MN04,12,2017,June,21.4,31.3,77.5,42.5
+Manhattan,MN05,12,2017,June,18.8,29.0,63.7,37.4
+Manhattan,MN06,12,2017,June,21.3,32.0,72.1,41.6
+Manhattan,MN07,12,2017,June,26.0,40.7,81.8,50.6
+Manhattan,MN08,12,2017,June,25.1,40.3,78.8,49.6
+Manhattan,MN09,12,2017,June,18.2,59.8,49.5,55.3
+Manhattan,MN10,12,2017,June,14.2,39.4,56.9,47.0
+Manhattan,MN11,12,2017,June,12.1,44.8,32.6,39.5
+Manhattan,MN12,12,2017,June,15.5,45.2,58.2,50.9
+Queens East,QE07,12,2017,June,17.9,48.6,64.1,54.4
+Queens East,QE08,12,2017,June,15.5,29.9,51.1,36.2
+Queens East,QE10,12,2017,June,20.2,44.2,91.7,61.1
+Queens East,QE11,12,2017,June,25.6,64.5,89.1,73.2
+Queens East,QE12,12,2017,June,14.0,37.2,66.8,50.8
+Queens East,QE13,12,2017,June,17.2,39.1,93.9,58.6
+Queens East,QE14,12,2017,June,11.8,31.2,43.5,35.9
+Queens West,QW01,12,2017,June,19.8,52.1,73.6,60.3
+Queens West,QW02,12,2017,June,19.4,51.9,71.2,59.2
+Queens West,QW03,12,2017,June,14.4,32.9,61.9,43.9
+Queens West,QW04,12,2017,June,15.4,36.8,63.7,47.0
+Queens West,QW05,12,2017,June,24.0,47.9,87.8,63.1
+Queens West,QW06,12,2017,June,20.7,30.1,75.8,41.1
+Queens West,QW09,12,2017,June,18.8,42.8,76.8,55.8
+Staten Island,SI01,12,2017,June,20.1,46.5,87.2,61.0
+Staten Island,SI02,12,2017,June,19.5,52.3,88.1,65.0
+Staten Island,SI03,12,2017,June,19.8,53.6,90.1,66.6
+Brooklyn North,BKN01,9,2017,March,14.0,42.8,45.1,43.7
+Brooklyn North,BKN02,9,2017,March,18.3,31.9,55.8,38.7
+Brooklyn North,BKN03,9,2017,March,11.3,32.0,41.2,35.8
+Brooklyn North,BKN04,9,2017,March,14.3,32.2,63.7,45.1
+Brooklyn North,BKN05,9,2017,March,9.9,23.9,42.4,31.4
+Brooklyn North,BKN08,9,2017,March,16.7,45.0,60.7,51.4
+Brooklyn North,BKN09,9,2017,March,12.8,29.0,41.6,33.6
+Brooklyn North,BKN16,9,2017,March,8.1,21.2,32.0,25.6
+Brooklyn North,BKN17,9,2017,March,13.7,26.6,58.5,38.2
+Brooklyn South,BKS06,9,2017,March,30.4,46.5,85.5,57.6
+Brooklyn South,BKS07,9,2017,March,21.0,45.5,70.2,54.5
+Brooklyn South,BKS10,9,2017,March,24.5,53.4,77.4,62.2
+Brooklyn South,BKS11,9,2017,March,19.1,42.4,62.3,49.7
+Brooklyn South,BKS12,9,2017,March,14.5,48.5,42.1,45.9
+Brooklyn South,BKS13,9,2017,March,14.5,42.3,52.0,46.6
+Brooklyn South,BKS14,9,2017,March,14.9,32.1,53.4,38.8
+Brooklyn South,BKS15,9,2017,March,18.3,46.0,59.9,51.1
+Brooklyn South,BKS18,9,2017,March,15.9,31.6,61.5,41.2
+Bronx,BX01,9,2017,March,6.9,19.9,25.3,22.3
+Bronx,BX02,9,2017,March,12.5,32.0,50.3,40.2
+Bronx,BX03,9,2017,March,8.7,24.4,32.3,28.0
+Bronx,BX04,9,2017,March,11.0,28.2,44.5,35.5
+Bronx,BX05,9,2017,March,11.5,27.9,48.2,37.0
+Bronx,BX06,9,2017,March,14.2,34.5,42.4,38.1
+Bronx,BX07,9,2017,March,14.1,33.3,60.0,45.3
+Bronx,BX08,9,2017,March,20.1,39.4,76.3,51.0
+Bronx,BX09,9,2017,March,9.5,22.0,41.6,30.0
+Bronx,BX10,9,2017,March,18.3,40.3,64.0,48.9
+Bronx,BX11,9,2017,March,14.1,31.6,53.6,39.6
+Bronx,BX12,9,2017,March,17.0,32.8,73.4,47.6
+Manhattan,MN01,9,2017,March,27.1,45.6,66.1,50.9
+Manhattan,MN02,9,2017,March,26.3,39.1,78.7,49.3
+Manhattan,MN03,9,2017,March,14.0,41.2,41.1,41.2
+Manhattan,MN04,9,2017,March,22.5,32.1,74.2,42.9
+Manhattan,MN05,9,2017,March,19.5,30.4,57.2,37.3
+Manhattan,MN06,9,2017,March,22.2,32.9,68.0,41.9
+Manhattan,MN07,9,2017,March,27.2,41.5,77.1,50.7
+Manhattan,MN08,9,2017,March,26.0,41.0,73.9,49.4
+Manhattan,MN09,9,2017,March,18.4,55.5,47.1,51.7
+Manhattan,MN10,9,2017,March,14.3,38.9,53.1,45.3
+Manhattan,MN11,9,2017,March,11.7,41.1,29.5,35.9
+Manhattan,MN12,9,2017,March,15.9,44.1,56.2,49.5
+Queens East,QE07,9,2017,March,18.9,47.1,63.1,52.9
+Queens East,QE08,9,2017,March,16.1,28.3,52.9,35.3
+Queens East,QE10,9,2017,March,20.7,34.2,79.8,48.8
+Queens East,QE11,9,2017,March,27.6,50.3,80.3,59.9
+Queens East,QE12,9,2017,March,14.3,32.1,65.6,46.2
+Queens East,QE13,9,2017,March,18.3,31.6,80.7,47.3
+Queens East,QE14,9,2017,March,11.4,28.6,37.5,31.9
+Queens West,QW01,9,2017,March,20.1,46.3,73.6,56.2
+Queens West,QW02,9,2017,March,19.8,46.7,71.0,55.5
+Queens West,QW03,9,2017,March,14.9,30.4,61.7,41.8
+Queens West,QW04,9,2017,March,14.6,31.4,57.0,40.7
+Queens West,QW05,9,2017,March,26.0,44.4,87.7,60.2
+Queens West,QW06,9,2017,March,20.8,29.7,68.6,39.7
+Queens West,QW09,9,2017,March,19.4,38.7,76.0,52.3
+Staten Island,SI01,9,2017,March,19.0,35.4,72.8,47.3
+Staten Island,SI02,9,2017,March,20.5,40.1,74.4,51.1
+Staten Island,SI03,9,2017,March,21.5,43.3,78.2,54.4
+Brooklyn North,BKN01,11,2017,May,15.0,44.1,46.3,45.0
+Brooklyn North,BKN02,11,2017,May,17.9,34.1,55.6,40.5
+Brooklyn North,BKN03,11,2017,May,11.4,31.4,42.4,35.8
+Brooklyn North,BKN04,11,2017,May,14.0,31.3,62.5,44.0
+Brooklyn North,BKN05,11,2017,May,9.4,21.6,41.2,29.6
+Brooklyn North,BKN08,11,2017,May,15.5,41.9,55.0,47.2
+Brooklyn North,BKN09,11,2017,May,12.9,32.7,44.1,37.0
+Brooklyn North,BKN16,11,2017,May,9.4,21.1,36.8,27.5
+Brooklyn North,BKN17,11,2017,May,12.9,27.6,58.2,39.2
+Brooklyn South,BKS06,11,2017,May,29.4,47.7,82.3,58.0
+Brooklyn South,BKS07,11,2017,May,19.7,45.2,69.7,54.5
+Brooklyn South,BKS10,11,2017,May,23.5,54.3,74.1,61.8
+Brooklyn South,BKS11,11,2017,May,18.2,45.0,62.6,51.7
+Brooklyn South,BKS12,11,2017,May,14.3,46.5,42.7,45.0
+Brooklyn South,BKS13,11,2017,May,13.4,43.1,47.2,44.9
+Brooklyn South,BKS14,11,2017,May,13.7,36.6,50.3,41.3
+Brooklyn South,BKS15,11,2017,May,17.3,48.2,60.4,52.8
+Brooklyn South,BKS18,11,2017,May,14.6,38.8,70.1,50.0
+Bronx,BX01,11,2017,May,6.6,19.1,25.9,22.1
+Bronx,BX02,11,2017,May,12.5,31.1,56.0,41.9
+Bronx,BX03,11,2017,May,8.5,23.6,34.6,28.4
+Bronx,BX04,11,2017,May,10.9,28.7,46.6,36.5
+Bronx,BX05,11,2017,May,11.2,27.3,51.2,37.7
+Bronx,BX06,11,2017,May,14.1,34.4,43.8,38.5
+Bronx,BX07,11,2017,May,13.3,32.3,60.3,44.5
+Bronx,BX08,11,2017,May,19.2,44.7,76.2,55.5
+Bronx,BX09,11,2017,May,9.3,21.3,40.5,29.1
+Bronx,BX10,11,2017,May,17.7,40.8,66.2,50.5
+Bronx,BX11,11,2017,May,13.5,33.4,53.9,41.2
+Bronx,BX12,11,2017,May,15.5,32.9,71.0,47.4
+Manhattan,MN01,11,2017,May,25.7,42.8,72.6,50.0
+Manhattan,MN02,11,2017,May,24.3,36.8,80.9,47.4
+Manhattan,MN03,11,2017,May,14.1,42.9,45.2,43.9
+Manhattan,MN04,11,2017,May,22.0,31.9,81.0,43.7
+Manhattan,MN05,11,2017,May,18.5,29.3,60.5,36.8
+Manhattan,MN06,11,2017,May,21.7,32.5,74.1,42.5
+Manhattan,MN07,11,2017,May,25.8,39.8,80.7,49.6
+Manhattan,MN08,11,2017,May,25.0,40.1,78.6,49.4
+Manhattan,MN09,11,2017,May,18.4,57.8,49.7,54.3
+Manhattan,MN10,11,2017,May,14.2,38.9,57.0,46.8
+Manhattan,MN11,11,2017,May,11.5,40.9,31.9,37.0
+Manhattan,MN12,11,2017,May,15.8,45.2,58.9,51.2
+Queens East,QE07,11,2017,May,17.3,46.8,62.1,52.6
+Queens East,QE08,11,2017,May,15.3,29.0,51.8,35.7
+Queens East,QE10,11,2017,May,20.2,43.2,88.8,59.4
+Queens East,QE11,11,2017,May,25.5,60.9,86.2,69.9
+Queens East,QE12,11,2017,May,13.6,36.0,65.6,49.6
+Queens East,QE13,11,2017,May,16.6,38.0,90.3,56.6
+Queens East,QE14,11,2017,May,11.4,30.2,41.8,34.6
+Queens West,QW01,11,2017,May,19.0,49.6,71.3,57.8
+Queens West,QW02,11,2017,May,19.1,51.1,69.8,58.2
+Queens West,QW03,11,2017,May,14.3,32.5,61.5,43.5
+Queens West,QW04,11,2017,May,14.3,33.7,60.0,43.7
+Queens West,QW05,11,2017,May,24.5,46.8,85.5,61.5
+Queens West,QW06,11,2017,May,20.2,29.6,72.9,40.0
+Queens West,QW09,11,2017,May,18.2,40.1,75.3,53.5
+Staten Island,SI01,11,2017,May,19.4,44.6,83.1,58.3
+Staten Island,SI02,11,2017,May,18.6,50.5,81.5,61.5
+Staten Island,SI03,11,2017,May,19.3,51.8,88.1,64.7
+Brooklyn North,BKN01,5,2017,November,14.9,53.0,44.1,49.0
+Brooklyn North,BKN02,5,2017,November,19.2,34.0,57.1,40.3
+Brooklyn North,BKN03,5,2017,November,12.1,39.5,41.2,40.3
+Brooklyn North,BKN04,5,2017,November,14.0,38.2,56.7,46.6
+Brooklyn North,BKN05,5,2017,November,10.3,28.5,39.9,33.7
+Brooklyn North,BKN08,5,2017,November,16.4,51.6,53.4,52.4
+Brooklyn North,BKN09,5,2017,November,13.1,32.0,48.6,37.7
+Brooklyn North,BKN16,5,2017,November,8.6,24.8,31.9,28.0
+Brooklyn North,BKN17,5,2017,November,14.5,29.1,66.6,41.9
+Brooklyn South,BKS06,5,2017,November,31.3,47.4,85.9,58.0
+Brooklyn South,BKS07,5,2017,November,22.9,56.0,77.8,63.5
+Brooklyn South,BKS10,5,2017,November,26.7,58.2,86.4,67.8
+Brooklyn South,BKS11,5,2017,November,19.9,47.0,72.7,55.7
+Brooklyn South,BKS12,5,2017,November,15.2,56.8,41.6,49.9
+Brooklyn South,BKS13,5,2017,November,13.9,40.6,51.5,45.4
+Brooklyn South,BKS14,5,2017,November,14.9,34.6,55.4,41.2
+Brooklyn South,BKS15,5,2017,November,18.4,49.8,67.7,55.9
+Brooklyn South,BKS18,5,2017,November,16.9,35.8,66.6,45.5
+Bronx,BX01,5,2017,November,6.4,17.9,24.8,20.9
+Bronx,BX02,5,2017,November,12.4,32.2,51.8,40.8
+Bronx,BX03,5,2017,November,8.5,23.4,33.6,27.8
+Bronx,BX04,5,2017,November,10.7,27.1,45.4,35.1
+Bronx,BX05,5,2017,November,11.6,27.4,52.1,38.2
+Bronx,BX06,5,2017,November,13.8,32.8,44.0,37.7
+Bronx,BX07,5,2017,November,13.8,33.1,61.0,45.3
+Bronx,BX08,5,2017,November,21.2,44.8,81.6,56.5
+Bronx,BX09,5,2017,November,9.5,25.5,38.3,31.3
+Bronx,BX10,5,2017,November,19.1,42.8,73.0,53.1
+Bronx,BX11,5,2017,November,14.6,33.2,63.8,43.7
+Bronx,BX12,5,2017,November,17.6,35.0,82.2,51.1
+Manhattan,MN01,5,2017,November,27.9,45.7,76.5,52.8
+Manhattan,MN02,5,2017,November,26.0,39.0,84.3,49.4
+Manhattan,MN03,5,2017,November,13.9,42.7,42.3,42.5
+Manhattan,MN04,5,2017,November,22.6,33.4,79.2,43.9
+Manhattan,MN05,5,2017,November,19.9,31.2,63.0,38.5
+Manhattan,MN06,5,2017,November,23.2,35.2,76.7,44.7
+Manhattan,MN07,5,2017,November,27.7,43.0,83.6,52.3
+Manhattan,MN08,5,2017,November,27.0,43.6,80.8,52.2
+Manhattan,MN09,5,2017,November,17.8,55.8,47.8,52.3
+Manhattan,MN10,5,2017,November,14.5,40.3,54.9,46.7
+Manhattan,MN11,5,2017,November,11.9,41.8,32.0,37.6
+Manhattan,MN12,5,2017,November,15.8,45.0,57.6,50.5
+Queens East,QE07,5,2017,November,21.8,49.7,68.8,56.2
+Queens East,QE08,5,2017,November,18.9,30.3,50.3,35.8
+Queens East,QE10,5,2017,November,23.9,39.3,81.2,52.5
+Queens East,QE11,5,2017,November,28.1,53.2,77.8,61.0
+Queens East,QE12,5,2017,November,17.4,35.8,71.7,50.1
+Queens East,QE13,5,2017,November,19.6,36.2,83.5,51.1
+Queens East,QE14,5,2017,November,12.4,34.2,44.8,37.8
+Queens West,QW01,5,2017,November,20.6,50.6,83.3,61.7
+Queens West,QW02,5,2017,November,20.5,54.0,79.1,62.5
+Queens West,QW03,5,2017,November,15.1,34.1,67.6,45.5
+Queens West,QW04,5,2017,November,15.4,36.6,67.1,47.0
+Queens West,QW05,5,2017,November,28.2,51.8,92.5,65.6
+Queens West,QW06,5,2017,November,24.2,31.3,73.4,41.0
+Queens West,QW09,5,2017,November,21.2,43.6,82.7,56.9
+Staten Island,SI01,5,2017,November,21.3,39.3,76.6,51.1
+Staten Island,SI02,5,2017,November,20.8,44.2,74.0,53.6
+Staten Island,SI03,5,2017,November,23.2,46.6,80.1,57.1
+Brooklyn North,BKN01,4,2017,October,15.0,52.8,44.3,49.0
+Brooklyn North,BKN02,4,2017,October,18.4,33.6,55.0,39.5
+Brooklyn North,BKN03,4,2017,October,11.4,37.2,39.2,38.1
+Brooklyn North,BKN04,4,2017,October,13.7,37.4,55.9,45.8
+Brooklyn North,BKN05,4,2017,October,9.8,26.4,39.0,32.1
+Brooklyn North,BKN08,4,2017,October,15.6,49.0,52.1,50.4
+Brooklyn North,BKN09,4,2017,October,12.5,31.0,47.3,36.6
+Brooklyn North,BKN16,4,2017,October,8.5,24.8,32.4,28.2
+Brooklyn North,BKN17,4,2017,October,13.2,27.7,66.8,41.0
+Brooklyn South,BKS06,4,2017,October,30.2,46.8,85.5,57.5
+Brooklyn South,BKS07,4,2017,October,23.1,62.3,75.4,66.7
+Brooklyn South,BKS10,4,2017,October,25.6,56.2,90.5,67.9
+Brooklyn South,BKS11,4,2017,October,18.7,45.2,72.3,54.4
+Brooklyn South,BKS12,4,2017,October,14.2,50.3,42.3,46.7
+Brooklyn South,BKS13,4,2017,October,13.4,39.7,49.9,44.1
+Brooklyn South,BKS14,4,2017,October,13.8,32.3,55.6,39.7
+Brooklyn South,BKS15,4,2017,October,17.3,46.3,68.1,53.8
+Brooklyn South,BKS18,4,2017,October,15.2,33.8,66.1,43.9
+Bronx,BX01,4,2017,October,6.3,18.0,24.6,20.9
+Bronx,BX02,4,2017,October,12.8,31.7,55.2,41.9
+Bronx,BX03,4,2017,October,8.5,23.1,34.6,28.1
+Bronx,BX04,4,2017,October,10.7,26.8,45.5,35.0
+Bronx,BX05,4,2017,October,11.4,26.1,52.1,37.4
+Bronx,BX06,4,2017,October,13.6,32.6,43.2,37.2
+Bronx,BX07,4,2017,October,13.2,31.2,59.4,43.5
+Bronx,BX08,4,2017,October,19.8,42.8,80.7,54.8
+Bronx,BX09,4,2017,October,9.2,24.6,38.3,30.8
+Bronx,BX10,4,2017,October,18.0,41.7,73.3,52.5
+Bronx,BX11,4,2017,October,13.6,31.8,62.9,42.4
+Bronx,BX12,4,2017,October,15.8,33.0,80.5,49.2
+Manhattan,MN01,4,2017,October,27.8,46.8,73.7,52.9
+Manhattan,MN02,4,2017,October,26.0,39.0,84.6,49.5
+Manhattan,MN03,4,2017,October,14.0,43.2,43.3,43.2
+Manhattan,MN04,4,2017,October,23.5,34.3,83.6,45.6
+Manhattan,MN05,4,2017,October,19.3,30.7,60.2,37.5
+Manhattan,MN06,4,2017,October,22.5,34.1,75.5,43.6
+Manhattan,MN07,4,2017,October,26.8,41.0,82.6,50.6
+Manhattan,MN08,4,2017,October,26.0,41.4,80.3,50.3
+Manhattan,MN09,4,2017,October,17.8,56.3,47.6,52.5
+Manhattan,MN10,4,2017,October,14.4,39.8,54.9,46.4
+Manhattan,MN11,4,2017,October,12.0,41.2,32.4,37.4
+Manhattan,MN12,4,2017,October,15.4,43.4,56.5,49.1
+Queens East,QE07,4,2017,October,17.7,47.4,69.8,55.1
+Queens East,QE08,4,2017,October,15.6,28.3,51.5,34.7
+Queens East,QE10,4,2017,October,21.6,37.5,83.2,51.8
+Queens East,QE11,4,2017,October,20.9,51.4,80.7,60.6
+Queens East,QE12,4,2017,October,13.8,34.5,70.5,48.8
+Queens East,QE13,4,2017,October,17.4,35.2,84.0,50.6
+Queens East,QE14,4,2017,October,11.5,31.1,44.9,35.8
+Queens West,QW01,4,2017,October,19.5,49.1,83.5,60.9
+Queens West,QW02,4,2017,October,19.7,52.0,79.2,61.3
+Queens West,QW03,4,2017,October,14.2,32.7,66.5,44.2
+Queens West,QW04,4,2017,October,14.6,34.4,66.6,45.3
+Queens West,QW05,4,2017,October,24.4,49.3,97.5,65.8
+Queens West,QW06,4,2017,October,20.7,29.5,75.8,40.1
+Queens West,QW09,4,2017,October,18.4,41.7,82.1,55.5
+Staten Island,SI01,4,2017,October,19.1,38.4,79.6,51.3
+Staten Island,SI02,4,2017,October,19.2,42.9,76.9,53.6
+Staten Island,SI03,4,2017,October,20.7,46.6,84.9,58.7
+Brooklyn North,BKN01,3,2017,September,15.3,55.4,44.2,50.3
+Brooklyn North,BKN02,3,2017,September,17.9,32.8,53.5,38.5
+Brooklyn North,BKN03,3,2017,September,11.7,38.9,39.2,39.0
+Brooklyn North,BKN04,3,2017,September,14.4,39.3,58.7,48.1
+Brooklyn North,BKN05,3,2017,September,9.9,27.7,39.2,32.9
+Brooklyn North,BKN08,3,2017,September,15.6,49.3,52.2,50.6
+Brooklyn North,BKN09,3,2017,September,12.6,31.7,46.8,36.8
+Brooklyn North,BKN16,3,2017,September,8.4,25.4,31.2,28.0
+Brooklyn North,BKN17,3,2017,September,13.3,27.6,68.2,41.5
+Brooklyn South,BKS06,3,2017,September,30.2,47.3,85.6,57.9
+Brooklyn South,BKS07,3,2017,September,25.4,72.6,76.6,74.0
+Brooklyn South,BKS10,3,2017,September,24.4,58.1,87.6,68.1
+Brooklyn South,BKS11,3,2017,September,19.0,47.2,71.4,55.4
+Brooklyn South,BKS12,3,2017,September,15.6,61.9,40.3,52.1
+Brooklyn South,BKS13,3,2017,September,14.1,40.6,53.6,46.2
+Brooklyn South,BKS14,3,2017,September,14.4,35.2,55.0,41.4
+Brooklyn South,BKS15,3,2017,September,17.8,49.2,67.7,55.5
+Brooklyn South,BKS18,3,2017,September,15.9,37.1,65.3,46.0
+Bronx,BX01,3,2017,September,6.7,19.5,25.5,22.1
+Bronx,BX02,3,2017,September,12.8,33.6,53.0,42.1
+Bronx,BX03,3,2017,September,9.5,27.6,35.9,31.2
+Bronx,BX04,3,2017,September,10.8,27.8,45.4,35.5
+Bronx,BX05,3,2017,September,11.7,27.1,53.3,38.5
+Bronx,BX06,3,2017,September,14.3,36.0,44.6,39.7
+Bronx,BX07,3,2017,September,13.5,32.6,59.9,44.5
+Bronx,BX08,3,2017,September,20.3,46.0,80.0,56.8
+Bronx,BX09,3,2017,September,9.7,26.5,39.6,32.5
+Bronx,BX10,3,2017,September,17.9,41.8,74.0,52.8
+Bronx,BX11,3,2017,September,13.7,32.0,63.7,42.8
+Bronx,BX12,3,2017,September,16.5,34.1,84.5,51.3
+Manhattan,MN01,3,2017,September,27.4,46.6,71.1,52.2
+Manhattan,MN02,3,2017,September,25.6,39.3,80.4,48.7
+Manhattan,MN03,3,2017,September,14.4,45.8,42.2,44.2
+Manhattan,MN04,3,2017,September,23.0,34.0,80.3,44.7
+Manhattan,MN05,3,2017,September,19.4,30.8,60.6,37.6
+Manhattan,MN06,3,2017,September,22.7,34.5,75.9,44.0
+Manhattan,MN07,3,2017,September,27.1,42.6,80.4,51.2
+Manhattan,MN08,3,2017,September,26.7,43.8,78.2,51.7
+Manhattan,MN09,3,2017,September,18.0,59.3,46.4,53.7
+Manhattan,MN10,3,2017,September,14.6,40.0,56.2,47.1
+Manhattan,MN11,3,2017,September,11.9,41.8,30.6,36.9
+Manhattan,MN12,3,2017,September,15.7,45.2,57.2,50.4
+Queens East,QE07,3,2017,September,17.7,47.4,69.6,55.0
+Queens East,QE08,3,2017,September,15.8,28.9,51.5,35.1
+Queens East,QE10,3,2017,September,21.1,36.7,86.7,52.4
+Queens East,QE11,3,2017,September,21.3,52.5,81.7,61.7
+Queens East,QE12,3,2017,September,13.8,33.4,72.3,48.8
+Queens East,QE13,3,2017,September,17.7,34.1,88.6,51.3
+Queens East,QE14,3,2017,September,11.4,30.6,45.0,35.5
+Queens West,QW01,3,2017,September,19.8,49.7,84.2,61.5
+Queens West,QW02,3,2017,September,19.5,51.2,78.8,60.6
+Queens West,QW03,3,2017,September,14.2,32.7,66.2,44.1
+Queens West,QW04,3,2017,September,14.7,35.2,66.1,45.8
+Queens West,QW05,3,2017,September,24.2,49.9,98.6,66.5
+Queens West,QW06,3,2017,September,21.0,30.6,75.0,40.7
+Queens West,QW09,3,2017,September,18.8,42.3,85.2,56.9
+Staten Island,SI01,3,2017,September,19.1,38.4,79.8,51.4
+Staten Island,SI02,3,2017,September,19.2,42.8,78.7,54.1
+Staten Island,SI03,3,2017,September,20.8,46.3,86.9,59.0
+Brooklyn North,BKN01,10,2016,April,13.7,41.0,44.3,42.3
+Brooklyn North,BKN02,10,2016,April,17.6,33.2,55.4,39.8
+Brooklyn North,BKN03,10,2016,April,10.9,30.5,39.3,34.1
+Brooklyn North,BKN04,10,2016,April,13.4,30.3,59.3,42.1
+Brooklyn North,BKN05,10,2016,April,9.6,22.4,41.6,30.2
+Brooklyn North,BKN08,10,2016,April,15.2,40.1,55.8,46.5
+Brooklyn North,BKN09,10,2016,April,11.7,31.4,42.9,35.8
+Brooklyn North,BKN16,10,2016,April,8.2,21.2,32.2,25.7
+Brooklyn North,BKN17,10,2016,April,13.2,29.5,58.0,40.3
+Brooklyn South,BKS06,10,2016,April,30.1,47.4,85.4,58.6
+Brooklyn South,BKS07,10,2016,April,20.4,47.2,71.0,56.2
+Brooklyn South,BKS10,10,2016,April,24.9,57.3,76.2,64.4
+Brooklyn South,BKS11,10,2016,April,17.7,47.3,65.1,54.1
+Brooklyn South,BKS12,10,2016,April,14.4,47.5,41.5,45.0
+Brooklyn South,BKS13,10,2016,April,13.4,39.6,51.9,44.9
+Brooklyn South,BKS14,10,2016,April,15.0,36.9,57.4,43.9
+Brooklyn South,BKS15,10,2016,April,17.6,48.5,62.4,53.8
+Brooklyn South,BKS18,10,2016,April,15.0,41.6,68.4,51.1
+Bronx,BX01,10,2016,April,6.8,19.7,26.8,22.8
+Bronx,BX02,10,2016,April,12.5,32.3,54.3,41.9
+Bronx,BX03,10,2016,April,10.1,28.0,41.4,33.9
+Bronx,BX04,10,2016,April,10.9,28.6,47.1,36.7
+Bronx,BX05,10,2016,April,11.9,28.7,54.1,39.8
+Bronx,BX06,10,2016,April,14.0,36.6,45.3,40.4
+Bronx,BX07,10,2016,April,13.3,32.7,60.2,44.7
+Bronx,BX08,10,2016,April,20.2,47.1,81.3,58.8
+Bronx,BX09,10,2016,April,9.2,21.5,39.4,28.8
+Bronx,BX10,10,2016,April,17.8,42.2,67.3,51.7
+Bronx,BX11,10,2016,April,14.0,35.7,54.1,42.7
+Bronx,BX12,10,2016,April,16.4,35.2,74.6,50.1
+Manhattan,MN01,10,2016,April,27.1,45.9,74.3,52.8
+Manhattan,MN02,10,2016,April,25.4,38.9,83.2,49.5
+Manhattan,MN03,10,2016,April,13.6,43.0,44.1,43.5
+Manhattan,MN04,10,2016,April,22.8,33.5,82.2,45.2
+Manhattan,MN05,10,2016,April,19.7,31.8,62.0,39.1
+Manhattan,MN06,10,2016,April,22.6,34.0,79.4,44.9
+Manhattan,MN07,10,2016,April,26.6,42.1,81.8,51.7
+Manhattan,MN08,10,2016,April,26.4,43.5,80.5,52.4
+Manhattan,MN09,10,2016,April,17.3,57.2,47.7,53.1
+Manhattan,MN10,10,2016,April,14.3,38.8,55.3,46.0
+Manhattan,MN11,10,2016,April,11.5,42.1,34.0,38.6
+Manhattan,MN12,10,2016,April,15.7,44.0,60.9,51.4
+Queens East,QE07,10,2016,April,17.9,48.9,64.1,54.7
+Queens East,QE08,10,2016,April,15.9,30.6,52.7,37.1
+Queens East,QE10,10,2016,April,21.4,46.8,88.4,61.6
+Queens East,QE11,10,2016,April,21.7,65.2,90.4,74.2
+Queens East,QE12,10,2016,April,14.0,39.3,64.5,50.8
+Queens East,QE13,10,2016,April,17.8,44.2,91.2,60.9
+Queens East,QE14,10,2016,April,11.4,32.0,39.6,34.9
+Queens West,QW01,10,2016,April,19.6,49.5,76.3,59.7
+Queens West,QW02,10,2016,April,19.3,52.7,69.1,58.9
+Queens West,QW03,10,2016,April,14.2,33.5,59.1,43.2
+Queens West,QW04,10,2016,April,13.5,33.0,54.2,41.1
+Queens West,QW05,10,2016,April,23.8,50.6,84.2,63.3
+Queens West,QW06,10,2016,April,20.8,30.6,75.0,41.3
+Queens West,QW09,10,2016,April,18.9,43.3,76.4,55.9
+Staten Island,SI01,10,2016,April,18.7,45.6,81.5,58.3
+Staten Island,SI02,10,2016,April,18.8,52.2,80.7,62.4
+Staten Island,SI03,10,2016,April,19.7,55.3,85.5,66.0
+Brooklyn North,BKN01,2,2016,August,15.0,46.6,42.4,44.7
+Brooklyn North,BKN02,2,2016,August,16.6,30.8,49.1,36.2
+Brooklyn North,BKN03,2,2016,August,10.3,29.6,33.5,31.4
+Brooklyn North,BKN04,2,2016,August,12.6,30.5,48.1,38.5
+Brooklyn North,BKN05,2,2016,August,9.3,23.3,34.4,28.4
+Brooklyn North,BKN08,2,2016,August,14.3,41.2,46.7,43.7
+Brooklyn North,BKN09,2,2016,August,11.6,30.9,38.1,33.8
+Brooklyn North,BKN16,2,2016,August,7.9,20.8,27.9,24.0
+Brooklyn North,BKN17,2,2016,August,13.1,28.8,52.1,38.1
+Brooklyn South,BKS06,2,2016,August,26.3,42.7,75.4,52.3
+Brooklyn South,BKS07,2,2016,August,19.6,44.9,60.9,51.2
+Brooklyn South,BKS10,2,2016,August,23.2,57.0,64.2,59.8
+Brooklyn South,BKS11,2,2016,August,17.3,48.0,53.7,50.3
+Brooklyn South,BKS12,2,2016,August,14.6,51.1,36.6,44.5
+Brooklyn South,BKS13,2,2016,August,12.1,35.5,43.0,38.7
+Brooklyn South,BKS14,2,2016,August,13.1,30.3,48.4,36.2
+Brooklyn South,BKS15,2,2016,August,17.0,47.6,52.2,49.4
+Brooklyn South,BKS18,2,2016,August,14.3,33.8,55.7,41.6
+Bronx,BX01,2,2016,August,6.3,17.1,23.9,20.0
+Bronx,BX02,2,2016,August,11.2,28.2,46.2,35.9
+Bronx,BX03,2,2016,August,8.3,21.5,33.5,26.7
+Bronx,BX04,2,2016,August,9.9,25.1,40.5,31.7
+Bronx,BX05,2,2016,August,11.2,25.8,48.9,35.7
+Bronx,BX06,2,2016,August,11.1,32.9,38.8,35.4
+Bronx,BX07,2,2016,August,12.8,30.5,54.8,40.9
+Bronx,BX08,2,2016,August,19.7,41.7,75.1,52.5
+Bronx,BX09,2,2016,August,8.8,22.0,32.9,27.0
+Bronx,BX10,2,2016,August,17.9,41.3,62.1,49.6
+Bronx,BX11,2,2016,August,13.9,35.3,48.2,40.4
+Bronx,BX12,2,2016,August,15.8,33.3,65.6,46.2
+Manhattan,MN01,2,2016,August,25.4,43.6,61.8,48.5
+Manhattan,MN02,2,2016,August,22.3,35.5,64.7,43.4
+Manhattan,MN03,2,2016,August,12.7,40.4,40.0,40.2
+Manhattan,MN04,2,2016,August,21.3,31.9,67.0,41.4
+Manhattan,MN05,2,2016,August,17.9,30.4,46.5,34.8
+Manhattan,MN06,2,2016,August,21.0,33.1,62.1,40.9
+Manhattan,MN07,2,2016,August,24.4,40.4,64.6,46.9
+Manhattan,MN08,2,2016,August,24.7,41.4,64.7,47.7
+Manhattan,MN09,2,2016,August,15.6,53.0,45.6,49.8
+Manhattan,MN10,2,2016,August,12.8,34.0,48.4,40.2
+Manhattan,MN11,2,2016,August,10.8,38.1,30.1,34.7
+Manhattan,MN12,2,2016,August,14.9,42.1,55.0,47.7
+Queens East,QE07,2,2016,August,17.0,48.6,51.1,49.6
+Queens East,QE08,2,2016,August,15.1,28.3,43.5,32.8
+Queens East,QE10,2,2016,August,15.9,36.7,63.5,46.2
+Queens East,QE11,2,2016,August,21.2,56.4,71.4,61.7
+Queens East,QE12,2,2016,August,13.0,34.7,51.1,42.6
+Queens East,QE13,2,2016,August,16.4,34.5,71.5,47.6
+Queens East,QE14,2,2016,August,10.4,28.5,33.0,30.3
+Queens West,QW01,2,2016,August,18.4,48.1,62.3,53.7
+Queens West,QW02,2,2016,August,18.8,51.1,60.5,54.8
+Queens West,QW03,2,2016,August,13.4,31.3,50.6,38.9
+Queens West,QW04,2,2016,August,12.7,32.5,43.9,37.1
+Queens West,QW05,2,2016,August,22.2,48.7,73.0,58.4
+Queens West,QW06,2,2016,August,20.0,31.3,59.4,38.9
+Queens West,QW09,2,2016,August,17.1,40.4,64.1,49.8
+Staten Island,SI01,2,2016,August,19.1,40.5,69.1,50.6
+Staten Island,SI02,2,2016,August,18.7,46.5,68.2,54.2
+Staten Island,SI03,2,2016,August,19.9,48.6,74.7,57.9
+Brooklyn North,BKN01,6,2016,December,16.0,49.6,49.7,49.7
+Brooklyn North,BKN02,6,2016,December,18.7,34.3,53.5,39.8
+Brooklyn North,BKN03,6,2016,December,11.8,35.1,40.2,37.2
+Brooklyn North,BKN04,6,2016,December,14.4,36.2,58.9,45.5
+Brooklyn North,BKN05,6,2016,December,10.6,28.0,41.3,33.4
+Brooklyn North,BKN08,6,2016,December,16.2,46.4,55.1,49.9
+Brooklyn North,BKN09,6,2016,December,12.0,30.8,38.1,33.5
+Brooklyn North,BKN16,6,2016,December,9.0,24.8,33.4,28.3
+Brooklyn North,BKN17,6,2016,December,14.9,32.2,58.2,41.7
+Brooklyn South,BKS06,6,2016,December,31.6,49.6,80.6,58.4
+Brooklyn South,BKS07,6,2016,December,22.2,49.8,68.2,56.5
+Brooklyn South,BKS10,6,2016,December,26.9,60.5,72.5,64.9
+Brooklyn South,BKS11,6,2016,December,19.7,51.6,61.7,55.3
+Brooklyn South,BKS12,6,2016,December,15.7,56.3,40.4,49.8
+Brooklyn South,BKS13,6,2016,December,13.7,43.1,45.1,44.0
+Brooklyn South,BKS14,6,2016,December,15.2,33.2,49.5,38.3
+Brooklyn South,BKS15,6,2016,December,19.7,53.2,58.6,55.1
+Brooklyn South,BKS18,6,2016,December,16.9,36.8,58.2,43.7
+Bronx,BX01,6,2016,December,6.4,19.1,22.6,20.7
+Bronx,BX02,6,2016,December,13.0,35.6,49.8,42.0
+Bronx,BX03,6,2016,December,10.0,28.7,36.5,32.2
+Bronx,BX04,6,2016,December,10.7,30.5,39.5,34.5
+Bronx,BX05,6,2016,December,11.8,30.8,46.4,37.8
+Bronx,BX06,6,2016,December,13.2,37.1,37.6,37.3
+Bronx,BX07,6,2016,December,14.4,38.5,56.0,46.4
+Bronx,BX08,6,2016,December,22.1,44.5,78.4,55.1
+Bronx,BX09,6,2016,December,9.8,25.1,39.8,31.1
+Bronx,BX10,6,2016,December,20.3,47.7,65.5,54.2
+Bronx,BX11,6,2016,December,15.2,37.3,51.6,42.5
+Bronx,BX12,6,2016,December,17.4,37.1,69.4,48.8
+Manhattan,MN01,6,2016,December,28.4,48.7,66.8,53.4
+Manhattan,MN02,6,2016,December,27.5,43.4,74.8,51.5
+Manhattan,MN03,6,2016,December,14.2,48.0,38.6,43.8
+Manhattan,MN04,6,2016,December,22.9,35.1,68.5,43.7
+Manhattan,MN05,6,2016,December,20.6,34.2,54.3,39.3
+Manhattan,MN06,6,2016,December,24.5,39.3,68.4,46.8
+Manhattan,MN07,6,2016,December,28.5,46.9,72.3,53.4
+Manhattan,MN08,6,2016,December,28.3,47.3,73.4,54.0
+Manhattan,MN09,6,2016,December,16.7,55.6,42.0,49.5
+Manhattan,MN10,6,2016,December,14.9,42.6,49.5,45.7
+Manhattan,MN11,6,2016,December,11.9,44.4,31.2,38.4
+Manhattan,MN12,6,2016,December,17.9,53.6,60.1,56.5
+Queens East,QE07,6,2016,December,19.6,51.6,60.7,54.9
+Queens East,QE08,6,2016,December,16.9,32.5,48.2,37.0
+Queens East,QE10,6,2016,December,26.0,42.9,75.1,53.2
+Queens East,QE11,6,2016,December,23.8,54.9,75.5,61.5
+Queens East,QE12,6,2016,December,15.1,38.9,62.5,48.8
+Queens East,QE13,6,2016,December,19.6,38.0,77.6,50.7
+Queens East,QE14,6,2016,December,12.8,34.8,37.8,35.9
+Queens West,QW01,6,2016,December,20.7,50.6,70.6,57.9
+Queens West,QW02,6,2016,December,21.6,56.0,68.4,60.5
+Queens West,QW03,6,2016,December,15.4,35.2,57.0,43.1
+Queens West,QW04,6,2016,December,14.8,36.0,51.2,41.6
+Queens West,QW05,6,2016,December,26.8,55.3,78.9,63.9
+Queens West,QW06,6,2016,December,22.8,35.7,66.1,43.6
+Queens West,QW09,6,2016,December,20.1,47.2,71.4,56.0
+Staten Island,SI01,6,2016,December,20.7,41.1,65.0,48.7
+Staten Island,SI02,6,2016,December,21.7,48.8,67.3,54.7
+Staten Island,SI03,6,2016,December,22.7,52.1,68.7,57.4
+Brooklyn North,BKN01,8,2016,February,17.0,51.1,55.4,52.9
+Brooklyn North,BKN02,8,2016,February,20.5,36.1,63.1,43.8
+Brooklyn North,BKN03,8,2016,February,13.0,37.6,46.5,41.3
+Brooklyn North,BKN04,8,2016,February,15.8,36.5,69.5,50.0
+Brooklyn North,BKN05,8,2016,February,11.4,27.3,48.8,36.1
+Brooklyn North,BKN08,8,2016,February,18.5,50.4,67.3,57.3
+Brooklyn North,BKN09,8,2016,February,13.6,33.4,46.4,38.1
+Brooklyn North,BKN16,8,2016,February,9.2,24.4,35.8,29.1
+Brooklyn North,BKN17,8,2016,February,15.7,31.1,66.0,43.8
+Brooklyn South,BKS06,8,2016,February,33.8,52.2,95.7,64.5
+Brooklyn South,BKS07,8,2016,February,23.2,49.6,78.5,60.1
+Brooklyn South,BKS10,8,2016,February,27.3,61.0,82.6,68.9
+Brooklyn South,BKS11,8,2016,February,21.3,53.4,70.8,59.7
+Brooklyn South,BKS12,8,2016,February,17.4,61.4,45.8,55.0
+Brooklyn South,BKS13,8,2016,February,15.3,46.1,53.3,49.3
+Brooklyn South,BKS14,8,2016,February,17.6,37.3,60.6,44.6
+Brooklyn South,BKS15,8,2016,February,21.0,54.1,66.9,58.8
+Brooklyn South,BKS18,8,2016,February,18.4,37.7,68.5,47.5
+Bronx,BX01,8,2016,February,7.7,21.5,29.1,24.9
+Bronx,BX02,8,2016,February,13.2,35.5,51.1,42.5
+Bronx,BX03,8,2016,February,10.8,29.6,41.4,34.9
+Bronx,BX04,8,2016,February,12.2,31.8,48.1,39.1
+Bronx,BX05,8,2016,February,13.1,31.2,55.9,42.3
+Bronx,BX06,8,2016,February,15.0,40.5,48.4,44.0
+Bronx,BX07,8,2016,February,15.3,37.2,63.7,49.1
+Bronx,BX08,8,2016,February,23.1,45.4,89.0,59.1
+Bronx,BX09,8,2016,February,10.5,25.4,44.2,33.1
+Bronx,BX10,8,2016,February,20.8,46.5,74.2,56.6
+Bronx,BX11,8,2016,February,16.9,39.3,61.3,47.3
+Bronx,BX12,8,2016,February,18.7,36.3,80.5,52.4
+Manhattan,MN01,8,2016,February,29.4,47.6,78.1,55.4
+Manhattan,MN02,8,2016,February,26.9,40.1,80.1,50.4
+Manhattan,MN03,8,2016,February,15.6,48.0,48.3,48.1
+Manhattan,MN04,8,2016,February,23.4,33.7,76.4,44.7
+Manhattan,MN05,8,2016,February,21.8,35.0,60.8,41.6
+Manhattan,MN06,8,2016,February,24.3,36.5,74.7,46.4
+Manhattan,MN07,8,2016,February,29.8,46.9,81.8,55.9
+Manhattan,MN08,8,2016,February,29.1,46.3,81.8,55.4
+Manhattan,MN09,8,2016,February,17.1,55.1,46.2,51.1
+Manhattan,MN10,8,2016,February,15.6,41.0,56.5,48.0
+Manhattan,MN11,8,2016,February,12.5,44.7,35.0,40.3
+Manhattan,MN12,8,2016,February,18.4,50.9,66.6,57.9
+Queens East,QE07,8,2016,February,20.7,51.6,69.0,57.9
+Queens East,QE08,8,2016,February,18.5,33.3,58.2,40.4
+Queens East,QE10,8,2016,February,24.4,40.3,87.2,55.3
+Queens East,QE11,8,2016,February,25.9,56.5,89.4,67.1
+Queens East,QE12,8,2016,February,16.4,38.1,73.4,52.9
+Queens East,QE13,8,2016,February,21.8,38.8,94.3,56.5
+Queens East,QE14,8,2016,February,12.8,32.8,41.1,35.8
+Queens West,QW01,8,2016,February,21.9,50.3,80.4,61.3
+Queens West,QW02,8,2016,February,21.6,52.4,74.6,60.4
+Queens West,QW03,8,2016,February,16.3,34.2,65.5,45.6
+Queens West,QW04,8,2016,February,15.4,34.6,57.8,43.0
+Queens West,QW05,8,2016,February,27.0,53.6,93.9,68.2
+Queens West,QW06,8,2016,February,23.1,33.8,74.1,44.2
+Queens West,QW09,8,2016,February,21.4,44.6,82.5,58.4
+Staten Island,SI01,8,2016,February,21.6,42.5,78.8,54.1
+Staten Island,SI02,8,2016,February,23.1,49.1,77.9,58.3
+Staten Island,SI03,8,2016,February,24.7,53.1,83.8,62.9
+Brooklyn North,BKN01,7,2016,January,14.1,40.5,42.4,41.3
+Brooklyn North,BKN02,7,2016,January,17.7,28.2,50.0,34.4
+Brooklyn North,BKN03,7,2016,January,10.6,29.0,36.3,32.0
+Brooklyn North,BKN04,7,2016,January,13.5,30.3,55.0,40.4
+Brooklyn North,BKN05,7,2016,January,9.1,21.1,35.9,27.2
+Brooklyn North,BKN08,7,2016,January,14.7,36.1,46.3,40.3
+Brooklyn North,BKN09,7,2016,January,11.9,27.8,38.9,31.8
+Brooklyn North,BKN16,7,2016,January,8.3,21.2,31.4,25.4
+Brooklyn North,BKN17,7,2016,January,13.0,25.3,52.9,35.4
+Brooklyn South,BKS06,7,2016,January,29.6,41.3,75.0,50.9
+Brooklyn South,BKS07,7,2016,January,18.7,36.4,59.7,44.9
+Brooklyn South,BKS10,7,2016,January,23.3,45.9,65.1,52.9
+Brooklyn South,BKS11,7,2016,January,15.9,38.0,53.8,43.8
+Brooklyn South,BKS12,7,2016,January,12.7,42.4,35.9,39.8
+Brooklyn South,BKS13,7,2016,January,12.9,38.5,44.7,41.3
+Brooklyn South,BKS14,7,2016,January,13.0,25.2,44.3,31.2
+Brooklyn South,BKS15,7,2016,January,16.7,40.3,51.9,44.5
+Brooklyn South,BKS18,7,2016,January,14.6,28.4,54.7,36.8
+Bronx,BX01,7,2016,January,5.9,16.9,20.4,18.5
+Bronx,BX02,7,2016,January,13.4,32.7,52.1,41.4
+Bronx,BX03,7,2016,January,7.6,19.8,29.5,24.2
+Bronx,BX04,7,2016,January,9.6,25.1,35.7,29.8
+Bronx,BX05,7,2016,January,10.4,24.4,43.2,32.9
+Bronx,BX06,7,2016,January,11.4,29.8,31.6,30.6
+Bronx,BX07,7,2016,January,12.4,29.0,49.8,38.3
+Bronx,BX08,7,2016,January,18.2,35.0,64.3,44.2
+Bronx,BX09,7,2016,January,8.8,20.8,36.0,27.0
+Bronx,BX10,7,2016,January,18.0,38.5,62.3,47.2
+Bronx,BX11,7,2016,January,13.7,30.1,48.8,36.9
+Bronx,BX12,7,2016,January,15.2,29.4,64.2,42.1
+Manhattan,MN01,7,2016,January,26.9,42.9,66.2,48.9
+Manhattan,MN02,7,2016,January,24.3,34.3,68.0,43.0
+Manhattan,MN03,7,2016,January,14.9,43.2,39.8,41.7
+Manhattan,MN04,7,2016,January,23.6,33.6,74.8,44.2
+Manhattan,MN05,7,2016,January,20.9,31.1,56.9,37.8
+Manhattan,MN06,7,2016,January,24.4,34.8,72.1,44.4
+Manhattan,MN07,7,2016,January,26.3,39.0,67.8,46.4
+Manhattan,MN08,7,2016,January,26.1,38.8,67.3,46.1
+Manhattan,MN09,7,2016,January,19.2,58.9,51.4,55.5
+Manhattan,MN10,7,2016,January,15.2,38.8,53.7,45.5
+Manhattan,MN11,7,2016,January,10.9,37.6,29.5,34.0
+Manhattan,MN12,7,2016,January,16.3,42.7,56.7,49.0
+Queens East,QE07,7,2016,January,18.7,45.3,59.7,50.5
+Queens East,QE08,7,2016,January,15.7,28.1,47.2,33.5
+Queens East,QE10,7,2016,January,22.8,35.2,75.3,48.0
+Queens East,QE11,7,2016,January,22.8,47.2,75.8,56.3
+Queens East,QE12,7,2016,January,14.5,34.8,62.0,46.2
+Queens East,QE13,7,2016,January,18.7,33.6,74.3,46.6
+Queens East,QE14,7,2016,January,12.0,28.4,35.7,31.1
+Queens West,QW01,7,2016,January,19.9,45.5,68.3,53.8
+Queens West,QW02,7,2016,January,22.0,51.0,71.8,58.6
+Queens West,QW03,7,2016,January,15.6,32.5,57.5,41.6
+Queens West,QW04,7,2016,January,13.8,31.0,48.7,37.4
+Queens West,QW05,7,2016,January,23.8,44.7,75.8,56.1
+Queens West,QW06,7,2016,January,21.8,30.6,67.7,40.1
+Queens West,QW09,7,2016,January,19.5,40.9,69.2,51.2
+Staten Island,SI01,7,2016,January,19.6,34.6,65.3,44.4
+Staten Island,SI02,7,2016,January,20.1,37.7,67.6,47.2
+Staten Island,SI03,7,2016,January,21.8,41.5,73.8,51.8
+Brooklyn North,BKN01,1,2016,July,14.7,44.0,43.2,43.6
+Brooklyn North,BKN02,1,2016,July,16.5,30.2,49.8,36.0
+Brooklyn North,BKN03,1,2016,July,10.1,29.0,32.8,30.8
+Brooklyn North,BKN04,1,2016,July,12.4,30.6,46.4,37.8
+Brooklyn North,BKN05,1,2016,July,9.1,23.5,33.0,27.9
+Brooklyn North,BKN08,1,2016,July,13.8,39.7,45.0,42.1
+Brooklyn North,BKN09,1,2016,July,11.0,27.7,38.8,32.1
+Brooklyn North,BKN16,1,2016,July,7.7,20.6,27.0,23.5
+Brooklyn North,BKN17,1,2016,July,12.8,27.8,51.9,37.4
+Brooklyn South,BKS06,1,2016,July,26.2,42.2,75.1,51.9
+Brooklyn South,BKS07,1,2016,July,20.1,46.7,61.2,52.4
+Brooklyn South,BKS10,1,2016,July,23.1,57.2,63.0,59.5
+Brooklyn South,BKS11,1,2016,July,17.0,47.4,52.7,49.5
+Brooklyn South,BKS12,1,2016,July,14.1,49.7,35.0,43.0
+Brooklyn South,BKS13,1,2016,July,12.4,36.8,43.4,39.7
+Brooklyn South,BKS14,1,2016,July,13.0,30.4,47.4,35.9
+Brooklyn South,BKS15,1,2016,July,16.9,46.7,53.0,49.2
+Brooklyn South,BKS18,1,2016,July,14.1,32.3,56.7,41.0
+Bronx,BX01,1,2016,July,5.9,17.1,21.6,19.0
+Bronx,BX02,1,2016,July,11.4,30.0,45.3,36.5
+Bronx,BX03,1,2016,July,8.5,23.8,31.5,27.1
+Bronx,BX04,1,2016,July,9.8,26.3,38.0,31.3
+Bronx,BX05,1,2016,July,10.9,26.2,46.3,34.9
+Bronx,BX06,1,2016,July,11.0,34.1,36.7,35.2
+Bronx,BX07,1,2016,July,12.7,32.1,52.0,40.7
+Bronx,BX08,1,2016,July,19.6,41.8,73.4,52.0
+Bronx,BX09,1,2016,July,8.8,22.6,32.1,26.9
+Bronx,BX10,1,2016,July,17.7,41.9,59.4,48.8
+Bronx,BX11,1,2016,July,13.7,35.0,47.5,40.0
+Bronx,BX12,1,2016,July,15.5,33.6,62.9,45.2
+Manhattan,MN01,1,2016,July,25.1,43.3,60.4,47.9
+Manhattan,MN02,1,2016,July,22.0,34.6,65.0,42.7
+Manhattan,MN03,1,2016,July,12.6,39.9,39.5,39.7
+Manhattan,MN04,1,2016,July,20.8,30.9,66.1,40.4
+Manhattan,MN05,1,2016,July,17.1,27.8,47.7,33.2
+Manhattan,MN06,1,2016,July,20.7,32.2,62.4,40.3
+Manhattan,MN07,1,2016,July,23.9,39.1,64.4,45.9
+Manhattan,MN08,1,2016,July,23.9,39.6,64.0,46.1
+Manhattan,MN09,1,2016,July,15.0,51.3,43.7,48.0
+Manhattan,MN10,1,2016,July,12.7,33.9,48.2,40.0
+Manhattan,MN11,1,2016,July,10.7,37.6,29.5,34.2
+Manhattan,MN12,1,2016,July,15.1,43.5,54.4,48.2
+Queens East,QE07,1,2016,July,16.9,47.9,51.3,49.2
+Queens East,QE08,1,2016,July,15.1,28.3,44.2,33.0
+Queens East,QE10,1,2016,July,15.9,36.3,64.4,46.3
+Queens East,QE11,1,2016,July,20.9,55.0,71.1,60.7
+Queens East,QE12,1,2016,July,12.8,34.6,50.0,42.0
+Queens East,QE13,1,2016,July,16.3,34.2,71.4,47.4
+Queens East,QE14,1,2016,July,10.6,29.0,33.8,30.9
+Queens West,QW01,1,2016,July,18.6,48.8,62.4,54.2
+Queens West,QW02,1,2016,July,18.6,50.4,60.2,54.3
+Queens West,QW03,1,2016,July,13.3,32.0,48.7,38.6
+Queens West,QW04,1,2016,July,13.2,34.6,44.2,38.4
+Queens West,QW05,1,2016,July,22.6,49.5,73.0,58.8
+Queens West,QW06,1,2016,July,19.8,30.7,59.6,38.5
+Queens West,QW09,1,2016,July,17.0,40.9,62.6,49.6
+Staten Island,SI01,1,2016,July,19.1,39.9,67.4,49.7
+Staten Island,SI02,1,2016,July,18.4,45.0,68.9,53.5
+Staten Island,SI03,1,2016,July,19.5,47.4,73.6,56.7
+Brooklyn North,BKN01,12,2016,June,14.4,43.3,46.4,44.5
+Brooklyn North,BKN02,12,2016,June,17.9,34.9,54.3,40.6
+Brooklyn North,BKN03,12,2016,June,11.2,31.4,40.3,35.0
+Brooklyn North,BKN04,12,2016,June,13.7,32.6,58.2,43.0
+Brooklyn North,BKN05,12,2016,June,9.5,23.0,39.8,29.8
+Brooklyn North,BKN08,12,2016,June,15.3,42.9,52.9,46.9
+Brooklyn North,BKN09,12,2016,June,11.7,32.3,41.0,35.6
+Brooklyn North,BKN16,12,2016,June,8.2,21.6,31.5,25.6
+Brooklyn North,BKN17,12,2016,June,12.8,28.4,56.1,38.9
+Brooklyn South,BKS06,12,2016,June,29.7,48.5,81.5,58.3
+Brooklyn South,BKS07,12,2016,June,22.3,60.0,65.6,62.1
+Brooklyn South,BKS10,12,2016,June,24.6,57.0,72.0,62.7
+Brooklyn South,BKS11,12,2016,June,17.8,49.7,61.8,54.3
+Brooklyn South,BKS12,12,2016,June,14.3,47.3,41.3,44.9
+Brooklyn South,BKS13,12,2016,June,13.2,40.9,48.9,44.4
+Brooklyn South,BKS14,12,2016,June,14.1,35.6,51.4,41.0
+Brooklyn South,BKS15,12,2016,June,17.6,50.1,59.7,53.8
+Brooklyn South,BKS18,12,2016,June,15.0,42.9,66.6,51.3
+Bronx,BX01,12,2016,June,6.8,21.1,24.6,22.7
+Bronx,BX02,12,2016,June,13.3,37.9,53.2,44.5
+Bronx,BX03,12,2016,June,10.6,31.1,41.1,35.5
+Bronx,BX04,12,2016,June,10.9,30.5,44.5,36.6
+Bronx,BX05,12,2016,June,12.0,30.7,52.4,40.2
+Bronx,BX06,12,2016,June,14.0,37.7,44.1,40.5
+Bronx,BX07,12,2016,June,13.6,36.0,58.1,45.7
+Bronx,BX08,12,2016,June,20.5,49.7,78.7,59.6
+Bronx,BX09,12,2016,June,9.7,23.1,41.1,30.5
+Bronx,BX10,12,2016,June,18.0,43.1,64.1,51.1
+Bronx,BX11,12,2016,June,13.9,35.6,53.3,42.3
+Bronx,BX12,12,2016,June,16.2,35.3,72.5,49.4
+Manhattan,MN01,12,2016,June,26.0,44.0,72.6,50.9
+Manhattan,MN02,12,2016,June,24.4,37.6,80.0,47.8
+Manhattan,MN03,12,2016,June,13.8,44.3,44.3,44.3
+Manhattan,MN04,12,2016,June,22.1,32.4,80.2,43.9
+Manhattan,MN05,12,2016,June,18.1,29.3,57.1,36.0
+Manhattan,MN06,12,2016,June,21.3,32.9,71.8,42.2
+Manhattan,MN07,12,2016,June,25.8,41.0,79.4,50.2
+Manhattan,MN08,12,2016,June,25.2,40.7,78.6,49.9
+Manhattan,MN09,12,2016,June,17.4,58.6,48.6,54.2
+Manhattan,MN10,12,2016,June,14.4,39.6,55.5,46.5
+Manhattan,MN11,12,2016,June,11.7,44.5,32.6,39.3
+Manhattan,MN12,12,2016,June,15.6,45.7,58.5,51.3
+Queens East,QE07,12,2016,June,17.4,48.0,60.9,52.9
+Queens East,QE08,12,2016,June,15.3,29.7,50.3,35.8
+Queens East,QE10,12,2016,June,21.1,43.6,86.7,59.0
+Queens East,QE11,12,2016,June,20.8,62.5,86.1,70.9
+Queens East,QE12,12,2016,June,13.6,36.4,64.8,49.4
+Queens East,QE13,12,2016,June,17.0,40.4,89.8,58.0
+Queens East,QE14,12,2016,June,11.2,30.8,39.7,34.1
+Queens West,QW01,12,2016,June,19.5,51.4,72.3,59.3
+Queens West,QW02,12,2016,June,19.1,51.9,68.6,58.2
+Queens West,QW03,12,2016,June,13.9,32.8,57.8,42.3
+Queens West,QW04,12,2016,June,13.7,34.9,53.3,41.9
+Queens West,QW05,12,2016,June,23.7,48.9,84.5,62.4
+Queens West,QW06,12,2016,June,20.1,30.1,71.3,40.0
+Queens West,QW09,12,2016,June,18.2,41.9,73.7,54.0
+Staten Island,SI01,12,2016,June,18.9,45.0,81.7,58.1
+Staten Island,SI02,12,2016,June,18.3,49.7,81.3,60.9
+Staten Island,SI03,12,2016,June,19.9,53.3,91.2,66.8
+Brooklyn North,BKN01,9,2016,March,14.2,42.8,46.7,44.4
+Brooklyn North,BKN02,9,2016,March,18.2,31.2,55.6,38.2
+Brooklyn North,BKN03,9,2016,March,11.3,31.9,41.0,35.6
+Brooklyn North,BKN04,9,2016,March,13.9,31.5,62.1,44.1
+Brooklyn North,BKN05,9,2016,March,9.7,23.6,41.0,30.7
+Brooklyn North,BKN08,9,2016,March,15.4,41.9,54.9,47.2
+Brooklyn North,BKN09,9,2016,March,11.7,28.2,40.9,32.8
+Brooklyn North,BKN16,9,2016,March,8.2,21.9,32.0,26.0
+Brooklyn North,BKN17,9,2016,March,13.5,27.0,56.4,37.7
+Brooklyn South,BKS06,9,2016,March,29.6,44.4,83.3,55.5
+Brooklyn South,BKS07,9,2016,March,20.7,44.9,67.6,53.2
+Brooklyn South,BKS10,9,2016,March,24.9,51.7,73.6,59.7
+Brooklyn South,BKS11,9,2016,March,18.0,44.0,61.3,50.3
+Brooklyn South,BKS12,9,2016,March,14.9,50.6,42.3,47.2
+Brooklyn South,BKS13,9,2016,March,13.8,39.7,49.9,44.3
+Brooklyn South,BKS14,9,2016,March,15.4,31.6,53.3,38.4
+Brooklyn South,BKS15,9,2016,March,18.2,46.3,58.9,50.9
+Brooklyn South,BKS18,9,2016,March,15.3,31.4,56.7,39.5
+Bronx,BX01,9,2016,March,6.5,19.2,23.2,21.0
+Bronx,BX02,9,2016,March,12.6,33.2,49.8,40.7
+Bronx,BX03,9,2016,March,9.9,26.8,37.8,31.8
+Bronx,BX04,9,2016,March,11.1,28.6,44.1,35.6
+Bronx,BX05,9,2016,March,11.8,28.9,49.4,38.1
+Bronx,BX06,9,2016,March,13.9,34.7,39.3,36.8
+Bronx,BX07,9,2016,March,13.3,32.3,55.7,42.8
+Bronx,BX08,9,2016,March,20.2,39.5,76.1,51.0
+Bronx,BX09,9,2016,March,9.3,22.5,39.4,29.4
+Bronx,BX10,9,2016,March,18.0,38.9,64.6,48.2
+Bronx,BX11,9,2016,March,14.2,32.4,52.5,39.7
+Bronx,BX12,9,2016,March,16.5,32.2,70.9,46.3
+Manhattan,MN01,9,2016,March,27.7,46.4,68.5,52.0
+Manhattan,MN02,9,2016,March,25.8,38.9,74.6,48.1
+Manhattan,MN03,9,2016,March,14.1,42.6,42.7,42.6
+Manhattan,MN04,9,2016,March,22.5,32.5,73.1,42.9
+Manhattan,MN05,9,2016,March,19.8,31.3,56.5,37.8
+Manhattan,MN06,9,2016,March,22.7,34.1,69.9,43.3
+Manhattan,MN07,9,2016,March,27.1,42.7,73.7,50.7
+Manhattan,MN08,9,2016,March,26.5,42.9,72.4,50.5
+Manhattan,MN09,9,2016,March,17.5,55.6,44.7,50.7
+Manhattan,MN10,9,2016,March,14.5,38.6,51.2,44.2
+Manhattan,MN11,9,2016,March,11.6,41.0,32.7,37.2
+Manhattan,MN12,9,2016,March,15.8,42.6,57.0,49.1
+Queens East,QE07,9,2016,March,18.2,44.7,62.1,51.0
+Queens East,QE08,9,2016,March,16.3,28.9,52.2,35.5
+Queens East,QE10,9,2016,March,21.7,34.6,77.9,48.5
+Queens East,QE11,9,2016,March,22.5,48.1,79.8,58.3
+Queens East,QE12,9,2016,March,14.5,33.6,64.9,46.7
+Queens East,QE13,9,2016,March,18.4,33.1,78.8,47.7
+Queens East,QE14,9,2016,March,11.3,29.0,36.3,31.6
+Queens West,QW01,9,2016,March,19.5,44.2,72.6,54.5
+Queens West,QW02,9,2016,March,19.8,47.3,69.7,55.5
+Queens West,QW03,9,2016,March,14.4,30.3,58.0,40.4
+Queens West,QW04,9,2016,March,13.8,30.9,52.4,38.7
+Queens West,QW05,9,2016,March,24.2,46.1,81.1,58.8
+Queens West,QW06,9,2016,March,20.7,30.2,66.2,39.5
+Queens West,QW09,9,2016,March,19.1,39.5,72.5,51.5
+Staten Island,SI01,9,2016,March,19.3,35.6,70.8,46.8
+Staten Island,SI02,9,2016,March,20.4,40.6,73.2,51.0
+Staten Island,SI03,9,2016,March,21.3,43.2,76.8,53.9
+Brooklyn North,BKN01,11,2016,May,14.8,44.4,47.5,45.6
+Brooklyn North,BKN02,11,2016,May,17.7,33.2,54.5,39.5
+Brooklyn North,BKN03,11,2016,May,11.0,31.4,39.2,34.6
+Brooklyn North,BKN04,11,2016,May,13.6,31.2,59.6,42.7
+Brooklyn North,BKN05,11,2016,May,9.3,22.0,39.7,29.2
+Brooklyn North,BKN08,11,2016,May,15.2,41.2,53.9,46.4
+Brooklyn North,BKN09,11,2016,May,11.5,32.1,40.2,35.2
+Brooklyn North,BKN16,11,2016,May,8.2,21.0,32.5,25.7
+Brooklyn North,BKN17,11,2016,May,12.8,28.9,55.7,39.1
+Brooklyn South,BKS06,11,2016,May,30.5,48.4,84.8,59.1
+Brooklyn South,BKS07,11,2016,May,22.8,60.9,67.1,63.3
+Brooklyn South,BKS10,11,2016,May,25.3,55.6,74.0,62.6
+Brooklyn South,BKS11,11,2016,May,18.2,48.1,62.3,53.5
+Brooklyn South,BKS12,11,2016,May,15.4,51.9,43.2,48.4
+Brooklyn South,BKS13,11,2016,May,13.3,40.4,50.0,44.6
+Brooklyn South,BKS14,11,2016,May,15.0,37.3,54.2,43.1
+Brooklyn South,BKS15,11,2016,May,17.8,50.1,61.5,54.4
+Brooklyn South,BKS18,11,2016,May,14.9,42.0,66.7,50.8
+Bronx,BX01,11,2016,May,6.5,19.0,25.3,21.8
+Bronx,BX02,11,2016,May,12.3,31.4,54.2,41.4
+Bronx,BX03,11,2016,May,9.7,26.1,41.3,32.7
+Bronx,BX04,11,2016,May,10.7,28.1,45.8,35.8
+Bronx,BX05,11,2016,May,11.6,28.5,52.4,39.0
+Bronx,BX06,11,2016,May,13.8,37.1,41.1,38.8
+Bronx,BX07,11,2016,May,13.1,32.6,58.8,44.0
+Bronx,BX08,11,2016,May,20.0,47.5,78.6,58.2
+Bronx,BX09,11,2016,May,9.1,21.4,38.6,28.4
+Bronx,BX10,11,2016,May,17.7,41.5,65.8,50.8
+Bronx,BX11,11,2016,May,13.8,35.2,53.5,42.2
+Bronx,BX12,11,2016,May,15.6,34.0,69.8,47.6
+Manhattan,MN01,11,2016,May,26.2,43.7,74.0,51.0
+Manhattan,MN02,11,2016,May,25.2,38.6,82.4,49.1
+Manhattan,MN03,11,2016,May,13.9,43.6,43.6,43.6
+Manhattan,MN04,11,2016,May,22.7,33.4,81.9,45.1
+Manhattan,MN05,11,2016,May,19.2,31.1,60.5,38.2
+Manhattan,MN06,11,2016,May,22.1,33.9,75.9,44.0
+Manhattan,MN07,11,2016,May,26.6,42.7,79.3,51.5
+Manhattan,MN08,11,2016,May,26.0,42.6,79.6,51.5
+Manhattan,MN09,11,2016,May,17.8,59.2,47.8,54.2
+Manhattan,MN10,11,2016,May,14.2,37.5,55.2,45.2
+Manhattan,MN11,11,2016,May,11.4,42.7,32.9,38.4
+Manhattan,MN12,11,2016,May,15.9,45.0,60.4,51.7
+Queens East,QE07,11,2016,May,17.5,48.0,62.4,53.5
+Queens East,QE08,11,2016,May,15.4,30.1,49.7,35.9
+Queens East,QE10,11,2016,May,20.6,44.4,85.0,58.8
+Queens East,QE11,11,2016,May,20.9,63.3,86.2,71.4
+Queens East,QE12,11,2016,May,13.5,37.7,62.3,49.0
+Queens East,QE13,11,2016,May,16.9,41.4,87.3,57.7
+Queens East,QE14,11,2016,May,11.3,31.8,38.7,34.4
+Queens West,QW01,11,2016,May,19.4,50.1,73.6,59.0
+Queens West,QW02,11,2016,May,19.1,52.4,67.9,58.3
+Queens West,QW03,11,2016,May,13.7,32.1,57.8,41.9
+Queens West,QW04,11,2016,May,13.3,33.2,52.7,40.6
+Queens West,QW05,11,2016,May,24.1,49.3,83.1,62.2
+Queens West,QW06,11,2016,May,20.1,30.1,71.3,40.0
+Queens West,QW09,11,2016,May,18.2,41.7,72.7,53.5
+Staten Island,SI01,11,2016,May,18.8,45.6,79.1,57.5
+Staten Island,SI02,11,2016,May,18.7,51.5,79.8,61.6
+Staten Island,SI03,11,2016,May,19.4,53.9,84.1,64.6
+Brooklyn North,BKN01,5,2016,November,13.5,46.8,39.9,43.7
+Brooklyn North,BKN02,5,2016,November,17.3,31.2,52.8,37.1
+Brooklyn North,BKN03,5,2016,November,10.1,33.8,33.6,33.7
+Brooklyn North,BKN04,5,2016,November,12.5,34.0,50.7,41.6
+Brooklyn North,BKN05,5,2016,November,9.0,25.4,35.1,29.8
+Brooklyn North,BKN08,5,2016,November,14.5,46.2,46.9,46.5
+Brooklyn North,BKN09,5,2016,November,10.9,29.8,42.2,34.0
+Brooklyn North,BKN16,5,2016,November,7.9,24.3,28.5,26.2
+Brooklyn North,BKN17,5,2016,November,12.3,28.0,58.5,38.4
+Brooklyn South,BKS06,5,2016,November,31.0,46.2,78.9,55.2
+Brooklyn South,BKS07,5,2016,November,20.3,44.9,74.2,54.9
+Brooklyn South,BKS10,5,2016,November,25.6,54.2,74.2,61.1
+Brooklyn South,BKS11,5,2016,November,16.6,45.2,64.6,51.8
+Brooklyn South,BKS12,5,2016,November,13.4,53.4,33.8,44.5
+Brooklyn South,BKS13,5,2016,November,12.2,39.4,41.2,40.1
+Brooklyn South,BKS14,5,2016,November,13.4,32.1,47.5,36.9
+Brooklyn South,BKS15,5,2016,November,16.5,46.6,60.8,51.4
+Brooklyn South,BKS18,5,2016,November,13.7,32.2,55.6,39.6
+Bronx,BX01,5,2016,November,5.9,17.2,22.4,19.4
+Bronx,BX02,5,2016,November,10.1,25.6,42.9,33.2
+Bronx,BX03,5,2016,November,8.3,23.1,33.1,27.4
+Bronx,BX04,5,2016,November,9.8,27.1,39.0,32.3
+Bronx,BX05,5,2016,November,10.9,26.9,47.3,35.8
+Bronx,BX06,5,2016,November,12.9,33.3,37.1,35.0
+Bronx,BX07,5,2016,November,12.2,30.1,52.9,40.1
+Bronx,BX08,5,2016,November,19.8,43.5,73.6,53.0
+Bronx,BX09,5,2016,November,8.2,23.0,32.2,27.2
+Bronx,BX10,5,2016,November,18.0,41.5,68.6,50.7
+Bronx,BX11,5,2016,November,12.8,33.3,52.8,40.0
+Bronx,BX12,5,2016,November,14.7,32.4,71.6,45.8
+Manhattan,MN01,5,2016,November,26.8,45.2,70.0,50.9
+Manhattan,MN02,5,2016,November,24.0,36.5,74.6,45.2
+Manhattan,MN03,5,2016,November,13.2,42.5,38.2,40.6
+Manhattan,MN04,5,2016,November,21.5,32.0,74.2,41.7
+Manhattan,MN05,5,2016,November,19.0,30.8,57.0,36.8
+Manhattan,MN06,5,2016,November,21.3,33.0,69.0,41.3
+Manhattan,MN07,5,2016,November,25.7,41.2,74.3,48.7
+Manhattan,MN08,5,2016,November,25.4,41.7,74.8,49.3
+Manhattan,MN09,5,2016,November,16.7,54.5,45.1,50.4
+Manhattan,MN10,5,2016,November,12.9,36.0,45.3,40.1
+Manhattan,MN11,5,2016,November,11.0,41.2,30.0,36.3
+Manhattan,MN12,5,2016,November,14.8,42.0,53.9,47.2
+Queens East,QE07,5,2016,November,16.3,45.2,61.6,50.8
+Queens East,QE08,5,2016,November,14.1,26.7,43.3,31.3
+Queens East,QE10,5,2016,November,24.3,35.6,74.6,47.9
+Queens East,QE11,5,2016,November,18.6,46.4,70.3,53.9
+Queens East,QE12,5,2016,November,12.5,32.4,62.8,44.5
+Queens East,QE13,5,2016,November,15.8,32.2,74.9,45.7
+Queens East,QE14,5,2016,November,10.5,30.1,37.5,32.6
+Queens West,QW01,5,2016,November,19.3,47.3,84.4,60.0
+Queens West,QW02,5,2016,November,19.4,51.4,77.6,60.3
+Queens West,QW03,5,2016,November,13.3,31.2,61.3,41.5
+Queens West,QW04,5,2016,November,12.9,32.8,54.0,40.0
+Queens West,QW05,5,2016,November,24.9,47.3,83.2,59.5
+Queens West,QW06,5,2016,November,20.2,28.6,74.3,39.1
+Queens West,QW09,5,2016,November,16.6,39.6,74.8,51.6
+Staten Island,SI01,5,2016,November,18.8,37.4,63.4,45.6
+Staten Island,SI02,5,2016,November,17.4,41.7,64.1,48.7
+Staten Island,SI03,5,2016,November,18.1,44.1,66.6,51.2
+Brooklyn North,BKN01,4,2016,October,14.0,49.9,41.0,45.8
+Brooklyn North,BKN02,4,2016,October,18.0,32.8,53.9,38.6
+Brooklyn North,BKN03,4,2016,October,10.5,35.3,34.9,35.1
+Brooklyn North,BKN04,4,2016,October,13.0,35.5,52.4,43.2
+Brooklyn North,BKN05,4,2016,October,9.1,26.6,34.8,30.3
+Brooklyn North,BKN08,4,2016,October,14.9,46.9,48.2,47.5
+Brooklyn North,BKN09,4,2016,October,11.1,29.9,43.4,34.5
+Brooklyn North,BKN16,4,2016,October,8.1,24.9,29.7,27.1
+Brooklyn North,BKN17,4,2016,October,12.9,28.9,62.1,40.3
+Brooklyn South,BKS06,4,2016,October,29.8,45.9,85.6,56.8
+Brooklyn South,BKS07,4,2016,October,20.1,45.2,77.8,56.3
+Brooklyn South,BKS10,4,2016,October,24.5,55.3,79.2,63.4
+Brooklyn South,BKS11,4,2016,October,17.6,47.6,68.7,54.8
+Brooklyn South,BKS12,4,2016,October,14.0,53.7,38.1,46.6
+Brooklyn South,BKS13,4,2016,October,13.9,39.8,53.3,45.7
+Brooklyn South,BKS14,4,2016,October,14.5,32.4,55.7,39.8
+Brooklyn South,BKS15,4,2016,October,17.3,48.5,64.5,54.0
+Brooklyn South,BKS18,4,2016,October,14.5,33.6,60.2,42.0
+Bronx,BX01,4,2016,October,6.3,18.8,23.3,20.8
+Bronx,BX02,4,2016,October,11.6,30.2,48.7,38.3
+Bronx,BX03,4,2016,October,8.6,24.5,33.0,28.2
+Bronx,BX04,4,2016,October,10.1,28.0,39.9,33.2
+Bronx,BX05,4,2016,October,11.1,27.8,47.5,36.4
+Bronx,BX06,4,2016,October,13.4,32.9,35.9,34.2
+Bronx,BX07,4,2016,October,12.7,31.8,54.3,41.6
+Bronx,BX08,4,2016,October,19.7,44.8,76.6,54.9
+Bronx,BX09,4,2016,October,8.9,25.2,34.8,29.5
+Bronx,BX10,4,2016,October,18.2,43.0,72.3,53.0
+Bronx,BX11,4,2016,October,13.9,35.9,57.7,43.3
+Bronx,BX12,4,2016,October,15.8,33.8,78.7,49.1
+Manhattan,MN01,4,2016,October,26.5,44.0,72.6,50.6
+Manhattan,MN02,4,2016,October,24.8,37.3,77.6,46.5
+Manhattan,MN03,4,2016,October,13.9,44.4,40.7,42.8
+Manhattan,MN04,4,2016,October,22.6,33.5,78.5,43.8
+Manhattan,MN05,4,2016,October,19.4,31.6,57.4,37.6
+Manhattan,MN06,4,2016,October,22.6,35.0,73.3,43.8
+Manhattan,MN07,4,2016,October,26.1,41.4,75.3,49.2
+Manhattan,MN08,4,2016,October,25.6,41.4,76.1,49.4
+Manhattan,MN09,4,2016,October,16.3,54.0,45.9,50.5
+Manhattan,MN10,4,2016,October,13.9,38.5,48.5,42.9
+Manhattan,MN11,4,2016,October,11.1,41.0,30.7,36.5
+Manhattan,MN12,4,2016,October,15.7,44.5,56.6,49.8
+Queens East,QE07,4,2016,October,17.2,47.5,65.6,53.7
+Queens East,QE08,4,2016,October,15.2,28.4,47.3,33.6
+Queens East,QE10,4,2016,October,18.9,37.1,73.5,48.5
+Queens East,QE11,4,2016,October,21.1,52.3,80.4,61.1
+Queens East,QE12,4,2016,October,13.1,34.5,65.0,46.6
+Queens East,QE13,4,2016,October,17.1,35.6,79.6,49.5
+Queens East,QE14,4,2016,October,10.9,30.6,40.2,33.9
+Queens West,QW01,4,2016,October,19.2,49.4,79.8,59.8
+Queens West,QW02,4,2016,October,19.3,52.5,74.9,60.1
+Queens West,QW03,4,2016,October,13.5,31.4,63.0,42.2
+Queens West,QW04,4,2016,October,13.4,33.1,58.3,41.7
+Queens West,QW05,4,2016,October,24.3,48.1,85.8,61.0
+Queens West,QW06,4,2016,October,20.3,30.3,69.6,39.3
+Queens West,QW09,4,2016,October,17.3,41.0,79.0,53.9
+Staten Island,SI01,4,2016,October,18.4,39.3,69.2,48.7
+Staten Island,SI02,4,2016,October,19.2,45.5,71.0,53.5
+Staten Island,SI03,4,2016,October,20.0,47.2,76.4,56.4
+Brooklyn North,BKN01,3,2016,September,14.4,51.4,42.2,47.2
+Brooklyn North,BKN02,3,2016,September,17.5,32.4,53.6,38.2
+Brooklyn North,BKN03,3,2016,September,10.7,35.6,35.7,35.7
+Brooklyn North,BKN04,3,2016,September,13.1,35.1,53.7,43.5
+Brooklyn North,BKN05,3,2016,September,9.3,26.9,36.2,31.1
+Brooklyn North,BKN08,3,2016,September,14.9,46.6,49.9,48.1
+Brooklyn North,BKN09,3,2016,September,11.4,30.2,45.4,35.4
+Brooklyn North,BKN16,3,2016,September,8.4,25.5,30.8,27.9
+Brooklyn North,BKN17,3,2016,September,13.3,28.8,65.8,41.4
+Brooklyn South,BKS06,3,2016,September,28.0,45.6,82.3,55.7
+Brooklyn South,BKS07,3,2016,September,20.5,47.4,76.5,57.3
+Brooklyn South,BKS10,3,2016,September,24.2,57.7,79.8,65.2
+Brooklyn South,BKS11,3,2016,September,17.7,48.8,67.1,55.0
+Brooklyn South,BKS12,3,2016,September,14.9,59.6,37.9,49.7
+Brooklyn South,BKS13,3,2016,September,12.9,40.4,45.2,42.5
+Brooklyn South,BKS14,3,2016,September,14.0,33.3,52.3,39.3
+Brooklyn South,BKS15,3,2016,September,17.7,50.0,64.5,54.9
+Brooklyn South,BKS18,3,2016,September,14.8,33.7,62.7,42.8
+Bronx,BX01,3,2016,September,6.4,19.7,23.0,21.1
+Bronx,BX02,3,2016,September,12.1,32.0,50.0,39.9
+Bronx,BX03,3,2016,September,8.8,25.2,33.4,28.8
+Bronx,BX04,3,2016,September,10.0,27.7,39.7,32.9
+Bronx,BX05,3,2016,September,11.2,28.2,47.8,36.7
+Bronx,BX06,3,2016,September,12.6,34.9,37.4,36.0
+Bronx,BX07,3,2016,September,12.9,33.2,54.5,42.5
+Bronx,BX08,3,2016,September,20.1,45.6,79.2,56.3
+Bronx,BX09,3,2016,September,9.1,26.2,35.5,30.4
+Bronx,BX10,3,2016,September,18.3,42.7,75.3,53.8
+Bronx,BX11,3,2016,September,14.0,35.3,60.1,43.7
+Bronx,BX12,3,2016,September,16.3,34.8,81.3,50.7
+Manhattan,MN01,3,2016,September,27.1,45.8,72.1,51.8
+Manhattan,MN02,3,2016,September,24.2,37.4,75.4,46.1
+Manhattan,MN03,3,2016,September,13.8,45.8,40.2,43.3
+Manhattan,MN04,3,2016,September,22.3,33.0,77.6,43.2
+Manhattan,MN05,3,2016,September,18.6,30.5,55.0,36.1
+Manhattan,MN06,3,2016,September,22.6,35.2,73.3,43.9
+Manhattan,MN07,3,2016,September,26.4,43.1,73.9,50.1
+Manhattan,MN08,3,2016,September,25.7,42.3,73.9,49.6
+Manhattan,MN09,3,2016,September,16.4,58.1,44.9,52.3
+Manhattan,MN10,3,2016,September,13.8,39.0,49.0,43.4
+Manhattan,MN11,3,2016,September,11.5,42.8,31.1,37.7
+Manhattan,MN12,3,2016,September,15.5,46.0,55.5,50.1
+Queens East,QE07,3,2016,September,17.4,48.4,65.0,54.0
+Queens East,QE08,3,2016,September,15.3,28.2,49.0,34.0
+Queens East,QE10,3,2016,September,16.5,35.5,74.1,47.7
+Queens East,QE11,3,2016,September,21.4,53.5,80.7,62.1
+Queens East,QE12,3,2016,September,13.3,33.5,68.4,47.4
+Queens East,QE13,3,2016,September,17.1,34.4,82.8,49.6
+Queens East,QE14,3,2016,September,11.2,30.4,43.5,34.8
+Queens West,QW01,3,2016,September,19.0,48.4,79.6,59.1
+Queens West,QW02,3,2016,September,18.9,50.9,74.3,58.9
+Queens West,QW03,3,2016,September,13.6,31.3,63.8,42.4
+Queens West,QW04,3,2016,September,13.2,33.6,55.9,41.2
+Queens West,QW05,3,2016,September,23.4,48.0,90.5,62.5
+Queens West,QW06,3,2016,September,20.1,30.4,68.0,39.0
+Queens West,QW09,3,2016,September,17.4,41.1,79.7,54.3
+Staten Island,SI01,3,2016,September,18.7,39.5,71.7,49.7
+Staten Island,SI02,3,2016,September,19.0,44.5,75.0,54.1
+Staten Island,SI03,3,2016,September,20.3,48.2,79.5,58.1
