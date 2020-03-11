@@ -1,4 +1,5 @@
 import pandas as pd
+import matplotlib.pyplot as plt
 
 with open ("data/PVD_raw_recycling_rates.csv", 'rb') as f:
     pvd_df = pd.read_csv(f)
@@ -23,11 +24,20 @@ pvd_df['diversion_rate'] = pvd_df['diversion_rate'].map(lambda x: x * 100)
 pvd_df['city'] = "Providence"
 pvd_df = pvd_df[['city','year', 'month', 'diversion_rate']]
 
-#print(pvd_df.head())
+pvd_df['date'] = pvd_df['month'].map(str) + '/' + pvd_df['year'].map(str)
+pvd_df['date'] = pd.to_datetime(pvd_df['date'], format='%m/%Y').dt.strftime('%m/%Y')
+
+plt.plot(pvd_df['date'], pvd_df['diversion_rate'])
+plt.title('Providence Diversion Rate')
+plt.savefig('figs/pvd_graph')
+plt.clf()
 
 # NYC data cleaning
 nyc_df.rename(columns={'Diversion Rate-Total (Total Recycling / Total Waste)': 'diversion_rate', \
-    'Fiscal Month Number': 'month', 'Fiscal Year': 'year'}, inplace=True)
+    'Month Name': 'month', 'Fiscal Year': 'year'}, inplace=True)
+
+months = {'January':1, 'February':2, 'March':3, 'April':4, 'May':5, 'June':6, 'July':7, 'August':8, 'September':9, 'October':10, 'November':11, 'December':12}
+nyc_df.month = nyc_df.month.map(months)
 nyc_df = nyc_df[['year', 'month', 'diversion_rate']]
 nyc_df.sort_values(['year', 'month'], ascending = (True, True), inplace=True)
 nyc_df = nyc_df.groupby(['year','month']).mean()
@@ -35,7 +45,13 @@ nyc_df.reset_index(inplace=True)
 nyc_df['city'] = 'New York City'
 nyc_df = nyc_df[['city','year', 'month', 'diversion_rate']]
 
-#print(nyc_df.head())
+nyc_df['date'] = nyc_df['month'].map(str) + '/' + nyc_df['year'].map(str)
+nyc_df['date'] = pd.to_datetime(nyc_df['date'], format='%m/%Y').dt.strftime('%m/%Y')
+
+plt.plot(nyc_df['date'], nyc_df['diversion_rate'])
+plt.title('NYC Diversion Rate')
+plt.savefig('figs/nyc_graph')
+plt.clf()
 
 # Buffalo data cleaning
 recycling = ['Curb Recycling', 'Misc. Recycling', 'Bottle Bill', 'Scrap Metal', 'Recycled Tires']
@@ -55,20 +71,42 @@ buff_df['diversion_rate'] = buff_df['total_rec']/(buff_df['total_rec'] + buff_df
 buff_df['city'] = 'Buffalo'
 buff_df = buff_df[['city','year', 'month', 'diversion_rate']]
 
-#print(buff_df.head())
+buff_df['date'] = buff_df['month'].map(str) + '/' + buff_df['year'].map(str)
+buff_df['date'] = pd.to_datetime(buff_df['date'], format='%m/%Y').dt.strftime('%m/%Y')
+
+plt.plot(buff_df['date'], buff_df['diversion_rate'])
+plt.title('Buffalo Diversion Rate')
+plt.savefig('figs/buff_graph')
+plt.clf()
 
 # Seattle data cleaning
-print(sea_df.head())
-# sea_df[['total_garb', 'total_org', 'total_rec']] = sea_df[['total_garb', 'total_org', 'total_rec']] \
-#     .apply(convert_objects, convert_numeric=True)
 sea_df['total_garb'] = sea_df['total_garb'].astype(str).map(lambda x: float(x.replace(',', '')))
 sea_df['total_org'] = sea_df['total_org'].astype(str).map(lambda x: float(x.replace(',', '')))
 sea_df['total_rec'] = sea_df['total_rec'].astype(str).map(lambda x: float(x.replace(',', '')))
+sea_df['diversion_rate'] = sea_df['total_rec'] /(sea_df['total_rec'] + sea_df['total_org'] + sea_df['total_garb']) * 100
+sea_df['city'] = 'Seattle'
+sea_df = sea_df[['city', 'year', 'month', 'diversion_rate']]
 
-print(sea_df.head())
-print(sea_df.dtypes)
+sea_df['date'] = sea_df['month'].map(str) + '/' + sea_df['year'].map(str)
+sea_df['date'] = pd.to_datetime(sea_df['date'], format='%m/%Y').dt.strftime('%m/%Y')
 
-# print(sea_df.head())
-# print(sea_df.tail())
+plt.plot(sea_df['date'], sea_df['diversion_rate'])
+plt.title('Seattle Diversion Rate')
+plt.savefig('figs/sea_graph')
+plt.clf()
 
-#print("Finished cleaning data!")
+final_df = pd.concat([pvd_df, nyc_df, buff_df, sea_df])
+plot = final_df.groupby(['year', 'month'])['diversion_rate'].mean().reset_index()
+
+plot['date'] = plot['month'].map(str) + '/' + plot['year'].map(str)
+plot['date'] = pd.to_datetime(plot['date'], format='%m/%Y').dt.strftime('%m/%Y')
+
+plt.plot(plot['date'], plot['diversion_rate'])
+plt.title('Total Diversion Rate')
+plt.savefig('figs/total_graph')
+plt.clf()
+
+print("Finished cleaning data!")
+
+final_df.to_pickle('data/cleaned_final_data')
+final_df.drop(columns=['date']).to_csv('data/cleaned_final_data.csv')
