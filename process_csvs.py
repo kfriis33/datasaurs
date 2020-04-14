@@ -20,7 +20,7 @@ combined_csv.to_csv( "combined_csv.csv", index=False, encoding='utf-8-sig')
 
 months = {"Dec": 12, "Nov": 11, "Oct": 10, "Sep": 9, "Aug": 8, "Jul": 7, "Jun": 6, "May": 5, "Apr": 4, "Mar": 3, "Feb": 2, "Jan": 1}
 
-
+'''
 with open('./csvs/combined_csv.csv') as old_file, open('interim_processed_by_place.csv', mode='w') as new_file:
     #fieldnames = ['year', 'place', 'month', 'num_tweets', 'likes', 'retweets']
     fieldnames = ['year', 'place', 'month', 'num_tweets', 'likes', 'retweets']
@@ -39,6 +39,7 @@ with open('./csvs/combined_csv.csv') as old_file, open('interim_processed_by_pla
 
         month = row[2].split(' ')[1]
         csv_writer.writerow({'year': int(row[0]), 'place': row[1], 'month': months[month], 'num_tweets': 1, 'likes': int(row[3]), 'retweets': int(row[4])})
+'''
 
 ''' sum rows '''
 '''
@@ -52,6 +53,6 @@ aggregated.to_csv( "processed_aggregated.csv", encoding='utf-8-sig')
 
 
 ''' by place --> aggregate '''
-df = pd.read_csv("processed_by_place.csv")
+df = pd.read_csv("data/recycling_by_place.csv")
 aggregated = df.groupby(['year','month']).sum()
 aggregated.to_csv( "full_processed_aggregated.csv", encoding='utf-8-sig')
