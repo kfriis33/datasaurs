@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import numpy as np
 
 with open ("data/PVD_raw_recycling_rates.csv", 'rb') as f:
     pvd_df = pd.read_csv(f)
@@ -24,11 +25,16 @@ pvd_df['diversion_rate'] = pvd_df['diversion_rate'].map(lambda x: x * 100)
 pvd_df['city'] = "Providence"
 pvd_df = pvd_df[['city','year', 'month', 'diversion_rate']]
 
+print('PVD:')
+print(pvd_df['diversion_rate'].min())
+print(pvd_df['diversion_rate'].max())
+
 pvd_df['date'] = pvd_df['month'].map(str) + '/' + pvd_df['year'].map(str)
 pvd_df['date'] = pd.to_datetime(pvd_df['date'], format='%m/%Y').dt.strftime('%m/%Y')
 
 plt.plot(pvd_df['date'], pvd_df['diversion_rate'])
 plt.title('Providence Diversion Rate')
+plt.xticks([0, 24, 48, 72, 96, 120])
 plt.savefig('figs/pvd_graph')
 plt.clf()
 
@@ -45,11 +51,16 @@ nyc_df.reset_index(inplace=True)
 nyc_df['city'] = 'New York City'
 nyc_df = nyc_df[['city','year', 'month', 'diversion_rate']]
 
+print('NYC:')
+print(nyc_df['diversion_rate'].min())
+print(nyc_df['diversion_rate'].max())
+
 nyc_df['date'] = nyc_df['month'].map(str) + '/' + nyc_df['year'].map(str)
 nyc_df['date'] = pd.to_datetime(nyc_df['date'], format='%m/%Y').dt.strftime('%m/%Y')
 
 plt.plot(nyc_df['date'], nyc_df['diversion_rate'])
 plt.title('NYC Diversion Rate')
+plt.xticks([0, 6, 12, 18, 24, 30, 36, 42])
 plt.savefig('figs/nyc_graph')
 plt.clf()
 
@@ -71,11 +82,16 @@ buff_df['diversion_rate'] = buff_df['total_rec']/(buff_df['total_rec'] + buff_df
 buff_df['city'] = 'Buffalo'
 buff_df = buff_df[['city','year', 'month', 'diversion_rate']]
 
+print("Buffalo:")
+print(buff_df['diversion_rate'].min())
+print(buff_df['diversion_rate'].max())
+
 buff_df['date'] = buff_df['month'].map(str) + '/' + buff_df['year'].map(str)
 buff_df['date'] = pd.to_datetime(buff_df['date'], format='%m/%Y').dt.strftime('%m/%Y')
 
 plt.plot(buff_df['date'], buff_df['diversion_rate'])
 plt.title('Buffalo Diversion Rate')
+plt.xticks([0, 24, 48, 72, 96, 120])
 plt.savefig('figs/buff_graph')
 plt.clf()
 
@@ -87,11 +103,16 @@ sea_df['diversion_rate'] = sea_df['total_rec'] /(sea_df['total_rec'] + sea_df['t
 sea_df['city'] = 'Seattle'
 sea_df = sea_df[['city', 'year', 'month', 'diversion_rate']]
 
+print('Seattle:')
+print(sea_df['diversion_rate'].min())
+print(sea_df['diversion_rate'].max())
+
 sea_df['date'] = sea_df['month'].map(str) + '/' + sea_df['year'].map(str)
 sea_df['date'] = pd.to_datetime(sea_df['date'], format='%m/%Y').dt.strftime('%m/%Y')
 
 plt.plot(sea_df['date'], sea_df['diversion_rate'])
 plt.title('Seattle Diversion Rate')
+plt.xticks([0, 24, 48, 72, 96, 120])
 plt.savefig('figs/sea_graph')
 plt.clf()
 
@@ -102,11 +123,12 @@ plot['date'] = plot['month'].map(str) + '/' + plot['year'].map(str)
 plot['date'] = pd.to_datetime(plot['date'], format='%m/%Y').dt.strftime('%m/%Y')
 
 plt.plot(plot['date'], plot['diversion_rate'])
+plt.xticks([0, 24, 48, 72, 96, 120])
 plt.title('Total Diversion Rate')
 plt.savefig('figs/total_graph')
 plt.clf()
 
 print("Finished cleaning data!")
 
-final_df.to_pickle('data/cleaned_final_data')
-final_df.drop(columns=['date']).to_csv('data/cleaned_final_data.csv')
+# final_df.to_pickle('data/cleaned_final_data')
+# final_df.drop(columns=['date']).to_csv('data/cleaned_final_data.csv')
