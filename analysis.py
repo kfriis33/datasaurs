@@ -34,6 +34,37 @@ joined = pd.merge(r_agg, t_agg, on=['year', 'month'])
 joined_place = pd.merge(r_df, t_df, on=['year', 'month', 'place'])
 #joined_place.to_csv('data/all_by_place.csv')
 
+#calculate engagement
+with open ("data/tweets_aggregated_w_normalization.csv", 'rb') as f:
+    tnorm = pd.read_csv(f)
+
+perc_impressions = 0.1
+importance = 2
+
+tnorm['avg_followers'] = tnorm['MAU']*(707/68) #68 is the MAU for Dec 2019
+tnorm['avg_views'] = tnorm['avg_followers'] * perc_impressions
+tnorm['total_views'] = (tnorm['num_tweets'] + tnorm['retweets'])/tnorm['perc_geotagged']*tnorm['avg_views']
+tnorm['engagement'] = ((tnorm['likes'] + tnorm['retweets'])/tnorm['perc_geotagged'])*importance + tnorm['total_views']
+
+joined_norm = pd.merge(r_agg, tnorm, on=['year','month'])
+# joined_norm.to_csv('data/all_w_engagement.csv')
+
+# remove high outliers
+joined_norm_adj = joined_norm[joined_norm['engagement'].between(0, joined_norm.quantile(.95).engagement)]
+
+# plot for engagement
+plt.scatter(joined_norm_adj['engagement'], joined_norm_adj['diversion_rate'], alpha=0.7)
+m, b = np.polyfit(joined_norm_adj['engagement'], joined_norm_adj['diversion_rate'], 1)
+print ("Engagement -", "m:", m, "b:", b)
+plt.plot(joined_norm_adj['engagement'], m*joined_norm_adj['engagement'] + b)
+plt.xlabel('Engagement')
+plt.ylabel('Recycling Diversion Rate')
+plt.title("Twitter engagement vs Diversion Rate")
+plt.savefig('figs/analysis/engagement_vs_diversion')
+plt.show()
+plt.clf()
+
+
 #plot 1
 
 plt.scatter(joined['num_tweets'], joined['diversion_rate'], alpha=0.7)
