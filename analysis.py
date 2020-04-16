@@ -41,13 +41,13 @@ with open ("data/tweets_aggregated_w_normalization.csv", 'rb') as f:
 perc_impressions = 0.1
 importance = 2
 
-tnorm['avg_followers'] = tnorm['MAU']*(707/68) #68 is the MAU for Dec 2019
+tnorm['avg_followers'] = tnorm['MAU']*(707/66) #66 is the MAU for June 2016
 tnorm['avg_views'] = tnorm['avg_followers'] * perc_impressions
 tnorm['total_views'] = (tnorm['num_tweets'] + tnorm['retweets'])/tnorm['perc_geotagged']*tnorm['avg_views']
 tnorm['engagement'] = ((tnorm['likes'] + tnorm['retweets'])/tnorm['perc_geotagged'])*importance + tnorm['total_views']
 
 joined_norm = pd.merge(r_agg, tnorm, on=['year','month'])
-# joined_norm.to_csv('data/all_w_engagement.csv')
+#joined_norm.to_csv('data/all_w_engagement.csv')
 
 # remove high outliers
 joined_norm_adj = joined_norm[joined_norm['engagement'].between(0, joined_norm.quantile(.95).engagement)]
