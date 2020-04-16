@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from mpl_toolkits import mplot3d
 import seaborn as sns
-#from scipy.stats import describe, spearmanr, pearsonr
+from scipy.stats import describe, spearmanr, pearsonr
 
 with open ("data/recycling_by_place.csv", 'rb') as f:
     r_df = pd.read_csv(f)
@@ -56,6 +56,9 @@ joined_norm_adj = joined_norm[joined_norm['engagement'].between(0, joined_norm.q
 plt.scatter(joined_norm_adj['engagement'], joined_norm_adj['diversion_rate'], alpha=0.7)
 m, b = np.polyfit(joined_norm_adj['engagement'], joined_norm_adj['diversion_rate'], 1)
 print ("Engagement -", "m:", m, "b:", b)
+pearson, p = pearsonr(joined_norm_adj['engagement'], joined_norm_adj['diversion_rate'])
+print("Pearson: %.02f (%.02f)"%(pearson, p))
+
 plt.plot(joined_norm_adj['engagement'], m*joined_norm_adj['engagement'] + b)
 plt.xlabel('Engagement')
 plt.ylabel('Recycling Diversion Rate')
@@ -71,6 +74,9 @@ plt.scatter(joined['num_tweets'], joined['diversion_rate'], alpha=0.7)
 m, b = np.polyfit(joined['num_tweets'], joined['diversion_rate'], 1)
 print ("Tweets aggregate -", "m:", m, "b:", b)
 plt.plot(joined['num_tweets'], m*joined['num_tweets'] + b)
+pearson, p = pearsonr(joined['num_tweets'], joined['diversion_rate'])
+print("Pearson: %.02f (%.02f)"%(pearson, p))
+
 plt.xlabel('Number of Tweets')
 plt.ylabel('Recycling Diversion Rate')
 plt.title("Number of Tweets vs Diversion Rate")
@@ -115,6 +121,8 @@ for i, city in enumerate(cities):
     m, b = np.polyfit(data['num_tweets'], data['diversion_rate'], 1)
     print ("Tweets", city, "-", "m:", m, "b:", b)
     plt.plot(data['num_tweets'], m*data['num_tweets'] + b, c=colors[i])
+    pearson, p = pearsonr(data['num_tweets'], data['diversion_rate'])
+    print("Pearson: %.02f (%.02f)"%(pearson, p))
 
     plt.gca().set(xlabel='Number of Tweets', ylabel='Diversion Rate')
     plt.title("Number of Tweets vs Diversion Rate, " + city)
@@ -129,6 +137,9 @@ plt.scatter(joined_adj['likes'], joined_adj['diversion_rate'], alpha=0.7)
 m, b = np.polyfit(joined_adj['likes'], joined_adj['diversion_rate'], 1)
 print ("Likes aggregate -", "m:", m, "b:", b)
 plt.plot(joined_adj['likes'], m*joined_adj['likes'] + b)
+pearson, p = pearsonr(joined_adj['likes'], joined_adj['diversion_rate'])
+print("Pearson: %.02f (%.02f)"%(pearson, p))
+
 plt.xlabel('Likes')
 plt.ylabel('Recycling Diversion Rate')
 plt.title("Number of Likes vs Diversion Rate")
@@ -165,6 +176,8 @@ for i, city in enumerate(cities):
     m, b = np.polyfit(data['likes'], data['diversion_rate'], 1)
     print ("Likes", city, "-", "m:", m, "b:", b)
     plt.plot(data['likes'], m*data['likes'] + b, c=colors[i])
+    pearson, p = pearsonr(data['likes'], data['diversion_rate'])
+    print("Pearson: %.02f (%.02f)"%(pearson, p))
 
     plt.gca().set(xlabel='Number of Likes', ylabel='Diversion Rate')
     plt.title("Number of Likes vs Diversion Rate, " + city)
@@ -178,6 +191,9 @@ plt.scatter(joined_adj['retweets'], joined_adj['diversion_rate'], alpha=0.7)
 m, b = np.polyfit(joined_adj['retweets'], joined_adj['diversion_rate'], 1)
 print ("Retweets aggregate -", "m:", m, "b:", b)
 plt.plot(joined_adj['retweets'], m*joined_adj['retweets'] + b)
+pearson, p = pearsonr(joined_adj['retweets'], joined_adj['diversion_rate'])
+print("Pearson: %.02f (%.02f)"%(pearson, p))
+
 plt.xlabel('retweets')
 plt.ylabel('Recycling Diversion Rate')
 plt.title("Number of Retweets vs Diversion Rate")
@@ -213,6 +229,8 @@ for i, city in enumerate(cities):
     m, b = np.polyfit(data['retweets'], data['diversion_rate'], 1)
     print ("Retweets", city, "-", "m:", m, "b:", b)
     plt.plot(data['retweets'], m*data['retweets'] + b, c=colors[i])
+    pearson, p = pearsonr(data['retweets'], data['diversion_rate'])
+    print("Pearson: %.02f (%.02f)"%(pearson, p))
 
     plt.gca().set(xlabel='Number of Retweets', ylabel='Diversion Rate')
     plt.title("Number of Retweets vs Diversion Rate, " + city)
