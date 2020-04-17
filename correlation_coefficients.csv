@@ -1,0 +1,14 @@
+Relationship,Pearson correlation coefficient,P-value
+Engagement vs diversion,0.23,0.04
+Tweets vs diversion,0.12,0.28
+Tweets Buffalo vs diversion,0.38,0.00
+Tweets Providence vs diversion,0.07,0.54
+Tweets Seattle vs diversion,0.05,0.64
+Likes vs diversion,0.29,0.01
+Likes Buffalo vs diversion,0.39,0.00
+Likes Providence vs diversion,0.22,0.06
+Likes Seattle vs diversion,0.06,0.62
+Retweets vs diversion,0.27,0.02
+Retweets Buffalo vs diversion,0.42,0.00
+Retweets Providence vs diversion,0.11,0.36
+Retweets Seattle vs diversion,0.18,0.14
