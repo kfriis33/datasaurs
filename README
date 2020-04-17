@@ -1,0 +1,15 @@
+(all-tweets.csv)
+The Twitter data is combined in one .csv file with following columns:
+Year - int for the month
+Place - string representing tweets’ location
+Month - int for the month
+Num_tweets - int for the number of tweets made in month from place mentioning ‘climate’
+Likes - int for the total number of likes these tweets got
+Retweets - int for the total number of retweets these tweets got
+
+(all-recycling.csv)
+The recycling data is combined in one .csv file with the following columns:
+city - string representing the city the data is from
+year - int for the year
+month - int for the month
+diversion_rate - float for the diversion rate, which is calculated as the total recycling / total amount of waste (including recycling)
