@@ -18,6 +18,102 @@
 
 <h3> Hypothesis and Metrics for Success </h3>
 
+We are seeking to find out if there is a positive correlation between overall
+Twitter engagement on the topic of climate and people’s practice of environmentally conscious behavior.
+To answer this, we have the following hypotheses:
+<br>
+<ul>
+  <li> <strong>Null hypothesis:</strong> There is no significant linear relationship between Twitter engagement
+on climate topics and recycling behavior. </li>
+    <li> <strong>Alternate hypothesis:</strong> There is a significant linear relationship between Twitter
+engagement on climate topics and recycling behavior. </li>
+</ul>
+Our main metric of success is finding statistically significant p-values for our Pearson correlation coefficients.
+
+
+<h3> Restructuring our Data </h3>
+
+To better analyze our data, we had to come up with a way to estimate Twitter engagement
+from the raw data we had collected, our raw data being the number of tweets mentioning
+the word ‘climate,’ the likes that those tweets got, and the number of retweets mentioning
+climate, by month in each of our locations. We used this data to calculate engagement in the following way:
+<br>
+<br>
+<img src="figs/engagement_calc.jpeg" width="600" style="display: block;
+      margin-left: auto;
+      margin-right: auto; float:bottom;">
+<br>
+Explanation of these calculations:
+<ul>
+  <li> The average number of followers for June 2016 was found
+      <a href="https://kickfactory.com/blog/average-twitter-followers-updated-2016/"> here</a>.
+      Along with the number of monthly active users found from Twitter investors
+      reports (reports found
+      <a href="https://investor.twitterinc.com/financial-information/quarterly-results/default.aspx"> here</a>),
+      this was used to estimate the average number
+      of followers for the other months. </li>
+  <li>  Impressions are Twitter’s metric of how many people a tweet has been seen
+      by. From looking around online, the percentage of an account’s followers who
+      typically view a tweet from that account ranges from around 5% to 20%.
+      We estimated this to be 10% for our calculations. </li>
+  <li>  We then calculated the average number of views per tweet using the
+      average number of followers and percentage of impressions. </li>
+  <li>  Total views was found using the number of tweets and retweets and the
+      average number of views per tweet. We also divided the number of tweets
+      and retweets we queried by the percentage of tweets that were geotagged
+      that month (data found
+      <a href="https://blog.gdeltproject.org/visualizing-eight-years-of-twitters-evolution-2012-2019/"> here</a>)
+      because we only collected geotagged tweets.
+      This way, we normalized for differences in how many tweets were geotagged
+      each month and scaled our numbers up to represent the total number tweets
+      mentioning climate that month. </li>
+  <li>   Finally, we defined an engagement as a like, retweet, or a view, so we
+      summed all these values. We decided to weight the likes and retweets with
+      an extra importance because a like or retweet is a greater indicator of
+      engagement with the topic than just a view. </li>
+</ul>
+  The dependent variable we used was recycling diversion rate, which is an aggregate
+  of the recycling data we collected from the city websites of Buffalo, Providence, and Seattle.
+
+
+<h3> Statistical Tests </h3>
+<a href="https://github.com/kfriis33/datasaurs/blob/master/analysis.py"> Link to analysis script (python)</a>
+<br>
+<a href="https://github.com/kfriis33/datasaurs/tree/master/data"> Link to data (csvs)</a>
+<br>
+<br>
+For our statistical test, we decided to calculate the Pearson correlation coefficient
+because this is a measure of linear correlation between two variables. It always has a
+value between +1 and -1, where a positive value shows positive correlation and a negative
+value shows negative correlation. This test made the most sense for our hypothesis because
+we are looking specifically at whether there is a linear relationship between twitter engagement
+on climate and recycling behavior.
+<br>
+<br>
+In order to measure success or failure, we calculated a p-value from our correlation coefficient.
+Both the Pearson coefficient and p-value were calculated using the scipy.stats library in Python.
+Once we calculated our p-value we could decide whether to accept or reject the null hypothesis
+by comparing it to our significance level of 0.05. A p-value less than this significance
+level would allow us to reject the null hypothesis, and show that there is a linear
+relationship between engagement and recycling, which we would define as a success.
+<br>
+<br>
+We decided to focus on the relationship between engagement and recycling behaviour
+because this most closely represented the relationship we want to analyze in our
+hypothesis and it uses all our raw data in a holistic way. However, in addition
+to plotting and running tests on total twitter engagement vs. recycling diversion
+rate for all three cities aggregated, we broke our data down to run additional
+tests and see the relationship between different parts of our data. First, we
+broke down the components of twitter engagement: number of tweets, number of
+likes, and number of retweets. We plotted each of these metrics against total
+diversion rates and calculated the pearson coefficients. Second, we broke down
+both our tweet data and recycling data by city: Providence, Buffalo, and Seattle.
+For each stand alone city, we plotted the three types of engagement against
+the city’s recycling diversion rate. In total, we ended up making 12 additional
+plots and therefore running 12 additional tests. The results are shown below:
+<br>
+<br>
+
 <h4 style="color:purple;">  Correlation Coefficients and P-Values: </h4>
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Relationship</th>
@@ -91,12 +187,74 @@
 </tr>
 </tbody></table>
 
+One challenge we faced when evaluating the model was that there were a few outliers in the number of likes and retweets. These data points had likes and retweet values much larger than the other data points and skewed our plots, so we decided to remove them to try and fit our model more accurately. To do this we cut off the data at the 0.95-quantile for likes and retweets. As we continue to work on refining our analysis, I think we should revisit how we are handling outliers and try and figure out why these outliers exist.
+<br>
+<br>
+Another issue that we should consider in the future is the possibility of there being confounding variables. In particular, we know that over the past few years general awareness around the effects of climate change and understanding of climate science has been increasing. It is possible that the number of tweets about climate are greater because there is more general awareness, and recycling rates have increased because people are becoming more environmentally conscious.
+
+
+
+<h3> Interpretation of Results </h3>
+
+<strong>Null hypothesis:</strong> There is no significant linear relationship between Twitter engagement
+on climate topics and recycling behavior.
+<br>
+<br>
+<strong>Alternate hypothesis:</strong> There is a significant linear relationship between Twitter
+engagement on climate topics and recycling behavior.
+<br>
+<br>
+Although some statistic-city pairs did not show a significant correlation between
+engagement and diversion rate, our overall engagement statistic, which aggregated
+the data across all cities and computed a weighted average of all the Twitter
+statistics, normalized by overall Twitter usage and geotagging rates over time,
+was significantly correlated with recycling diversion rate with a <strong> p-value of 0.04</strong>.
+Our <strong>significance level was 0.05</strong>, so with this p-value we reject the null hypothesis
+and conclude that there is evidence to show that there is a significant linear
+relationship between Twitter engagement on climate topics and recycling behavior.
+<br>
+<br>
+In the additional 12 tests we ran between Twitter metrics and diversion rate, only 5 were significant. This lack of consistency in significance could be a product of irregularities between city cultures. Nevertheless, we saw a positive correlation in all samples, and seeing as our overall statistic was significant, we are inclined to reject the null hypothesis in favor of the alternate hypothesis.
+
+
+
+<h3> Visualizations </h3>
+
+
+<img src="figs/analysis/engagement_vs_diversion.png" width="500" style="display: block;
+      margin-left: auto;
+      margin-right: auto; float:bottom;">
+
+<br>
+<br>
+Our primary visualization will be our scatter plot of total Twitter engagement vs. recycling diversion rates for the three cities aggregated together. We believe this is our most important visualization as it encompassses our hypothesis most holistically and includes all of our data. We may also want to display some of our plots between more specific parts of our data to show variations between cities and the different twitter metrics. These are shown below:
+<br>
+<br>
+
+<img src="figs/analysis/agg_combined.png" width="700" style="display: block;
+      margin-left: auto;
+      margin-right: auto; float:bottom;">
+<img src="figs/analysis/by_city/tweets_combined.png" width="700" style="display: block;
+    margin-left: auto;
+    margin-right: auto; float:bottom;">
+<img src="figs/analysis/by_city/likes_combined.png" width="700" style="display: block;
+    margin-left: auto;
+    margin-right: auto; float:bottom;">
+<img src="figs/analysis/by_city/retweets_combined.png" width="700" style="display: block;
+    margin-left: auto;
+    margin-right: auto; float:bottom;">
+
+<br>
+<br>
+One challenge in both visualizing and analyzing our results was that our method for calculating Twitter engagement from the raw data made assumptions that the data inputted was a representation of the whole country (in using MAU, % geotagged, ave # followers stats for all of the U.S.). Because of this, we thought it would be a stretch to try to calculate engagement for specific cities, meaning we couldn’t get total twitter engagement graphs broken down by cities. We hope, however, that the specific-city graphs we do have together tell most of the story.
+<br>
+<br>
+Our final visualization will likely need to include a brief caption explaining the context of how we calculated Twitter engagement and what cities are represented in our results. We will also potentially include our calculated p-values and statistical significance in our visualizations, so we will want to include our methodology for getting these values in the caption as well.
+<br>
+<br>
+
 </div>
 </div>
-
-
-
-
 
 </body>
 </html>
