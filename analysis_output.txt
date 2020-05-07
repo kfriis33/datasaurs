@@ -1,0 +1,125 @@
+Analysis for Providence: 
+Pearson (num_tweets): 0.07 (0.55)
+Pearson (likes): 0.01 (0.93)
+Pearson (retweets): 0.00 (0.98)
+Pearson (engagement): 0.01 (0.94)
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:         diversion_rate   R-squared:                       0.155
+Model:                            OLS   Adj. R-squared:                  0.112
+Method:                 Least Squares   F-statistic:                     3.629
+Date:                Wed, 06 May 2020   Prob (F-statistic):            0.00911
+Time:                        17:07:51   Log-Likelihood:                -230.69
+No. Observations:                  84   AIC:                             471.4
+Df Residuals:                      79   BIC:                             483.5
+Df Model:                           4                                         
+Covariance Type:            nonrobust                                         
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+Intercept              14.2627      0.813     17.536      0.000      12.644      15.882
+C(holidays)[T.True]     3.3424      0.983      3.399      0.001       1.385       5.299
+C(campaign)[T.True]    -1.4691      0.926     -1.586      0.117      -3.313       0.375
+num_tweets              0.0471      0.047      1.012      0.315      -0.046       0.140
+engagement              0.0002      0.000      0.415      0.680      -0.001       0.001
+==============================================================================
+Omnibus:                        4.993   Durbin-Watson:                   0.817
+Prob(Omnibus):                  0.082   Jarque-Bera (JB):                4.713
+Skew:                           0.518   Prob(JB):                       0.0948
+Kurtosis:                       2.479   Cond. No.                     3.06e+03
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 3.06e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+MSE: 14.222639387236303
+VIF (large numbers show collinearity):
+num_tweets      1.061500
+likes         178.168960
+retweets      177.374748
+const           3.056814
+dtype: float64
+
+Analysis for Buffalo: 
+Pearson (num_tweets): 0.42 (0.00)
+Pearson (likes): 0.17 (0.12)
+Pearson (retweets): 0.20 (0.07)
+Pearson (engagement): 0.18 (0.11)
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:         diversion_rate   R-squared:                       0.513
+Model:                            OLS   Adj. R-squared:                  0.488
+Method:                 Least Squares   F-statistic:                     20.53
+Date:                Wed, 06 May 2020   Prob (F-statistic):           1.38e-11
+Time:                        17:07:51   Log-Likelihood:                -245.18
+No. Observations:                  83   AIC:                             500.4
+Df Residuals:                      78   BIC:                             512.4
+Df Model:                           4                                         
+Covariance Type:            nonrobust                                         
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+Intercept               8.8866      1.055      8.426      0.000       6.787      10.986
+C(holidays)[T.True]     6.5074      1.231      5.285      0.000       4.056       8.959
+C(campaign)[T.True]     7.4568      1.421      5.248      0.000       4.628      10.285
+num_tweets              0.0902      0.092      0.982      0.329      -0.093       0.273
+engagement              0.0007      0.003      0.244      0.808      -0.005       0.007
+==============================================================================
+Omnibus:                       64.947   Durbin-Watson:                   2.506
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              349.235
+Skew:                           2.470   Prob(JB):                     1.46e-76
+Kurtosis:                      11.751   Cond. No.                         638.
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+MSE: 21.54219276364013
+VIF (large numbers show collinearity):
+num_tweets     1.428689
+likes         44.192518
+retweets      45.898562
+const          2.739857
+dtype: float64
+
+Analysis for Seattle: 
+Pearson (num_tweets): 0.01 (0.93)
+Pearson (likes): -0.05 (0.63)
+Pearson (retweets): -0.02 (0.86)
+Pearson (engagement): -0.05 (0.68)
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:         diversion_rate   R-squared:                       0.128
+Model:                            OLS   Adj. R-squared:                  0.096
+Method:                 Least Squares   F-statistic:                     3.921
+Date:                Wed, 06 May 2020   Prob (F-statistic):             0.0115
+Time:                        17:07:52   Log-Likelihood:                -197.55
+No. Observations:                  84   AIC:                             403.1
+Df Residuals:                      80   BIC:                             412.8
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+Intercept              30.0915      0.566     53.161      0.000      28.965      31.218
+C(holidays)[T.True]     2.2329      0.661      3.379      0.001       0.918       3.548
+num_tweets              0.0005      0.005      0.100      0.921      -0.010       0.011
+engagement          -2.964e-05      0.000     -0.194      0.847      -0.000       0.000
+==============================================================================
+Omnibus:                        2.302   Durbin-Watson:                   1.269
+Prob(Omnibus):                  0.316   Jarque-Bera (JB):                2.088
+Skew:                          -0.286   Prob(JB):                        0.352
+Kurtosis:                       2.482   Cond. No.                     5.66e+03
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 5.66e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+MSE: 6.459999599957046
+VIF (large numbers show collinearity):
+num_tweets     1.551945
+likes         22.631996
+retweets      20.462993
+const          4.244516
+dtype: float64
