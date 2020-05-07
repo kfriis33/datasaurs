@@ -1,3 +1,45 @@
+Analysis for aggregated:
+Pearson (num_tweets): 0.31 (0.00)
+Pearson (likes): 0.03 (0.76)
+Pearson (retweets): 0.02 (0.82)
+Pearson (engagement): 0.03 (0.77)
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:         diversion_rate   R-squared:                       0.469
+Model:                            OLS   Adj. R-squared:                  0.449
+Method:                 Least Squares   F-statistic:                     23.55
+Date:                Wed, 06 May 2020   Prob (F-statistic):           5.04e-11
+Time:                        19:27:45   Log-Likelihood:                -181.11
+No. Observations:                  84   AIC:                             370.2
+Df Residuals:                      80   BIC:                             379.9
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+Intercept              18.3204      0.476     38.488      0.000      17.373      19.268
+C(holidays)[T.True]     3.9479      0.543      7.272      0.000       2.867       5.028
+num_tweets              0.0132      0.004      3.596      0.001       0.006       0.021
+engagement          -8.701e-05   8.24e-05     -1.056      0.294      -0.000    7.69e-05
+==============================================================================
+Omnibus:                       28.646   Durbin-Watson:                   2.101
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               48.583
+Skew:                           1.367   Prob(JB):                     2.82e-11
+Kurtosis:                       5.532   Cond. No.                     8.57e+03
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 8.57e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+MSE: 4.3673089790004465
+VIF (large numbers show collinearity):
+num_tweets     1.578442
+likes         34.096908
+retweets      31.273073
+const          4.568739
+dtype: float64
+
 Analysis for Providence: 
 Pearson (num_tweets): 0.07 (0.55)
 Pearson (likes): 0.01 (0.93)
@@ -9,7 +51,7 @@ Dep. Variable:         diversion_rate   R-squared:                       0.155
 Model:                            OLS   Adj. R-squared:                  0.112
 Method:                 Least Squares   F-statistic:                     3.629
 Date:                Wed, 06 May 2020   Prob (F-statistic):            0.00911
-Time:                        17:07:51   Log-Likelihood:                -230.69
+Time:                        19:27:45   Log-Likelihood:                -230.69
 No. Observations:                  84   AIC:                             471.4
 Df Residuals:                      79   BIC:                             483.5
 Df Model:                           4                                         
@@ -52,7 +94,7 @@ Dep. Variable:         diversion_rate   R-squared:                       0.513
 Model:                            OLS   Adj. R-squared:                  0.488
 Method:                 Least Squares   F-statistic:                     20.53
 Date:                Wed, 06 May 2020   Prob (F-statistic):           1.38e-11
-Time:                        17:07:51   Log-Likelihood:                -245.18
+Time:                        19:27:45   Log-Likelihood:                -245.18
 No. Observations:                  83   AIC:                             500.4
 Df Residuals:                      78   BIC:                             512.4
 Df Model:                           4                                         
@@ -93,7 +135,7 @@ Dep. Variable:         diversion_rate   R-squared:                       0.128
 Model:                            OLS   Adj. R-squared:                  0.096
 Method:                 Least Squares   F-statistic:                     3.921
 Date:                Wed, 06 May 2020   Prob (F-statistic):             0.0115
-Time:                        17:07:52   Log-Likelihood:                -197.55
+Time:                        19:27:45   Log-Likelihood:                -197.55
 No. Observations:                  84   AIC:                             403.1
 Df Residuals:                      80   BIC:                             412.8
 Df Model:                           3                                         
